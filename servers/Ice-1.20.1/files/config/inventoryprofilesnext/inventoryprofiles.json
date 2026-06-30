@@ -1,5 +1,25 @@
 {
     "ModSettings": {
+        "enable_profiles": {
+            "value": false
+        },
         "first_run": false
+    },
+    "AutoRefillSettings": {
+        "refill_armor": {
+            "value": false
+        },
+        "audio_durability_notification": {
+            "value": false
+        },
+        "audio_replace_success_notification": {
+            "value": false
+        },
+        "visual_replace_failed_notification": {
+            "value": false
+        },
+        "audio_replace_failed_notification": {
+            "value": false
+        }
     }
 }
