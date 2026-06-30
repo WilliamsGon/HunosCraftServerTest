@@ -1,0 +1,26 @@
+{
+    "trail": {
+    	"color": [132, 139, 154],
+    	"begin_pos": [0.0, 0.0, -0.1],
+    	"end_pos": [0.0, 0.0, -1.4],
+    	"lifetime": 4,
+		"interpolations": 1,
+    	"texture_path": "epicfight:textures/particle/katana_trail_end.png",
+    	"particle_type": "efn:bloom_trail"
+    },
+    "transforms": {
+    	"mainhand": {
+	    	"Tool_R": {
+	    		"translation": [0, 0.0, -0.5],
+	    		"rotation": [-90, 0, 0],
+	    		"scale": [1, 1, 1]
+	    	},
+	    	"Chest": {
+	    		"translation": [0.2, 0.2, 0.1],
+	    		"rotation": [0, -45, -45],
+	    		"scale": [1, 1, 1]
+	    	}
+    	}
+    },
+    "renderer": "minecraft:trident"
+}

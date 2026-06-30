@@ -1,0 +1,180 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pruebas"
+	group: ""
+	id: "202FF6C9206088C6"
+	images: [
+		{
+			color: 6547199
+			height: 5.0d
+			image: "atila_sources:textures/magic/magic-circle-23.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			color: 8743167
+			height: 5.0d
+			image: "atila_sources:textures/magic/magic-circle-22.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			height: 6.0d
+			image: "atila_sources:textures/magic/magic-circle-21.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 0.5d
+			y: -8.5d
+		}
+		{
+			color: 15662849
+			height: 7.0d
+			image: "atila_sources:textures/magic/magic-circle-20.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			height: 6.0d
+			image: "atila_sources:textures/magic/magic-circle-00.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: -8.5d
+			y: -1.5d
+		}
+		{
+			color: 7078227
+			height: 2.0d
+			image: "atila_sources:textures/magic/vortice-5.png"
+			order: 10
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			color: 16712597
+			height: 0.3d
+			image: "forbidden_arcanus:block/whirlwind_side"
+			order: 5
+			rotation: 0.0d
+			width: 4.0d
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			alpha: 100
+			color: 16712597
+			height: 0.7d
+			image: "atila_sources:textures/magic/glow-rectangle-02.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			color: 7078227
+			height: 2.0d
+			image: "atila_sources:textures/magic/vortice-5.png"
+			order: 10
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			color: 7584511
+			height: 2.0d
+			image: "atila_sources:textures/magic/vortice-5.png"
+			order: 10
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			color: 7584511
+			height: 2.0d
+			image: "atila_sources:textures/magic/vortice-5.png"
+			order: 10
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			color: 7584511
+			height: 0.3d
+			image: "forbidden_arcanus:block/whirlwind_side"
+			order: 5
+			rotation: 0.0d
+			width: 4.0d
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			alpha: 100
+			color: 7584511
+			height: 0.7d
+			image: "atila_sources:textures/magic/glow-rectangle-02.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			color: 16712567
+			height: 2.0d
+			image: "atila_sources:textures/magic/glow-03.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.0d
+			y: 1.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1F44FB4E132436B2"
+			shape: "none"
+			tasks: [{
+				id: "7E70F7B44CCE863B"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
+		}
+		{
+			id: "554E2365183A111C"
+			shape: "none"
+			tasks: [{
+				id: "4DBC6423131D504C"
+				item: {
+					Count: 1
+					id: "atilas_armors:diamond_mage_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+	]
+	title: "pruebas"
+}

@@ -1,0 +1,585 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "motor_creativo"
+	group: "246AD222C960FCAA"
+	icon: "create:creative_motor"
+	id: "61D82FF5FCF81F0E"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "create:creative_motor"
+			id: "060E183877D171C8"
+			shape: "diamond"
+			size: 3.0d
+			tasks: [{
+				id: "4D93A504C44CCBFF"
+				title: "Motor Creativo!!!"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["060E183877D171C8"]
+			hide_until_deps_complete: true
+			id: "1F30CA35A4292AE6"
+			tasks: [{
+				consume_items: true
+				count: 500L
+				id: "36910195B9ACA247"
+				item: { Count: 500, id: "minecraft:diorite" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["060E183877D171C8"]
+			hide_until_deps_complete: true
+			id: "16C1B7FE5533D388"
+			tasks: [{
+				consume_items: true
+				count: 3000L
+				id: "463629341E1C57BC"
+				item: { Count: 3000, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"16C1B7FE5533D388"
+				"1F30CA35A4292AE6"
+			]
+			hide_until_deps_complete: true
+			id: "39D82CA4C8720144"
+			tasks: [{
+				consume_items: true
+				count: 500L
+				id: "35A67861857BB91A"
+				item: { Count: 500, id: "minecraft:andesite" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["39D82CA4C8720144"]
+			hide_until_deps_complete: true
+			id: "79FFEBF8329B1006"
+			tasks: [{
+				consume_items: true
+				count: 128L
+				id: "65D5CBC32A3F1C8A"
+				item: { Count: 128, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["79FFEBF8329B1006"]
+			hide_until_deps_complete: true
+			id: "1664BCF4B41F8718"
+			tasks: [{
+				consume_items: true
+				count: 199L
+				id: "69C4F8ED64E33279"
+				item: { Count: 199, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1664BCF4B41F8718"]
+			id: "5586812B4BA18558"
+			tasks: [{
+				consume_items: true
+				count: 299L
+				id: "34572CD893A9A6D7"
+				item: { Count: 299, id: "create:brass_ingot" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["060E183877D171C8"]
+			hide_until_deps_complete: true
+			id: "7D574F796B58A335"
+			tasks: [{
+				consume_items: true
+				count: 30L
+				id: "217D40575E092CD1"
+				item: { Count: 30, id: "create:blaze_burner" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7D574F796B58A335"]
+			id: "1A11DBAFF480398D"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "2BE6BB6EB45B2032"
+				item: { Count: 50, id: "create:blaze_cake" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1A11DBAFF480398D"]
+			hide_until_deps_complete: true
+			id: "083B95EE0B170571"
+			tasks: [{
+				consume_items: true
+				count: 150L
+				id: "285D209CADB7F1C4"
+				item: "create:experience_block"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["060E183877D171C8"]
+			hide_until_deps_complete: true
+			id: "7E387EBEFD080BC1"
+			tasks: [{
+				consume_items: true
+				count: 500L
+				id: "1EF0482A20ADCFFB"
+				item: { Count: 300, id: "create:copper_sheet" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7E387EBEFD080BC1"]
+			hide_until_deps_complete: true
+			id: "1C6A69FF5E53B3FA"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "395D7A37E35318E6"
+				item: { Count: 100, id: "create:iron_sheet" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1C6A69FF5E53B3FA"]
+			hide_until_deps_complete: true
+			id: "4FD0595CE8611534"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "5B9EF36652C38C04"
+				item: { Count: 50, id: "create:brass_sheet" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["4FD0595CE8611534"]
+			hide_until_deps_complete: true
+			id: "18FF2478B3422F54"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "4BC8E9A37EE8E711"
+				item: { Count: 100, id: "create:brass_sheet" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["1E0659D40AD196CF"]
+			hide_until_deps_complete: true
+			id: "66E67F8DCF6044B0"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "6FC3657C0485B194"
+				item: "create:cut_granite"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["66E67F8DCF6044B0"]
+			id: "1852DDCF6EBDE8D6"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "6A9BC83BE236DAD8"
+				item: { Count: 100, id: "create:cut_granite_stairs" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1852DDCF6EBDE8D6"]
+			id: "12D782F25C5DA4A1"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "3A8367FABA56A851"
+				item: { Count: 100, id: "create:cut_granite_slab" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["12D782F25C5DA4A1"]
+			id: "406F3E95AA80092C"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "1B8CDB990404DAEC"
+				item: { Count: 100, id: "create:cut_granite_wall" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["056E35C121471F0B"]
+			hide_until_deps_complete: true
+			id: "0D1BE7583126119D"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "3BED03C61B279488"
+				item: { Count: 100, id: "create:cut_diorite" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0D1BE7583126119D"]
+			id: "13DAE00930D786D6"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "2733E3C4F76A23A3"
+				item: { Count: 100, id: "create:cut_diorite_stairs" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["13DAE00930D786D6"]
+			id: "5FB67F6D74DC5CD0"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "45534D46865819BD"
+				item: { Count: 100, id: "create:cut_diorite_slab" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5FB67F6D74DC5CD0"]
+			id: "3E613C8605DD8CA8"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "3D50726E721E2A3E"
+				item: { Count: 100, id: "create:cut_diorite_wall" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["372749949A9896DB"]
+			hide_until_deps_complete: true
+			id: "6D48455F86B4D056"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "2A2AD0EB710B8D27"
+				item: { Count: 100, id: "create:cut_andesite" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["30E0F1903F77406F"]
+			hide_until_deps_complete: true
+			id: "6BB8300DF3603048"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "2998CA8D599A7F41"
+				item: "create:cut_calcite"
+				type: "item"
+			}]
+			x: -12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6D48455F86B4D056"]
+			id: "2C8F5086694B6D76"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "5DA8F05BDAFE07D1"
+				item: { Count: 100, id: "create:cut_andesite_stairs" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2C8F5086694B6D76"]
+			id: "2FDAF736C602874C"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "4FCE5E0EA3B28A50"
+				item: { Count: 100, id: "create:cut_andesite_slab" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2FDAF736C602874C"]
+			id: "5593774616558B46"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "14FB0B65FF9EEAF5"
+				item: { Count: 100, id: "create:cut_andesite_wall" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6BB8300DF3603048"]
+			id: "2D83277F9F28B4B9"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "4BA11FC28C1A99A9"
+				item: { Count: 100, id: "create:cut_calcite_stairs" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2D83277F9F28B4B9"]
+			id: "286EA8EE63C9F1F0"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "131EE3A9BB081ECB"
+				item: { Count: 100, id: "create:cut_calcite_slab" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["286EA8EE63C9F1F0"]
+			id: "494E30208D14217C"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "1333DB04490D8B33"
+				item: { Count: 100, id: "create:cut_calcite_wall" }
+				type: "item"
+			}]
+			x: -15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["060E183877D171C8"]
+			hide_until_deps_complete: true
+			id: "1E0659D40AD196CF"
+			tasks: [{
+				consume_items: true
+				count: 500L
+				id: "21BC81ECDE85E8B7"
+				item: "minecraft:granite"
+				type: "item"
+			}]
+			x: -11.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["060E183877D171C8"]
+			hide_until_deps_complete: true
+			id: "056E35C121471F0B"
+			tasks: [{
+				count: 10L
+				id: "5613416D77F66C4B"
+				item: { Count: 100, id: "minecraft:diorite" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["060E183877D171C8"]
+			hide_until_deps_complete: true
+			id: "372749949A9896DB"
+			tasks: [{
+				count: 10L
+				id: "130556322E8F7BF5"
+				item: { Count: 10, id: "minecraft:andesite" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["060E183877D171C8"]
+			hide_until_deps_complete: true
+			id: "30E0F1903F77406F"
+			tasks: [{
+				count: 500L
+				id: "138C1A2398C5D7DF"
+				item: "minecraft:calcite"
+				type: "item"
+			}]
+			x: -11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"7D574F796B58A335"
+				"16C1B7FE5533D388"
+				"5593774616558B46"
+				"494E30208D14217C"
+				"1F30CA35A4292AE6"
+				"39D82CA4C8720144"
+				"1E0659D40AD196CF"
+				"7E387EBEFD080BC1"
+				"18FF2478B3422F54"
+				"13DAE00930D786D6"
+				"3E613C8605DD8CA8"
+				"5586812B4BA18558"
+				"406F3E95AA80092C"
+				"1664BCF4B41F8718"
+				"5FB67F6D74DC5CD0"
+				"4FD0595CE8611534"
+				"12D782F25C5DA4A1"
+				"79FFEBF8329B1006"
+				"6BB8300DF3603048"
+				"2FDAF736C602874C"
+				"056E35C121471F0B"
+				"30E0F1903F77406F"
+				"2D83277F9F28B4B9"
+				"060E183877D171C8"
+				"372749949A9896DB"
+				"1A11DBAFF480398D"
+				"083B95EE0B170571"
+				"2C8F5086694B6D76"
+				"6D48455F86B4D056"
+				"1852DDCF6EBDE8D6"
+				"0D1BE7583126119D"
+				"286EA8EE63C9F1F0"
+				"66E67F8DCF6044B0"
+				"1C6A69FF5E53B3FA"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "17AF9FDF3D83D2AD"
+			tasks: [{
+				id: "690CDC8427D3038D"
+				title: "Visitar Mundos"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["17AF9FDF3D83D2AD"]
+			icon: "minecraft:grass_block"
+			id: "6849299344F6B0F6"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:farmoverworld"
+				id: "7F8054E81D1D4750"
+				title: "Yendo al Farmeo"
+				type: "dimension"
+			}]
+			x: -11.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["17AF9FDF3D83D2AD"]
+			icon: "minecraft:netherrack"
+			id: "5C0DEE52935F95ED"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:farmnether"
+				id: "248A23AAE1669EAC"
+				title: "Yendo al Nether!"
+				type: "dimension"
+			}]
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["17AF9FDF3D83D2AD"]
+			icon: "undergarden:deepturf_block"
+			id: "3C1CB1AAC83E3BC7"
+			size: 2.0d
+			tasks: [{
+				dimension: "undergarden:undergarden"
+				id: "4B718C3FC5F7080E"
+				title: "Yendo al Undergarden!"
+				type: "dimension"
+			}]
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"6849299344F6B0F6"
+				"5C0DEE52935F95ED"
+				"3C1CB1AAC83E3BC7"
+			]
+			icon: "create:creative_motor"
+			id: "1EA0D977BDD6E429"
+			rewards: [{
+				id: "5338FCE79EB14881"
+				item: "create:creative_motor"
+				type: "item"
+			}]
+			size: 3.0d
+			tasks: [{
+				id: "0CD5731FA9DD0E68"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 6.0d
+		}
+	]
+	title: "Motor Creativo"
+}

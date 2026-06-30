@@ -1,0 +1,7 @@
+{
+	"pack": {
+		"pack_format": 15,
+			"supported_formats": [15,125],
+		"description": [{"text":"Retexture to Botania's third eye. By Mr. Nothing"}]
+	}
+}

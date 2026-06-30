@@ -1,0 +1,867 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "cueropiedra_2"
+	group: "3A7C616923904F66"
+	id: "3BB569D5745A7E67"
+	images: [{
+		height: 3.0d
+		image: "kubejs:textures/questpics/capitulos/hc_era_piedra.png"
+		rotation: 0.0d
+		width: 17.0d
+		x: 0.0d
+		y: -5.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Si hay que ser &6minero&r"
+				"Romper el pico en el hierro"
+				"No importa el creeper que venga"
+				"Pa' que sepas que te quiero"
+				"Como un buen minero"
+				"Me juego la vida por ti..."
+				""
+				"Asi como la musica &6Minero de Rubius&r ponete las pilas y comenza a minar, ahora estamos en la Era de Piedra, actualicemos esas herramientas de Madera primero, pero la &cArmadura de Cuero se queda&r, aun no se inventaron armaduras de Piedra, ¿o si?"
+				""
+				"De cualquier forma, aqui van algunas misiones para que te entretengas en esta nueva Era y tengas cositas para hacer."
+				""
+				"Suerte con los mobs que no perdonan nada."
+			]
+			icon: "minecraft:cobblestone"
+			id: "7B7728BB7E2A214B"
+			rewards: [{
+				id: "5C93C0B21031CAC1"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "51937C25999B6CDE"
+				title: "Era de Piedra"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7B7728BB7E2A214B"]
+			id: "0DD77CD51ACE354B"
+			tasks: [{
+				count: 500L
+				id: "7156EE7B261D272C"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7B7728BB7E2A214B"]
+			id: "54CDB31D045F9E7D"
+			tasks: [{
+				count: 100L
+				id: "2A380363A7685AFE"
+				item: { Count: 100, id: "minecraft:stone" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7B7728BB7E2A214B"]
+			id: "70D3E815A7DE5243"
+			tasks: [{
+				count: 200L
+				id: "5B4A2AEB7AB3994C"
+				item: { Count: 200, id: "minecraft:granite" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7B7728BB7E2A214B"]
+			id: "230123C9A5B970EB"
+			tasks: [{
+				count: 500L
+				id: "723E36CFCE4B957B"
+				item: { Count: 500, id: "minecraft:diorite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7B7728BB7E2A214B"]
+			id: "79ADD67F743B1A92"
+			tasks: [{
+				count: 100L
+				id: "31CBBAA8D1708E98"
+				item: { Count: 100, id: "minecraft:andesite" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7B7728BB7E2A214B"]
+			id: "6C2144817ABD0B42"
+			tasks: [{
+				count: 300L
+				id: "2141CD8E01EC78B9"
+				item: { Count: 100, id: "minecraft:tuff" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7B7728BB7E2A214B"]
+			id: "538B58DAC01DA60B"
+			tasks: [{
+				count: 100L
+				id: "30B728B2DDAED7CF"
+				item: { Count: 100, id: "minecraft:cobbled_deepslate" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7B7728BB7E2A214B"]
+			id: "608A7EF13F0779B8"
+			tasks: [{
+				count: 100L
+				id: "50652020B7C26B4B"
+				item: { Count: 100, id: "minecraft:blackstone" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "minecraft:stone_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "194F431FB1347645"
+			tasks: [{
+				count: 2L
+				id: "753F517610EEA5B7"
+				item: {
+					Count: 1
+					id: "minecraft:stone_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			id: "22514E1B66B43893"
+			tasks: [{
+				count: 2L
+				id: "21DBEE6A8CE3DE4E"
+				item: {
+					Count: 1
+					id: "minecraft:stone_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "minecraft:stone_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "0012B688C1B131A5"
+			tasks: [{
+				count: 2L
+				id: "6014DC895FF8AB8A"
+				item: {
+					Count: 1
+					id: "minecraft:stone_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			id: "4D210F2CE95475AA"
+			tasks: [{
+				count: 2L
+				id: "1FF79A83EE6F1848"
+				item: {
+					Count: 1
+					id: "minecraft:stone_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			id: "74FBDC72C44B029C"
+			tasks: [{
+				count: 2L
+				id: "28D72F6DF737D00D"
+				item: {
+					Count: 1
+					id: "minecraft:stone_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"194F431FB1347645"
+				"4D210F2CE95475AA"
+				"22514E1B66B43893"
+				"0012B688C1B131A5"
+				"74FBDC72C44B029C"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_copper"
+			id: "3FBE5193EEA46FCF"
+			rewards: [{
+				count: 2
+				id: "2D60C36E8B05ACF9"
+				item: "atilas_economy:dracma_copper"
+				type: "item"
+			}]
+			tasks: [{
+				id: "58CE9AF42CCA74C6"
+				title: "Herramientas Decentes"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"54CDB31D045F9E7D"
+				"608A7EF13F0779B8"
+				"538B58DAC01DA60B"
+				"230123C9A5B970EB"
+				"70D3E815A7DE5243"
+				"79ADD67F743B1A92"
+				"6C2144817ABD0B42"
+				"0DD77CD51ACE354B"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_copper"
+			id: "7ADD93B24CE34255"
+			rewards: [{
+				count: 10
+				id: "43C2E666BFC7A816"
+				item: "atilas_economy:dracma_copper"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C4FCF48BD63F17F"
+				title: "Licenciado en Geologia"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "7D9809E7F078DD06"
+			tasks: [{
+				id: "01DEA1E0F90D3AC3"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			id: "17DD740E3BBCABE3"
+			tasks: [{
+				count: 20L
+				id: "65F1F43AC3A70DC8"
+				item: { Count: 20, id: "minecraft:cobblestone_stairs" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			id: "0DBD1BACA2AB5CF0"
+			tasks: [{
+				count: 40L
+				id: "69AB5AFF7839A77B"
+				item: { Count: 40, id: "minecraft:cobblestone_slab" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			id: "09BF9229DAD8B002"
+			tasks: [{
+				count: 60L
+				id: "6B867A0D2CC52C56"
+				item: { Count: 60, id: "minecraft:cobblestone_wall" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.5d
+		}
+		{
+			id: "27F738519CDC607A"
+			tasks: [{
+				id: "31BAEE158A3F2F15"
+				item: "minecraft:granite"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			id: "395C2D527CFB3CAF"
+			tasks: [{
+				count: 20L
+				id: "678556C0A0ED5BF3"
+				item: { Count: 20, id: "minecraft:granite_stairs" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			id: "30C86627246E5C89"
+			tasks: [{
+				count: 40L
+				id: "12D2179E967E03B7"
+				item: { Count: 40, id: "minecraft:granite_slab" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			id: "19921D2F548A3962"
+			tasks: [{
+				count: 60L
+				id: "5A18796E2A7D5949"
+				item: { Count: 60, id: "minecraft:granite_wall" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			id: "11B67BB457A76ADE"
+			tasks: [{
+				id: "11D9391501FEBAFD"
+				item: "minecraft:diorite"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			id: "0CBE546C7F694C88"
+			tasks: [{
+				count: 20L
+				id: "2F9A75A292E23B60"
+				item: { Count: 20, id: "minecraft:diorite_stairs" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			id: "555E4BE3D8157CC1"
+			tasks: [{
+				count: 40L
+				id: "0B95F58FE7AD09BB"
+				item: { Count: 40, id: "minecraft:diorite_slab" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			id: "65BAF180DAAD7FFE"
+			tasks: [{
+				count: 60L
+				id: "0A8B21EC43F78434"
+				item: { Count: 60, id: "minecraft:diorite_wall" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			id: "4CC51A576EF9E96E"
+			tasks: [{
+				id: "679A085BA4679EC9"
+				item: "minecraft:andesite"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			id: "7EC14DA99F4D5AD4"
+			tasks: [{
+				count: 20L
+				id: "402C40D21AA63FAC"
+				item: { Count: 20, id: "minecraft:andesite_stairs" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			id: "1F5B985E633D0DB0"
+			tasks: [{
+				count: 40L
+				id: "0D22241E015B2F49"
+				item: { Count: 40, id: "minecraft:andesite_slab" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			id: "222ECB4B56ADD3E6"
+			tasks: [{
+				count: 60L
+				id: "71784DEB59D47654"
+				item: { Count: 60, id: "minecraft:andesite_wall" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			id: "1A6B0EFB5DC260E5"
+			tasks: [{
+				id: "29C05E4A5B3AC93D"
+				item: "minecraft:tuff"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			id: "650D12F7B11C913D"
+			tasks: [{
+				count: 20L
+				id: "7DDE1014F6EA9141"
+				item: { Count: 20, id: "quark:tuff_stairs" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			id: "1B73586B13428619"
+			tasks: [{
+				count: 40L
+				id: "209CFCF1D0995560"
+				item: { Count: 40, id: "quark:tuff_slab" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "4B595732AF2FF013"
+			tasks: [{
+				count: 60L
+				id: "44404CB8172F7E8F"
+				item: { Count: 60, id: "quark:tuff_wall" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			id: "5542C524F718E127"
+			tasks: [{
+				id: "6DA9D14E31C96F4B"
+				item: "minecraft:cobbled_deepslate"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			id: "7E764B678BE34621"
+			tasks: [{
+				count: 20L
+				id: "514306208CBC21B5"
+				item: { Count: 20, id: "minecraft:cobbled_deepslate_stairs" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			id: "2E4AAC687E47EC37"
+			tasks: [{
+				count: 40L
+				id: "405A52982C87EF1C"
+				item: { Count: 40, id: "minecraft:cobbled_deepslate_slab" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			id: "37A3960433E169A6"
+			tasks: [{
+				count: 60L
+				id: "3222C344C95A1A69"
+				item: { Count: 60, id: "minecraft:cobbled_deepslate_wall" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			id: "5CF529C9A4C593CE"
+			tasks: [{
+				id: "70CEAB478544ABA4"
+				item: "minecraft:blackstone"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			id: "7B5A7BEA1253ABFC"
+			tasks: [{
+				count: 20L
+				id: "337ADBA4E41A5C74"
+				item: { Count: 20, id: "minecraft:blackstone_stairs" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			id: "3B1018372F238C7A"
+			tasks: [{
+				count: 40L
+				id: "7C5D0112EAC96770"
+				item: { Count: 40, id: "minecraft:blackstone_slab" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			id: "778D9CB11F03A164"
+			tasks: [{
+				count: 60L
+				id: "33A1A89D26BC8B62"
+				item: { Count: 60, id: "minecraft:blackstone_wall" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			id: "585198447063248D"
+			tasks: [{
+				id: "0E5AFC4D2F05AE2A"
+				item: "minecraft:stone"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			id: "6F7264117097B75F"
+			tasks: [{
+				count: 20L
+				id: "091821610634FDD9"
+				item: { Count: 20, id: "minecraft:stone_stairs" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			id: "4DC5FD006F1EDC25"
+			tasks: [{
+				count: 40L
+				id: "6CE4DC4B3DA33FA1"
+				item: { Count: 40, id: "minecraft:stone_slab" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"27F738519CDC607A"
+				"7D9809E7F078DD06"
+				"1B73586B13428619"
+				"4CC51A576EF9E96E"
+				"30C86627246E5C89"
+				"1F5B985E633D0DB0"
+				"0DBD1BACA2AB5CF0"
+				"17DD740E3BBCABE3"
+				"09BF9229DAD8B002"
+				"2E4AAC687E47EC37"
+				"7E764B678BE34621"
+				"19921D2F548A3962"
+				"4B595732AF2FF013"
+				"5542C524F718E127"
+				"395C2D527CFB3CAF"
+				"650D12F7B11C913D"
+				"778D9CB11F03A164"
+				"7B5A7BEA1253ABFC"
+				"37A3960433E169A6"
+				"555E4BE3D8157CC1"
+				"65BAF180DAAD7FFE"
+				"6F7264117097B75F"
+				"222ECB4B56ADD3E6"
+				"7EC14DA99F4D5AD4"
+				"0CBE546C7F694C88"
+				"1A6B0EFB5DC260E5"
+				"5CF529C9A4C593CE"
+				"11B67BB457A76ADE"
+				"585198447063248D"
+				"3B1018372F238C7A"
+				"4DC5FD006F1EDC25"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_copper"
+			id: "356EB45082E5323A"
+			rewards: [{
+				count: 20
+				id: "30028024226B5A22"
+				item: "atilas_economy:dracma_copper"
+				type: "item"
+			}]
+			tasks: [{
+				id: "36D3E8B7A40BC8DA"
+				title: "Arquitecto Geologico"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			id: "0A835B95E8129730"
+			tasks: [{
+				id: "04B3E3188773719C"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			id: "4A30F0414232DDC9"
+			tasks: [{
+				id: "6FCD2FA84C63AAA3"
+				item: "minecraft:dispenser"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			id: "03429C6690F68572"
+			tasks: [{
+				consume_items: true
+				count: 128L
+				id: "1FAFA1819F62CD82"
+				item: "minecraft:stone_pressure_plate"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			id: "5E30FE54E77492F1"
+			tasks: [{
+				id: "12051E6F96C7D0BD"
+				item: "minecraft:dropper"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			id: "4081F008FA13F253"
+			tasks: [{
+				id: "7312726A737FE6B1"
+				item: "minecraft:grindstone"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			id: "76DBA014A2B763A0"
+			tasks: [{
+				id: "6BAF138489CFBE51"
+				item: "quark:stone_lamp"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			id: "7E648CA2A3C0A587"
+			tasks: [{
+				id: "4FDB06B7E923364A"
+				item: {
+					Count: 1
+					id: "justhammers:stone_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"03429C6690F68572"
+				"5E30FE54E77492F1"
+				"7E648CA2A3C0A587"
+				"0A835B95E8129730"
+				"76DBA014A2B763A0"
+				"4081F008FA13F253"
+				"4A30F0414232DDC9"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_copper"
+			id: "71A863BA3150796A"
+			rewards: [{
+				count: 10
+				id: "661D85E48136F9D5"
+				item: "atilas_economy:dracma_copper"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0172EE0A702ACDF3"
+				title: "A laburar"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"27F738519CDC607A"
+				"7D9809E7F078DD06"
+				"7E648CA2A3C0A587"
+				"4CC51A576EF9E96E"
+				"0DD77CD51ACE354B"
+				"30C86627246E5C89"
+				"1F5B985E633D0DB0"
+				"4A30F0414232DDC9"
+				"17DD740E3BBCABE3"
+				"0012B688C1B131A5"
+				"230123C9A5B970EB"
+				"7B5A7BEA1253ABFC"
+				"03429C6690F68572"
+				"194F431FB1347645"
+				"71A863BA3150796A"
+				"6F7264117097B75F"
+				"7B7728BB7E2A214B"
+				"222ECB4B56ADD3E6"
+				"0CBE546C7F694C88"
+				"0A835B95E8129730"
+				"1A6B0EFB5DC260E5"
+				"5CF529C9A4C593CE"
+				"1B73586B13428619"
+				"608A7EF13F0779B8"
+				"3FBE5193EEA46FCF"
+				"538B58DAC01DA60B"
+				"4081F008FA13F253"
+				"0DBD1BACA2AB5CF0"
+				"09BF9229DAD8B002"
+				"2E4AAC687E47EC37"
+				"7E764B678BE34621"
+				"19921D2F548A3962"
+				"4B595732AF2FF013"
+				"76DBA014A2B763A0"
+				"7ADD93B24CE34255"
+				"5542C524F718E127"
+				"395C2D527CFB3CAF"
+				"70D3E815A7DE5243"
+				"650D12F7B11C913D"
+				"778D9CB11F03A164"
+				"74FBDC72C44B029C"
+				"6C2144817ABD0B42"
+				"37A3960433E169A6"
+				"356EB45082E5323A"
+				"5E30FE54E77492F1"
+				"555E4BE3D8157CC1"
+				"65BAF180DAAD7FFE"
+				"22514E1B66B43893"
+				"7EC14DA99F4D5AD4"
+				"54CDB31D045F9E7D"
+				"4D210F2CE95475AA"
+				"79ADD67F743B1A92"
+				"11B67BB457A76ADE"
+				"585198447063248D"
+				"3B1018372F238C7A"
+				"4DC5FD006F1EDC25"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "minecraft:stone"
+			id: "333D67065A77B311"
+			shape: "none"
+			size: 2.0d
+			tasks: [{
+				id: "6082756865AF7457"
+				title: "Era Piedra Completada!"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+	]
+	title: "&6Cuero/Piedra"
+}

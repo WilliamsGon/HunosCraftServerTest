@@ -4,8 +4,8 @@
     "version": "1.0.0",
     "name": "Ice (Minecraft 1.20.1)",
     "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
+    "address": "162.83.176.103:25566",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -17,5 +17,23 @@
   "forge": {
     "version": "47.4.18"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "config/inventoryprofilesnext/*.cfg",
+        "config/inventoryprofilesnext/**/*.yml",
+        "config/inventoryprofilesnext/**/*.json",
+        "config/inventoryprofilesnext/**/*.txt",
+        "config/inventoryprofilesnext/**/*.properties",
+        "config/inventoryprofilesnext/**/*.xml",
+        "config/inventoryprofilesnext/**/*.toml",
+        "config/inventoryprofilesnext/**/*.log",
+        "config/inventoryprofilesnext/**/*.db",
+        "config/oculus.properties",
+        "shaderpacks/**/*.txt",
+        "options.txt"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,315 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "diamante"
+	group: "3A7C616923904F66"
+	id: "2AB65FFB3C774146"
+	images: [{
+		height: 3.0d
+		image: "kubejs:textures/questpics/capitulos/hc_era_diamante.png"
+		rotation: 0.0d
+		width: 22.0d
+		x: -2.0d
+		y: -3.0d
+	}]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&5Era de Diamante&r"
+				""
+				"Bienvenido a la Era mas esperada, empeza a trabajar y a conseguir muchos diamantes!!!"
+			]
+			icon: "minecraft:diamond_block"
+			id: "445F0F8437762C4D"
+			rewards: [{
+				id: "5B9243ACFEEAFBDF"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "423837E6DF8F6A0C"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["445F0F8437762C4D"]
+			id: "6E69A8BFD2D7409A"
+			tasks: [{
+				count: 2L
+				id: "5602362BCA413E72"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6E69A8BFD2D7409A"]
+			id: "49CD96E79F197CD6"
+			tasks: [{
+				count: 2L
+				id: "74DFE40F98A16B53"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["49CD96E79F197CD6"]
+			id: "71A0CC7B53F685F0"
+			tasks: [{
+				count: 2L
+				id: "2201F4D4224A5A46"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["71A0CC7B53F685F0"]
+			id: "68CD3460DCC09E61"
+			tasks: [{
+				count: 2L
+				id: "1C5A8480CD367BAC"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["445F0F8437762C4D"]
+			id: "26D3FA7B5F7CE09D"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "41AFCA0A2F653781"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["445F0F8437762C4D"]
+			id: "3463BB65D4DA6AC0"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "4821EA084FC7F914"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["445F0F8437762C4D"]
+			id: "0DE60D723E3BAC39"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "2BCE489CEBEA42B0"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["445F0F8437762C4D"]
+			id: "0B185D8AB8218772"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "7E87108855FBEB9B"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["445F0F8437762C4D"]
+			id: "5A5EE9B92601E64A"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "3C06DDDAC083017A"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"0B185D8AB8218772"
+				"0DE60D723E3BAC39"
+				"26D3FA7B5F7CE09D"
+				"3463BB65D4DA6AC0"
+				"5A5EE9B92601E64A"
+			]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_diamond"
+			id: "265E6708332EE1E5"
+			rewards: [{
+				id: "6DF09DB1BF874D69"
+				item: "atilas_economy:dracma_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				id: "528F408D56963924"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["68CD3460DCC09E61"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_diamond"
+			id: "317CEBF1668CE699"
+			rewards: [{
+				id: "59DF3687BC43CC11"
+				item: "atilas_economy:dracma_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				id: "572BD1870E65BEEB"
+				type: "checkmark"
+			}]
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["445F0F8437762C4D"]
+			id: "41D50FA1912D14B2"
+			tasks: [{
+				count: 9L
+				id: "1A7462C8C3992E40"
+				item: { Count: 9, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["41D50FA1912D14B2"]
+			id: "4F7A6A23E9EE0819"
+			tasks: [{
+				count: 2L
+				id: "27EAC8BE3A023333"
+				item: { Count: 2, id: "minecraft:diamond_block" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4F7A6A23E9EE0819"]
+			id: "756371B121BA3DE8"
+			tasks: [{
+				count: 2L
+				id: "2B0DF8C77D7487AA"
+				item: "minecraft:enchanting_table"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["756371B121BA3DE8"]
+			id: "41384C214B264D18"
+			tasks: [{
+				id: "10FFAECC31F1E2DE"
+				item: "minecraft:diamond_horse_armor"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["41384C214B264D18"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_diamond"
+			id: "58055B449B49B6E8"
+			rewards: [{
+				id: "1096B487261FC83C"
+				item: "atilas_economy:dracma_diamond"
+				type: "item"
+			}]
+			tasks: [{
+				id: "05D9990AB5C105C6"
+				title: "Explorador"
+				type: "checkmark"
+			}]
+			x: -10.5d
+			y: 0.5d
+		}
+	]
+	title: "&6Diamante"
+}

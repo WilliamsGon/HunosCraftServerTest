@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/nether_portal_with_overlay",
+  "textures": {
+    "overlay": "minecraft:block/nether_portal_22"
+  }
+}

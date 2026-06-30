@@ -1,0 +1,299 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "netherita"
+	group: "3A7C616923904F66"
+	id: "756303FF7A7BF88B"
+	images: [{
+		height: 2.5d
+		image: "kubejs:textures/questpics/capitulos/hc_era_netherita.png"
+		rotation: 0.0d
+		width: 17.0d
+		x: -1.5d
+		y: -6.0d
+	}]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0D8685DF9DE927C4"]
+			id: "74AC11E3E4E2547D"
+			tasks: [{
+				count: 3L
+				id: "192D8191ECD84E39"
+				item: "minecraft:ancient_debris"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["74AC11E3E4E2547D"]
+			id: "07F8B45F3CF64C86"
+			tasks: [{
+				count: 3L
+				id: "6C3AC4487EEA5554"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			icon: "minecraft:ancient_debris"
+			id: "0D8685DF9DE927C4"
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "168F4ECEB2ACFF89"
+				title: "Netherita"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["07F8B45F3CF64C86"]
+			id: "33C48E1448EB235B"
+			tasks: [{
+				count: 4L
+				id: "35286935D2C50283"
+				item: "minecraft:netherite_ingot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["33C48E1448EB235B"]
+			id: "710F6D0276996BFD"
+			tasks: [{
+				id: "0E1C5BBDCC681FC1"
+				item: "minecraft:netherite_block"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["33C48E1448EB235B"]
+			id: "7E8BAA59EA4BD978"
+			tasks: [{
+				id: "5DADD5B7FC551854"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["33C48E1448EB235B"]
+			id: "0A7AEE174EA0F2D2"
+			tasks: [{
+				id: "2A69FD542994F9F6"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["33C48E1448EB235B"]
+			id: "44359FDD43F45CAC"
+			tasks: [{
+				id: "15913DDBCA1E164B"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["33C48E1448EB235B"]
+			id: "13E3BFC3C8F5163E"
+			tasks: [{
+				id: "79ECC683D7AD0F58"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["33C48E1448EB235B"]
+			id: "7CB4D447341A49B8"
+			tasks: [{
+				id: "4141C727C0C3BDDC"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["33C48E1448EB235B"]
+			id: "171F23C2EB3E338E"
+			tasks: [{
+				id: "4AC79AF801FA5F1E"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["33C48E1448EB235B"]
+			id: "06184E3CB47E30BB"
+			tasks: [{
+				id: "342A42431996659C"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["33C48E1448EB235B"]
+			id: "0D3B846BEAFDCF22"
+			tasks: [{
+				id: "0692D96FF894CC44"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["33C48E1448EB235B"]
+			id: "0C55DAE914524322"
+			tasks: [{
+				id: "7ACE53759DE62CDC"
+				item: {
+					Count: 1
+					id: "minecraft:netherite_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["710F6D0276996BFD"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_netherite"
+			id: "7084F3524D9B61A4"
+			rewards: [{
+				id: "26AAA5F1A9595F97"
+				item: "atilas_economy:dracma_netherite"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B48F41AB14BF3F1"
+				title: "Completado!"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"44359FDD43F45CAC"
+				"7E8BAA59EA4BD978"
+				"7CB4D447341A49B8"
+				"13E3BFC3C8F5163E"
+				"0A7AEE174EA0F2D2"
+			]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_netherite"
+			id: "25E2695064DD2742"
+			rewards: [{
+				id: "11615D04B9C0D1CC"
+				item: "atilas_economy:dracma_netherite"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3AB60D2220D5E3DF"
+				title: "Completado"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"06184E3CB47E30BB"
+				"0C55DAE914524322"
+				"171F23C2EB3E338E"
+				"0D3B846BEAFDCF22"
+			]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_netherite"
+			id: "7164519B1E814BA3"
+			rewards: [{
+				id: "529E3B57360D3918"
+				item: "atilas_economy:dracma_netherite"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F4655F0D97A2204"
+				title: "Completado!"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+	]
+	title: "&6Netherita"
+}

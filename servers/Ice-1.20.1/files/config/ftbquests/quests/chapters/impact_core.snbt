@@ -1,0 +1,188 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "impact_core"
+	group: "246AD222C960FCAA"
+	icon: {
+		Count: 1
+		id: "justhammers:impact_core"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "5B44A2C0C53F6982"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				Count: 1
+				id: "justhammers:impact_core"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "6678EA45767E3495"
+			rewards: [{
+				id: "5445D1FD1632131E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 3.0d
+			tasks: [{
+				id: "4881A3257FEBC375"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["45629D479E296500"]
+			hide_until_deps_complete: true
+			id: "4A254F446D36E990"
+			tasks: [{
+				consume_items: true
+				count: 10000L
+				id: "70ABDB094D49D145"
+				item: "minecraft:netherrack"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6678EA45767E3495"]
+			hide_until_deps_complete: true
+			icon: "minecraft:crying_obsidian"
+			id: "45629D479E296500"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:nether"
+				id: "74DAF17CE0409372"
+				type: "dimension"
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6678EA45767E3495"]
+			hide_until_deps_complete: true
+			icon: "minecraft:grass_block"
+			id: "6AB6B82EB9E7BF3E"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:farmeo2"
+				id: "2554FCD94A5C2824"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6AB6B82EB9E7BF3E"]
+			hide_until_deps_complete: true
+			id: "43CBD34A6A7C34B6"
+			tasks: [{
+				consume_items: true
+				count: 20000L
+				id: "114223171B8B2432"
+				item: { Count: 20000, id: "minecraft:stick" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["43CBD34A6A7C34B6"]
+			hide_until_deps_complete: true
+			id: "32802B132783560C"
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "247C0A856BDBCD7D"
+				item: { Count: 64, id: "minecraft:gold_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["32802B132783560C"]
+			hide_until_deps_complete: true
+			id: "058FBBE65CB20097"
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "013D836A44E8E5DE"
+				item: { Count: 32, id: "minecraft:iron_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["058FBBE65CB20097"]
+			hide_until_deps_complete: true
+			id: "5343AD616DB1E449"
+			tasks: [{
+				consume_items: true
+				count: 128L
+				id: "5942420D209D6B8D"
+				item: { Count: 128, id: "minecraft:redstone_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"5343AD616DB1E449"
+				"0B878A3140FDBEF3"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				Count: 1
+				id: "justhammers:impact_core"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "73CE71D461573609"
+			rewards: [{
+				id: "4A7C5715D978E627"
+				item: {
+					Count: 1
+					id: "justhammers:impact_core"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "36EDC56CB5ED791B"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4A254F446D36E990"]
+			hide_until_deps_complete: true
+			id: "0B878A3140FDBEF3"
+			tasks: [{
+				consume_items: true
+				count: 1000L
+				id: "70702E28D664AFFA"
+				item: { Count: 1000, id: "minecraft:nether_brick" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+	]
+	title: "Impact Core"
+}

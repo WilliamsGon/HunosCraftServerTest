@@ -1,0 +1,585 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "hierro"
+	group: "3A7C616923904F66"
+	id: "25B290AAA2A71CE6"
+	images: [{
+		height: 3.0d
+		image: "kubejs:textures/questpics/capitulos/hc_era_hierro.png"
+		rotation: 0.0d
+		width: 17.0d
+		x: 0.5d
+		y: -3.0d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "minecraft:iron_block"
+			id: "7CDC4DE0B70BD5B6"
+			rewards: [{
+				id: "0AAC2284330FABBD"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "067FE9EED5ED65CE"
+				title: "¿No es Hierronico?"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "085A04E3EAE3ED03"
+			tasks: [{
+				count: 3L
+				id: "4C6497059A899AC4"
+				item: {
+					Count: 3
+					id: "minecraft:iron_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "48C40A77B89EC118"
+			tasks: [{
+				count: 3L
+				id: "48BD274DCBA33817"
+				item: {
+					Count: 3
+					id: "minecraft:iron_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "40E77A117D8A9C19"
+			tasks: [{
+				count: 3L
+				id: "79CDD1D730ED87BE"
+				item: {
+					Count: 3
+					id: "minecraft:iron_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "6DD1BC236841D091"
+			tasks: [{
+				count: 3L
+				id: "0A0EC1B52F7E5D9F"
+				item: {
+					Count: 3
+					id: "minecraft:iron_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "5203FC3A23782F07"
+			tasks: [{
+				count: 3L
+				id: "4E0D7202F1677C30"
+				item: {
+					Count: 1
+					id: "minecraft:iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "45131E28667860B1"
+			tasks: [{
+				count: 3L
+				id: "36F3CDF786F466AE"
+				item: {
+					Count: 3
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "140B0BE7A9517361"
+			tasks: [{
+				count: 3L
+				id: "01992D8D1790A71F"
+				item: {
+					Count: 3
+					id: "minecraft:iron_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "614873C2216D7947"
+			tasks: [{
+				count: 3L
+				id: "6574A7B42943B332"
+				item: {
+					Count: 3
+					id: "minecraft:iron_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "2B44751BA60E2E54"
+			tasks: [{
+				count: 3L
+				id: "363250FB771F1B7E"
+				item: {
+					Count: 3
+					id: "minecraft:iron_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "4EB0AD3A83D1AED5"
+			tasks: [{
+				count: 128L
+				id: "306DCD91793CA8D4"
+				item: { Count: 128, id: "minecraft:raw_iron" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "609E0C5EAB0B712F"
+			tasks: [{
+				count: 128L
+				id: "0982914175533281"
+				item: { Count: 128, id: "minecraft:raw_iron_block" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "5A04D558BEB59B11"
+			tasks: [{
+				count: 128L
+				id: "6EB1721116B60932"
+				item: { Count: 128, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "5E1FF192CC746670"
+			tasks: [{
+				count: 128L
+				id: "774579905F52C43A"
+				item: { Count: 128, id: "minecraft:iron_block" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "26C00AFFF8E14418"
+			tasks: [{
+				id: "0E36245DD94D40CE"
+				item: {
+					Count: 1
+					id: "farmersdelight:iron_knife"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "5E60D871E4BCBC5C"
+			tasks: [{
+				count: 5L
+				id: "3E4B42349E0B9370"
+				item: {
+					Count: 5
+					id: "justhammers:iron_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7CDC4DE0B70BD5B6"]
+			id: "438CF1AA5D2E453D"
+			tasks: [{
+				id: "32DCD969053F47AE"
+				item: "minecraft:stonecutter"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"614873C2216D7947"
+				"7CDC4DE0B70BD5B6"
+				"6DD1BC236841D091"
+				"609E0C5EAB0B712F"
+				"40E77A117D8A9C19"
+				"2B44751BA60E2E54"
+				"5203FC3A23782F07"
+				"26C00AFFF8E14418"
+				"5E1FF192CC746670"
+				"4EB0AD3A83D1AED5"
+				"5E60D871E4BCBC5C"
+				"45131E28667860B1"
+				"48C40A77B89EC118"
+				"438CF1AA5D2E453D"
+				"5A04D558BEB59B11"
+				"085A04E3EAE3ED03"
+				"140B0BE7A9517361"
+				"721D9DB72FABCC15"
+				"293E1E88DAF1F03B"
+				"2176326087E9ACC0"
+				"262FD7CE2FBB245B"
+				"45D9840F79AC43FB"
+				"4C02C7BC4A8A7455"
+				"0234FA6DBE712AE0"
+				"03A1AC5F42558E20"
+				"0CF51D754AE49CAA"
+				"733D0FFEBD79D134"
+				"2E59000A02EED429"
+				"79F941C0C30F2400"
+				"11EF7CDEE9BBCC50"
+				"6F6D4AC1751CF00E"
+			]
+			description: [
+				"Para completar la &5Era de Hierro&r"
+				""
+				"Hay una mision oculta que deben de cumplirla completa para poder completar la Era."
+				""
+				"Pista: Piensa en las formas de conseguir hierro"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "minecraft:raw_iron_block"
+			id: "328040CCCA7ACDE9"
+			shape: "none"
+			size: 2.0d
+			tasks: [{
+				id: "7DE830B869D2BD9D"
+				title: "¿Era Hierro Completado?"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["328040CCCA7ACDE9"]
+			hide_until_deps_complete: true
+			icon: "minecraft:iron_golem_spawn_egg"
+			id: "67298D39BFC088CD"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:iron_golem"
+				id: "482E5BB5FF61B7B4"
+				type: "kill"
+				value: 15L
+			}]
+			x: -1.25d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"6DD1BC236841D091"
+				"48C40A77B89EC118"
+				"40E77A117D8A9C19"
+				"085A04E3EAE3ED03"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "2176326087E9ACC0"
+			rewards: [{
+				count: 20
+				id: "39E6BD4CD98FD044"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3AAAC0E527C43822"
+				title: "Moda de Hierro"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"5E60D871E4BCBC5C"
+				"609E0C5EAB0B712F"
+				"438CF1AA5D2E453D"
+				"26C00AFFF8E14418"
+				"5A04D558BEB59B11"
+				"5E1FF192CC746670"
+				"4EB0AD3A83D1AED5"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "293E1E88DAF1F03B"
+			rewards: [{
+				count: 20
+				id: "13D48714DBCCD80F"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "11CA71432F5FF1E5"
+				title: "Minero Sofisticado en Hierro"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"614873C2216D7947"
+				"45131E28667860B1"
+				"2B44751BA60E2E54"
+				"5203FC3A23782F07"
+				"140B0BE7A9517361"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "721D9DB72FABCC15"
+			rewards: [{
+				count: 20
+				id: "03315032388E12E5"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7850FF892D6FC57B"
+				title: "Herrero de Hierro"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 5.0d
+		}
+		{
+			id: "2E59000A02EED429"
+			tasks: [{
+				count: 5L
+				id: "68A06C94C92A1463"
+				item: "minecraft:iron_door"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			id: "03A1AC5F42558E20"
+			tasks: [{
+				count: 5L
+				id: "6E5581D290C87D47"
+				item: "minecraft:iron_trapdoor"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			id: "0CF51D754AE49CAA"
+			tasks: [{
+				count: 10L
+				id: "63E43CBBA0C33732"
+				item: "quark:iron_ladder"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			id: "79F941C0C30F2400"
+			tasks: [{
+				count: 10L
+				id: "3C0157E9C2E30018"
+				item: "minecraft:heavy_weighted_pressure_plate"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			id: "262FD7CE2FBB245B"
+			tasks: [{
+				count: 10L
+				id: "3B10F145B30B5028"
+				item: "chipped:checkered_iron_lantern"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			id: "11EF7CDEE9BBCC50"
+			tasks: [{
+				count: 10L
+				id: "55AC79E145170481"
+				item: "chipped:iron_bowl_lantern"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			id: "733D0FFEBD79D134"
+			tasks: [{
+				count: 10L
+				id: "694EBBD7BF393A27"
+				item: "chipped:wrought_iron_lantern"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			id: "45D9840F79AC43FB"
+			tasks: [{
+				count: 5L
+				id: "3767ED0BD7E4658B"
+				item: "quark:iron_plate"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			id: "6F6D4AC1751CF00E"
+			tasks: [{
+				count: 5L
+				id: "2707BB068E764F11"
+				item: "quark:rusty_iron_plate"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			id: "0234FA6DBE712AE0"
+			tasks: [{
+				count: 10L
+				id: "2743029CC3E96BB3"
+				item: "quark:iron_pillar"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"262FD7CE2FBB245B"
+				"45D9840F79AC43FB"
+				"0234FA6DBE712AE0"
+				"03A1AC5F42558E20"
+				"0CF51D754AE49CAA"
+				"733D0FFEBD79D134"
+				"2E59000A02EED429"
+				"79F941C0C30F2400"
+				"11EF7CDEE9BBCC50"
+				"6F6D4AC1751CF00E"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "4C02C7BC4A8A7455"
+			rewards: [{
+				count: 20
+				id: "062483CD542B3516"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7A1941902ED18DD0"
+				title: "Cositas de Hierro"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: 4.5d
+		}
+	]
+	title: "&6Hierro"
+}

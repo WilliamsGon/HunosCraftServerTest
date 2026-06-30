@@ -1,0 +1,10 @@
+{
+  "priority": 50,
+  "style": "atilas_armors:default_style",
+  "filter": {
+    "type": "obscure_tooltips:mod",
+    "mods": [
+      "atilas_armors"
+    ]
+  }
+}

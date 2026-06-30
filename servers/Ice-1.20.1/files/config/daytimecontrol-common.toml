@@ -1,0 +1,9 @@
+
+["Day Night Duration Settings"]
+	#Number of ticks for daytime (default is 12000, higher values make the day longer)
+	#Range: 1 ~ 1000000
+	dayDurationTicks = 12000
+	#Number of ticks for nighttime (default is 12000, higher values make the night longer)
+	#Range: 1 ~ 1000000
+	nightDurationTicks = 12000
+

@@ -1,0 +1,176 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: "ftbquests:book"
+	id: "5B00676D79306EA2"
+	images: [
+		{
+			corner: true
+			height: 3.7163509471585248d
+			image: "kubejs:textures/questpics/welcome/hunoscraft-title.png"
+			rotation: 0.0d
+			width: 15.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			click: "https://discord.gg/TxB8buCbcX"
+			height: 1.0d
+			hover: ["Join the Discord!"]
+			image: "kubejs:textures/questpics/welcome/discord.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+	order_index: 0
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"El servidor es por &cEras&r, poco a poco se iran activando mas mods y minerales que podran utilizar."
+				""
+				"En el menu de la Izquierda podran ver las eras activadas por mision habilitada."
+			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/questpics/welcome/hunoscraft-atila.png"
+				}
+			}
+			id: "3BC0A50886A3222B"
+			rewards: [{
+				id: "4956CB79E44FB523"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			size: 3.0d
+			tasks: [{
+				id: "5A1784C5676CDC62"
+				title: "{atm9.quest.welcome.welcome}"
+				type: "checkmark"
+			}]
+			title: "Bienvenidos a HunosCraft 2"
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Las misiones estan por &cEras&r asi como por &6Mods&r, estos se iran desbloqueando de apoco dependiendo de la Era en que nos encontramos en el Servidor"
+				""
+				"{atm9.quest.welcome.desc.quests2}"
+			]
+			icon: "ftbquests:book"
+			id: "3708A4780ACEB34E"
+			min_width: 250
+			rewards: [{
+				id: "4A56DF6E0204666C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "52BB142F044075B4"
+				title: "{atm9.quest.welcome.quests}"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"El comando mas importante"
+				""
+				"&c/pais&r para definir el pais de donde Eres y que todos lo sepan en el Servidor."
+			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "ftbteams:textures/settings.png"
+				}
+			}
+			id: "7658C1C663394E85"
+			min_width: 350
+			rewards: [{
+				id: "5007C73E170C4FF6"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "10A16F89D4AD238D"
+				title: "{atm9.quest.welcome.commands}"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			description: [""]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "ftbteams:textures/teams.png"
+				}
+			}
+			id: "5AC1BE754210429E"
+			rewards: [{
+				id: "101D2FD24AB845AC"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "4F13A02FB0055A62"
+				title: "{atm9.quest.welcome.team}"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&lReglas Generales&r"
+				""
+				"&61&r. Evita el uso de lenguaje inapropiado y spam."
+				"&62.&r Está prohibido el uso de mods, hacks, exploits o cualquier ventaja injusta."
+				"&63.&r Respetar las Construcciones de los demas."
+				"&64.&r Cualquier estructura que cause lag será eliminada sin previo aviso."
+				"&65.&r Reporta cualquier error o bug al equipo de Staff."
+				"&66.&r Las granjas de experiencias estan prohibidas."
+				"&67.&r Respetar la Era en la que te encuentras."
+				"&68.&r No robar o grifear."
+				"&69.&r Matener una distancia razonable entre las construcciones."
+				"&610.&r Los Mundos de Farmeo son solo para eso, no se pueden construir casas."
+				""
+				"Si tienes alguna duda crea un ticket en &9Discord."
+			]
+			icon: "minecraft:writable_book"
+			id: "5B2872CB448122EC"
+			rewards: [{
+				id: "5CE98DCBEF6FD18E"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "4B4E425AC880B881"
+				title: "Reglas"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+	]
+	title: "&e{atm9.chapters.1.title}"
+}

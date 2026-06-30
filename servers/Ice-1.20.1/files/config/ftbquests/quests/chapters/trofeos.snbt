@@ -1,0 +1,673 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "trofeos"
+	group: ""
+	id: "6117EC0F648FE751"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Aqui se pueden conseguir los trofeos de cada pagina de Misiones, al completarlas estos se desbloquearan."
+				""
+				"Es una buena forma para presumir haber completado todas las misiones del Servidor."
+				""
+				"&cQue disfrutes HunosCraft Temporada 2."
+			]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "kubejs:textures/questpics/welcome/hunoscraft-atila.png"
+				}
+			}
+			id: "2FC378165DDD8377"
+			rewards: [{
+				id: "6385261CA6D3DC90"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			size: 4.0d
+			tasks: [{
+				id: "25D5419C3BBDB949"
+				title: "{atm9.quest.welcome.welcome}"
+				type: "checkmark"
+			}]
+			title: "HunosCraft Temporada 2"
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_ae2"
+					}
+				}
+			}
+			id: "3ABE6AC526304428"
+			rewards: [{
+				id: "25E5A7929F479CF1"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_ae2"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "7E5878C947F4A24C"
+				title: "Ae2 Completado"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_artifacts"
+					}
+				}
+			}
+			id: "7E577A2409C4006B"
+			rewards: [{
+				id: "5C70C88290C1A3E5"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_artifacts"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "69B65CD47184DE75"
+				title: "Artifacts Completado!"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1883B79BDB2AAE5D"]
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_botania"
+					}
+				}
+			}
+			id: "646DBFC285FD62F3"
+			rewards: [{
+				id: "47EE42DC4404547A"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_botania"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "3A3F96061DC56182"
+				title: "Botania Completado!"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["59395B6806F2A98A"]
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_cataclysm"
+					}
+				}
+			}
+			id: "7460ADCCC2603980"
+			rewards: [{
+				id: "0276D9DEDC7691A6"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_cataclysm"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "586BCF51BCDEAF68"
+				title: "Cataclysm Completado!"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_cognition"
+					}
+				}
+			}
+			id: "72A83C9522D291B4"
+			rewards: [{
+				id: "449E1BB6BC540079"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_cognition"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "078ABCB331848366"
+				title: "Cognition Completado!"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["100C477F4E63F20A"]
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_create"
+					}
+				}
+			}
+			id: "0792CF6A76B75D91"
+			rewards: [{
+				id: "500EC64C98339E82"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_create"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "29AD8BF2A3ABE2B3"
+				title: "Create Completado!"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_croptopia"
+					}
+				}
+			}
+			id: "1A2563B6601FFFC2"
+			rewards: [{
+				id: "78BBC336B4172657"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_croptopia"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "0DE2ADF888BAE685"
+				title: "Croptopia Completado!"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_ender_dragon"
+					}
+				}
+			}
+			id: "7A3CC73AFA318EDC"
+			rewards: [{
+				id: "5D46473630728027"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_ender_dragon"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [
+				{
+					id: "6B4EC6A13500005B"
+					title: "Ender Dragon Completado!"
+					type: "checkmark"
+				}
+				{
+					advancement: "minecraft:end/kill_dragon"
+					criterion: ""
+					id: "3488CA7F3C138493"
+					type: "advancement"
+				}
+			]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["7A1E701A1FCDEFA6"]
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_farmers_delight"
+					}
+				}
+			}
+			id: "5575545F13C1D025"
+			rewards: [{
+				id: "647D65F3EC332083"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_farmers_delight"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "487FEA2A5418F21F"
+				title: "Farmer's Delight Completado!"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_industrial_foregoing"
+					}
+				}
+			}
+			id: "72FCE49DABBAC05B"
+			rewards: [{
+				id: "652CC8B0512D97E8"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_industrial_foregoing"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "00F338147D627E28"
+				title: "Industrial Foregoing Completado!"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["73180B829B960E63"]
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_iron_furnace"
+					}
+				}
+			}
+			id: "589E64E79A3CE11E"
+			rewards: [{
+				id: "14A8769DE463E220"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_iron_furnace"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "6901B40B22AE2E1A"
+				title: "Iron Furnaces Completado!"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D820F89F2B3940E"]
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_just_hammer"
+					}
+				}
+			}
+			id: "085EFB863C682265"
+			rewards: [{
+				id: "73C7654B817F3EE3"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_just_hammer"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "33E840F09997D831"
+				title: "Just Hammer Completado!"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_mekanism"
+					}
+				}
+			}
+			id: "11BDC3CB02EBA9DE"
+			rewards: [{
+				id: "0FAFB88AD5BD3EE6"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_mekanism"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "5588C734EA913505"
+				title: "Mekanism Completado!"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_mekanism_advance"
+					}
+				}
+			}
+			id: "28C2A8D99D0247D6"
+			rewards: [{
+				id: "11C7A6C09B34BAA1"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_mekanism_advance"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "1366B1CAB623FED6"
+				title: "Mekanism Avanzado Completado!"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_underground"
+					}
+				}
+			}
+			id: "647132EB32662513"
+			rewards: [{
+				id: "3B6A9CC8947104A6"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_underground"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "7B120941B1C725CD"
+				title: "Underground Completado!"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_tombstone"
+					}
+				}
+			}
+			id: "570C450C49A63B83"
+			rewards: [{
+				id: "7987DAEC1C1D3100"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_tombstone"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				advancement: "tombstone:adventure/master_disenchanter"
+				criterion: ""
+				id: "37B4A0C83BCD5DD4"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1DB294A8F8686321"]
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_sophisticatedbackpacks"
+					}
+				}
+			}
+			id: "521CE76B5F9B4B23"
+			rewards: [{
+				id: "05DA282E735D64C4"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_sophisticatedbackpacks"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "264939CB0CAA792F"
+				title: "Sophisticated Backpack Completado!"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1DB294A8F8686321"]
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "trofers:trophies/trophy_sophisticatedstorage"
+					}
+				}
+			}
+			id: "3F37732943B57B8E"
+			rewards: [{
+				id: "3EE28C0251F6EE39"
+				item: {
+					Count: 1
+					id: "trofers:large_pillar"
+					tag: {
+						BlockEntityTag: {
+							Trophy: "trofers:trophies/trophy_sophisticatedstorage"
+						}
+					}
+				}
+				type: "item"
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				id: "74E2CDDB216535A4"
+				title: "Sophisticated Storage Completado!"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+	]
+	title: "Trofeos"
+}

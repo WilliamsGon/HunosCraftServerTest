@@ -1,0 +1,1300 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nether"
+	group: "0C68766A01743E7F"
+	id: "507C63E24CAFD970"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1B4BCC905A65B76F"]
+			hide_until_deps_complete: true
+			icon: "minecraft:obsidian"
+			id: "6108913789A802C0"
+			rewards: [
+				{
+					id: "619B683B406B3FBE"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 2
+					id: "23C592F169D325F0"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "4A1627AC2BAB005F"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:fire_resistance"
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 1.0d
+			tasks: [{
+				id: "0729AEFB42E1DB12"
+				title: "Vamos al Nether!"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			id: "1B4BCC905A65B76F"
+			rewards: [{
+				id: "61EEE698FB7D2F22"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "none"
+			size: 3.0d
+			tasks: [{
+				dimension: "minecraft:nether"
+				id: "5B959CCDBEA57BEB"
+				title: "Nether!"
+				type: "dimension"
+			}]
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["6108913789A802C0"]
+			hide_until_deps_complete: true
+			id: "3A850CE4A1A56A5F"
+			tasks: [{
+				count: 200L
+				id: "414F3A57B0F44BEE"
+				item: { Count: 200, id: "minecraft:obsidian" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3A850CE4A1A56A5F"]
+			id: "04C9DFCA92C2E3F4"
+			tasks: [{
+				count: 100L
+				id: "5F24F6DBEA0E6287"
+				item: { Count: 100, id: "minecraft:crying_obsidian" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["6108913789A802C0"]
+			hide_until_deps_complete: true
+			id: "28FF88B85C5F2C61"
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "66D0FBBA0BB0230F"
+				item: "minecraft:nether_gold_ore"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["28FF88B85C5F2C61"]
+			id: "153DB6BCFD13067D"
+			tasks: [{
+				consume_items: true
+				count: 300L
+				id: "37CC7076C06BEC66"
+				item: "minecraft:nether_quartz_ore"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["153DB6BCFD13067D"]
+			id: "0B6EA1984CF9C18D"
+			tasks: [{
+				consume_items: true
+				count: 300L
+				id: "1D489000018B7098"
+				item: "minecraft:quartz"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0B6EA1984CF9C18D"]
+			id: "78EA1F3B26DD6B9C"
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "7822ED59F2BD8F69"
+				item: "minecraft:quartz_block"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["78EA1F3B26DD6B9C"]
+			id: "770F87DC2C550E6D"
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "3024B46982A4FF29"
+				item: "minecraft:quartz_stairs"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["770F87DC2C550E6D"]
+			id: "44376FD587E3AD8A"
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "28A55B798DCA7F23"
+				item: "minecraft:quartz_slab"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0B6EA1984CF9C18D"]
+			id: "11136433B73F6E64"
+			tasks: [{
+				consume_items: true
+				count: 300L
+				id: "2F35A2FAAF65D0D7"
+				item: "minecraft:smooth_quartz"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["11136433B73F6E64"]
+			id: "76826CEC32778B03"
+			tasks: [{
+				consume_items: true
+				count: 300L
+				id: "471631F6CD519D36"
+				item: "minecraft:smooth_quartz_stairs"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["76826CEC32778B03"]
+			id: "412A74510EFC658B"
+			tasks: [{
+				consume_items: true
+				count: 300L
+				id: "4BAE66FB09FD19AA"
+				item: "minecraft:smooth_quartz_slab"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6108913789A802C0"]
+			hide_until_deps_complete: true
+			id: "4DB70F9F37139041"
+			tasks: [{
+				consume_items: true
+				id: "31A8F11506C4BC82"
+				item: "minecraft:netherrack"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4DB70F9F37139041"]
+			hide_until_deps_complete: true
+			id: "57905B70EC45A0D3"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "2C94EF43145BE71A"
+				item: { Count: 100, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["57905B70EC45A0D3"]
+			id: "15D392F83F87AB89"
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "56561DB5B30E69A6"
+				item: { Count: 200, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["15D392F83F87AB89"]
+			id: "059AB5AF5C098948"
+			tasks: [{
+				consume_items: true
+				count: 300L
+				id: "63A750A14AC06CDC"
+				item: { Count: 300, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["059AB5AF5C098948"]
+			id: "4B46E35EB452B7E4"
+			tasks: [{
+				consume_items: true
+				count: 400L
+				id: "2699EA2C05BEFEDC"
+				item: { Count: 400, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4B46E35EB452B7E4"]
+			id: "0E0F52BDCDEB0A67"
+			tasks: [{
+				consume_items: true
+				count: 500L
+				id: "5FE1DD43F90F1211"
+				item: { Count: 500, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0E0F52BDCDEB0A67"]
+			hide_until_deps_complete: true
+			id: "3F22DD0FC460988C"
+			tasks: [{
+				consume_items: true
+				count: 600L
+				id: "002F0725661ED573"
+				item: { Count: 600, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3F22DD0FC460988C"]
+			id: "2464122BC37372AC"
+			tasks: [{
+				consume_items: true
+				count: 700L
+				id: "66AD0EB6F913D1E2"
+				item: { Count: 700, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2464122BC37372AC"]
+			id: "54AB1A7D4DE84F5A"
+			tasks: [{
+				consume_items: true
+				count: 800L
+				id: "0AB036C3693031DE"
+				item: { Count: 800, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["54AB1A7D4DE84F5A"]
+			id: "67E27D0CA6111FD6"
+			tasks: [{
+				consume_items: true
+				count: 900L
+				id: "7189C3C1404CF7D5"
+				item: { Count: 900, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["67E27D0CA6111FD6"]
+			id: "5DE49263B2000268"
+			tasks: [{
+				consume_items: true
+				count: 1000L
+				id: "6576F9F118C17D5A"
+				item: { Count: 1000, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5DE49263B2000268"]
+			hide_until_deps_complete: true
+			id: "2DECB95E7AA5EFAE"
+			tasks: [{
+				consume_items: true
+				count: 1100L
+				id: "4C6AEF85BFD63C75"
+				item: { Count: 1100, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2DECB95E7AA5EFAE"]
+			id: "1A44615EDB519E79"
+			tasks: [{
+				consume_items: true
+				count: 1200L
+				id: "55A148D4DFCC0081"
+				item: { Count: 1200, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1A44615EDB519E79"]
+			id: "5F1310BDE02BA333"
+			tasks: [{
+				consume_items: true
+				count: 1300L
+				id: "5506EA4173DD56E2"
+				item: { Count: 1300, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5F1310BDE02BA333"]
+			id: "56FBD69D3C2B7F83"
+			tasks: [{
+				consume_items: true
+				count: 1400L
+				id: "7279BE81F9A9D9ED"
+				item: { Count: 1400, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["56FBD69D3C2B7F83"]
+			id: "0BBFF661B05AE4DC"
+			tasks: [{
+				consume_items: true
+				count: 1500L
+				id: "6FD21E5B1FCD4646"
+				item: { Count: 1500, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["0BBFF661B05AE4DC"]
+			hide_until_deps_complete: true
+			id: "052D1EBBFE7D30EE"
+			tasks: [{
+				consume_items: true
+				count: 1600L
+				id: "699BC9CC1D9AFB82"
+				item: { Count: 1600, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["052D1EBBFE7D30EE"]
+			id: "690ADDEF8BA13F7E"
+			tasks: [{
+				consume_items: true
+				count: 1700L
+				id: "25DF77F5714F7D8E"
+				item: { Count: 1700, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["690ADDEF8BA13F7E"]
+			id: "37FFEBD2042F7C01"
+			tasks: [{
+				consume_items: true
+				count: 1800L
+				id: "61CB4B43D096AC30"
+				item: { Count: 1800, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["37FFEBD2042F7C01"]
+			id: "1C82C98678AA9E52"
+			tasks: [{
+				consume_items: true
+				count: 1900L
+				id: "68505410EF0A15EB"
+				item: { Count: 1900, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1C82C98678AA9E52"]
+			id: "2A006ED56195DA47"
+			tasks: [{
+				consume_items: true
+				count: 2000L
+				id: "72D290B7B8C49D72"
+				item: { Count: 2000, id: "minecraft:netherrack" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0E0F52BDCDEB0A67"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "41197DBA44C416E9"
+			rewards: [{
+				id: "532B25D31AAC31C0"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "24FD7D7BE319512D"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5DE49263B2000268"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "0D60CA0EDA7F12A6"
+			rewards: [{
+				count: 2
+				id: "3427555A9A8F93CA"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3470C2F2BCC59DF2"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0BBFF661B05AE4DC"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "74037A5E40208DD3"
+			rewards: [{
+				count: 3
+				id: "12BA94AF26C1E371"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "22524AFAB8EF2533"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2A006ED56195DA47"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "4F227DA49FC2A5E6"
+			rewards: [{
+				count: 4
+				id: "1B5E158CA713CB05"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "39D901BB62CBFD3C"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4DB70F9F37139041"]
+			hide_until_deps_complete: true
+			id: "51AE41DA2E47DE8E"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "5D396DD223B8C83A"
+				item: "quark:netherrack_bricks"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["51AE41DA2E47DE8E"]
+			id: "2B28893D9B6C4BB4"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "394D6DE2535F8877"
+				item: "quark:netherrack_bricks_stairs"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2B28893D9B6C4BB4"]
+			id: "63AA7A54B944DB16"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "3A965C03E4B72264"
+				item: "quark:netherrack_bricks_slab"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["63AA7A54B944DB16"]
+			id: "7AB625233ABF3CFF"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "3659409B9E8B6100"
+				item: "quark:netherrack_bricks_wall"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["476B19395640E12B"]
+			hide_until_deps_complete: true
+			id: "3B448BD27C3FC0C4"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "28B6BF19738D7B4D"
+				item: "minecraft:nether_bricks"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3B448BD27C3FC0C4"]
+			id: "5AEEA8EBA355007D"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "5C17D631370F0945"
+				item: "minecraft:nether_brick_stairs"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5AEEA8EBA355007D"]
+			id: "55028CBA7FCAE7B6"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "0A6FE0708442D40E"
+				item: "minecraft:nether_brick_slab"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["55028CBA7FCAE7B6"]
+			id: "483C1E085EEE809C"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "037F98F41BBDF56C"
+				item: "minecraft:nether_brick_wall"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["59136C1C67774075"]
+			hide_until_deps_complete: true
+			id: "21BA0C06DAA4F2ED"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "7C42D78DA859058A"
+				item: "minecraft:red_nether_bricks"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["21BA0C06DAA4F2ED"]
+			id: "11FF4042BBB5BEA6"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "50BE8183FC580274"
+				item: "minecraft:red_nether_brick_stairs"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["11FF4042BBB5BEA6"]
+			id: "7ED2F852993BE908"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "3CA484FA926C1478"
+				item: "minecraft:red_nether_brick_slab"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["7ED2F852993BE908"]
+			id: "5DEFF82AA5A16265"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "7C6DAC23E5FE6832"
+				item: "minecraft:red_nether_brick_wall"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3518BB0535097EB3"]
+			hide_until_deps_complete: true
+			id: "640919C9612D6887"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "233C5BE927F6FA07"
+				item: "quark:blue_nether_bricks"
+				type: "item"
+			}]
+			x: -8.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["640919C9612D6887"]
+			id: "4FE5202EC579176B"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "30582B89C49FC4E0"
+				item: "quark:blue_nether_bricks_stairs"
+				type: "item"
+			}]
+			x: -9.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["4FE5202EC579176B"]
+			id: "789F661316E6AC93"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "1955D418A28A0CB6"
+				item: "quark:blue_nether_bricks_slab"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["789F661316E6AC93"]
+			id: "553D2D0A13D6B76F"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "5A5050ED46AB6977"
+				item: "quark:blue_nether_bricks_wall"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["6108913789A802C0"]
+			hide_until_deps_complete: true
+			id: "052482A8B596EE4E"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "1037D37EFB9406A4"
+				item: "minecraft:nether_wart"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["052482A8B596EE4E"]
+			id: "67176C75F605C55E"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "1907999982F931E9"
+				item: "minecraft:nether_wart_block"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4DB70F9F37139041"]
+			hide_until_deps_complete: true
+			id: "476B19395640E12B"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "612A5C477FF99EBE"
+				item: "minecraft:nether_brick"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["67176C75F605C55E"]
+			id: "59136C1C67774075"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "18DCE2ED7F7E14E6"
+				item: "quark:nether_wart_sack"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6108913789A802C0"]
+			hide_until_deps_complete: true
+			id: "30019A780E4FFA40"
+			tasks: [{
+				consume_items: true
+				count: 10L
+				id: "53104C68A39A1B63"
+				item: "netherexp:warped_wart"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["30019A780E4FFA40"]
+			id: "3518BB0535097EB3"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "73070C572D6AE746"
+				item: "minecraft:warped_wart_block"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["553D2D0A13D6B76F"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "47C8AE481EA2AAB3"
+			rewards: [{
+				count: 2
+				id: "12464B4770F47B98"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "158CDAE6CE358104"
+				type: "checkmark"
+			}]
+			x: -12.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["5DEFF82AA5A16265"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "0AD251394B3F11EC"
+			rewards: [{
+				count: 2
+				id: "23912117A912723F"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "372183DDFAE9D145"
+				type: "checkmark"
+			}]
+			x: -12.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["483C1E085EEE809C"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "65D51438F7289C66"
+			rewards: [{
+				count: 2
+				id: "1275C9457BC21E09"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1712FA6E36E19DCF"
+				type: "checkmark"
+			}]
+			x: -12.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7AB625233ABF3CFF"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "024980BFD554383E"
+			rewards: [{
+				count: 2
+				id: "6546AED527B67EB3"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0164DA993661552B"
+				type: "checkmark"
+			}]
+			x: -12.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["44376FD587E3AD8A"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "2B71CD80BF0FD892"
+			rewards: [{
+				id: "47D4668BED0A0C78"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D6213DFB08E3E1E"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["412A74510EFC658B"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "6358FEDF1A05FDDB"
+			rewards: [{
+				id: "4F94B74C3BFA896C"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5B9574F5CA8B4630"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1B4BCC905A65B76F"]
+			hide_until_deps_complete: true
+			id: "07A16F68B80BD9B4"
+			tasks: [{
+				consume_items: true
+				count: 500L
+				id: "015D17F38ECD4A3A"
+				item: { Count: 500, id: "minecraft:soul_sand" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["07A16F68B80BD9B4"]
+			hide_until_deps_complete: true
+			id: "45A9A083DBCC27C2"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "5FE01AB5FC573BCE"
+				item: { Count: 100, id: "minecraft:soul_soil" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["45A9A083DBCC27C2"]
+			id: "4E15CCCDA0D76A5E"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "172C00ADAF4E9008"
+				item: { Count: 50, id: "quark:soul_sandstone" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["4E15CCCDA0D76A5E"]
+			icon: "quark:soul_sandstone_stairs"
+			id: "53D6BAB990890C8A"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "018CDF651EEE556F"
+				item: { Count: 50, id: "quark:soul_sandstone_stairs" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["53D6BAB990890C8A"]
+			id: "7B72C9E0D06ABCCF"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "507BC624DFFCA711"
+				item: { Count: 50, id: "quark:soul_sandstone_slab" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["7B72C9E0D06ABCCF"]
+			id: "04149A36AA94735F"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "16C1DE919B5874EE"
+				item: { Count: 50, id: "quark:soul_sandstone_wall" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["45A9A083DBCC27C2"]
+			id: "720EA89BB08ABFAF"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "0E7831EED77A0CC3"
+				item: { Count: 50, id: "quark:soul_sandstone_bricks" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["720EA89BB08ABFAF"]
+			id: "57664C0729910F72"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "2D9AE5F512CA0480"
+				item: { Count: 50, id: "quark:soul_sandstone_bricks_stairs" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["57664C0729910F72"]
+			id: "30635C9946FCDB89"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "5B111517D80BE19A"
+				item: { Count: 50, id: "quark:soul_sandstone_bricks_slab" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["30635C9946FCDB89"]
+			id: "77B9806FFDEDE23D"
+			tasks: [{
+				consume_items: true
+				count: 50L
+				id: "6776BAD43CE9ED12"
+				item: { Count: 50, id: "quark:soul_sandstone_bricks_wall" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["04149A36AA94735F"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "2EA125C586A0AD8F"
+			rewards: [{
+				id: "719690DFB373616B"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0A5FA49D42E94996"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["77B9806FFDEDE23D"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "33D8DA5B40C3F96C"
+			rewards: [{
+				id: "7B019120589DBFA5"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2B2453D82AF1DFC7"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["07A16F68B80BD9B4"]
+			hide_until_deps_complete: true
+			id: "6D16A225B71C1F1D"
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "01F95846DADE83C8"
+				item: { Count: 200, id: "minecraft:soul_torch" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["6D16A225B71C1F1D"]
+			id: "0AA1FE25B6239C21"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "461052FE55F35774"
+				item: { Count: 100, id: "minecraft:soul_lantern" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0AA1FE25B6239C21"]
+			id: "55A8837BC843B120"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "34F9F55CAF72B2E1"
+				item: { Count: 100, id: "minecraft:soul_campfire" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["55A8837BC843B120"]
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "4E191BA348ED1801"
+			rewards: [{
+				id: "377A85A91260EE1F"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "41BF1B3182AE87F8"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["1B4BCC905A65B76F"]
+			hide_until_deps_complete: true
+			id: "424C7C282B08D144"
+			tasks: [{
+				count: 200L
+				id: "71C5A779E96D9780"
+				item: { Count: 200, id: "minecraft:glowstone_dust" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["424C7C282B08D144"]
+			hide_until_deps_complete: true
+			id: "23A2EEF49613CA81"
+			tasks: [{
+				count: 100L
+				id: "04333845FAE497DB"
+				item: { Count: 100, id: "minecraft:glowstone" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["23A2EEF49613CA81"]
+			hide_until_deps_complete: true
+			id: "12D8CB08DE1C32D7"
+			tasks: [{
+				count: 100L
+				id: "74C6ED736E38586A"
+				item: { Count: 100, id: "minecraft:shroomlight" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -6.5d
+		}
+		{
+			id: "624CDEB155ACA26F"
+			tasks: [{
+				count: 8L
+				id: "21BC3DEAB085579A"
+				item: { Count: 8, id: "minecraft:blaze_rod" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			id: "5A9C14871EDBCBC3"
+			tasks: [{
+				count: 6L
+				id: "6F2C251612CD179A"
+				item: { Count: 6, id: "minecraft:blaze_powder" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			id: "6D8D08DD39EA1AB7"
+			tasks: [{
+				count: 5L
+				id: "71403FC8EBFB1026"
+				item: "minecraft:brewing_stand"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			id: "5609EC1040BA07F3"
+			tasks: [{
+				count: 5L
+				id: "53C7EC75EF614051"
+				item: { Count: 5, id: "minecraft:fire_charge" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			id: "1813BCCA198334FE"
+			tasks: [{
+				count: 5L
+				id: "55D945CD0B3381FA"
+				item: { Count: 5, id: "minecraft:magma_cream" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"5609EC1040BA07F3"
+				"5A9C14871EDBCBC3"
+				"1813BCCA198334FE"
+				"6D8D08DD39EA1AB7"
+				"624CDEB155ACA26F"
+			]
+			icon: "atilas_economy:dracma_gold"
+			id: "72E27253C3B0BADB"
+			rewards: [{
+				id: "704661C06BE65E11"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				id: "44726AF654346B0E"
+				title: "Artifice del Nether"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+	]
+	title: "Nether"
+}

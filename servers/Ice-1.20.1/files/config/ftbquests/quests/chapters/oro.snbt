@@ -1,0 +1,302 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "oro"
+	group: "3A7C616923904F66"
+	id: "5BC6FE0B69B09C40"
+	images: [{
+		height: 3.0d
+		image: "kubejs:textures/questpics/capitulos/hc_era_oro.png"
+		rotation: 0.0d
+		width: 14.0d
+		x: 0.0d
+		y: -3.0d
+	}]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Nadie ama mas el Oro que los &6Piglin&r"
+				""
+				"Conviertete en uno y ve a conseguir todo el oro que puedas para desbloquear cositas."
+			]
+			icon: "minecraft:gold_block"
+			id: "5FFC8F1E11979400"
+			rewards: [{
+				id: "388167DCE7E5F510"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "pentagon"
+			size: 3.0d
+			tasks: [{
+				id: "68D8BF52FEFC9492"
+				title: "¿Eres un Piglin?"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.75d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "7A3DE50F550669B9"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "64F9A09A83EFBBA2"
+				item: {
+					Count: 1
+					id: "minecraft:golden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "349B28880FF91081"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "3D834E5081501C7B"
+				item: {
+					Count: 1
+					id: "minecraft:golden_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "2C445DC671B64CC6"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "41F3C55F96C397AA"
+				item: {
+					Count: 1
+					id: "minecraft:golden_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "4EF83970C1CBC62C"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "5F2CC97F62B0975F"
+				item: {
+					Count: 1
+					id: "minecraft:golden_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "2E8F44F99C1E696D"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "4A40CFE6C071386A"
+				item: {
+					Count: 1
+					id: "minecraft:golden_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "537CE541ADF4C253"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "1FB856BFD6BC6809"
+				item: {
+					Count: 1
+					id: "minecraft:golden_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "37A5F7C3E908FAA8"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "46B748710E90251A"
+				item: {
+					Count: 1
+					id: "minecraft:golden_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "6C2ADAE36746C08E"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "61203A5C50A088FA"
+				item: {
+					Count: 1
+					id: "minecraft:golden_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "068A95925319C93D"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "7694D79BA4913CF1"
+				item: {
+					Count: 1
+					id: "minecraft:golden_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "3A7B5B3DE7683721"
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "3D877802D422211B"
+				item: "minecraft:raw_gold"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3A7B5B3DE7683721"]
+			id: "50F66C2872001191"
+			tasks: [{
+				consume_items: true
+				count: 90L
+				id: "1809025E861EF3E6"
+				item: "minecraft:gold_nugget"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["50F66C2872001191"]
+			id: "56954DBF8DA468D6"
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "50A612AB0D129977"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3A7B5B3DE7683721"]
+			id: "10EB31CC393CC838"
+			tasks: [{
+				consume_items: true
+				id: "3C404824DA6FBBA8"
+				item: "minecraft:raw_gold_block"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"6C2ADAE36746C08E"
+				"10EB31CC393CC838"
+				"2E8F44F99C1E696D"
+				"37A5F7C3E908FAA8"
+				"349B28880FF91081"
+				"7A3DE50F550669B9"
+				"4EF83970C1CBC62C"
+				"3A7B5B3DE7683721"
+				"50F66C2872001191"
+				"2C445DC671B64CC6"
+				"5FFC8F1E11979400"
+				"56954DBF8DA468D6"
+				"537CE541ADF4C253"
+				"068A95925319C93D"
+			]
+			hide_until_deps_complete: true
+			icon: "minecraft:raw_gold_block"
+			id: "35C17112DB77E122"
+			rewards: [{
+				count: 2
+				id: "7B07DB7EDE22E9CF"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.0d
+			tasks: [{
+				id: "4493C3798A1249D9"
+				title: "Era Oro Terminada"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+	]
+	title: "&6Oro"
+}

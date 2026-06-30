@@ -1,0 +1,1619 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farmer_board"
+	group: "246AD222C960FCAA"
+	icon: {
+		Count: 1
+		id: "minecraft:wooden_hoe"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "412DDEAE4C88DD8D"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "396D7717DA2125C9"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "6759232E52903C10"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -16.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["396D7717DA2125C9"]
+			id: "212DC488DF82808F"
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "47B9AF8C84038162"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -14.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["212DC488DF82808F"]
+			id: "5ABEC231F7B5D39A"
+			tasks: [{
+				consume_items: true
+				count: 300L
+				id: "60FF90C6319177E4"
+				item: { Count: 300, id: "minecraft:baked_potato" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5ABEC231F7B5D39A"]
+			id: "7777F2370DA8AD6A"
+			tasks: [{
+				consume_items: true
+				count: 400L
+				id: "279C40FE38125EB7"
+				item: { Count: 400, id: "minecraft:baked_potato" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7777F2370DA8AD6A"]
+			id: "17AB589A8F31C8A9"
+			tasks: [{
+				consume_items: true
+				count: 500L
+				id: "1FC0C9EA357CE22B"
+				item: { Count: 500, id: "minecraft:baked_potato" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"&6Recuerdos de Vietnam&r"
+				""
+				"Volvieron las misiones que fueron mas famosas de la Temporada 1 y marcaron las vidas de sus jugadores."
+				""
+				"Mision de las Papas y muchas mas!!! / Pero renovadas"
+				""
+				"Como en la temporada anterior me durmieron y usaron las maquinas del &6Mekanism&r esta vez les dimos la vuelta y solo se pueden cocinar las papas con los hornos, alto hornos y los del mod IronFurnaces."
+			]
+			icon: "minecraft:baked_potato"
+			id: "71FBFBBD1DADC3C4"
+			rewards: [{
+				id: "6F8CD4CCECF0746B"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "4F45D6757CBB6544"
+				title: "Granjero a tus Azadas"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["567F2AC8898998E8"]
+			id: "25567EBA01832804"
+			tasks: [{
+				consume_items: true
+				count: 600L
+				id: "04ABA94CEFCCB123"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -16.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["25567EBA01832804"]
+			id: "1F41FCAD8BE4A3BE"
+			tasks: [{
+				consume_items: true
+				count: 700L
+				id: "207FF363C703CCDC"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -14.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1F41FCAD8BE4A3BE"]
+			id: "09EF833AEB3CBC62"
+			tasks: [{
+				consume_items: true
+				count: 800L
+				id: "222095D0AB0AB8D8"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -13.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["09EF833AEB3CBC62"]
+			id: "6E8875DA62A91879"
+			tasks: [{
+				consume_items: true
+				count: 900L
+				id: "28CC547E6A937BD7"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6E8875DA62A91879"]
+			id: "76EC784861B8CD0F"
+			tasks: [{
+				consume_items: true
+				count: 1000L
+				id: "5352BB502C6F04CA"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2BA7BD1273C2E02D"]
+			hide_until_deps_complete: true
+			id: "767AD8DC8C8D4ED6"
+			tasks: [{
+				consume_items: true
+				count: 1100L
+				id: "4F1C86A478CB9E94"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -16.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["767AD8DC8C8D4ED6"]
+			id: "36453B5398E635E6"
+			tasks: [{
+				consume_items: true
+				count: 1200L
+				id: "2228D648C2C3FDE2"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -14.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["36453B5398E635E6"]
+			id: "14AD216006888D68"
+			tasks: [{
+				consume_items: true
+				count: 1300L
+				id: "32D481876709A60B"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -13.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["14AD216006888D68"]
+			id: "7BE4A8D0C51CF2FE"
+			tasks: [{
+				consume_items: true
+				count: 1400L
+				id: "0CC03C088ADE6E33"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7BE4A8D0C51CF2FE"]
+			id: "5BD15D96A39D0B0F"
+			tasks: [{
+				consume_items: true
+				count: 1500L
+				id: "26CB7BD782EB5F5D"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0FC4A1A114B83364"]
+			id: "169FA9C6CA1BA7E0"
+			tasks: [{
+				consume_items: true
+				count: 1600L
+				id: "3F307C6E46D58F4C"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -16.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["169FA9C6CA1BA7E0"]
+			id: "0C8315DA16AE19DC"
+			tasks: [{
+				consume_items: true
+				count: 1700L
+				id: "13B5A814B4CC8ED0"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -14.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0C8315DA16AE19DC"]
+			id: "1A2588FB2B9073AC"
+			tasks: [{
+				consume_items: true
+				count: 1800L
+				id: "50C31AEA97D20AA1"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -13.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1A2588FB2B9073AC"]
+			id: "1DDE1BF0FEA74DC2"
+			tasks: [{
+				consume_items: true
+				count: 1900L
+				id: "7ED20E60EC188FBC"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1DDE1BF0FEA74DC2"]
+			id: "5AFA256FB9E90658"
+			tasks: [{
+				consume_items: true
+				count: 2000L
+				id: "10615CAD90F57C97"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["17AB589A8F31C8A9"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "567F2AC8898998E8"
+			rewards: [{
+				count: 20
+				id: "2B5C5352EBAE3256"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "279DD5984C5A4CCE"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["76EC784861B8CD0F"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "2BA7BD1273C2E02D"
+			rewards: [{
+				count: 20
+				id: "647FEA43C797330A"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "75341229D86A9C43"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			title: "Parte 2"
+			x: -8.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5BD15D96A39D0B0F"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "0FC4A1A114B83364"
+			rewards: [{
+				count: 20
+				id: "3F87156B35D3D05F"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4658F2F1656D64DC"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			title: "Parte 3"
+			x: -8.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5AFA256FB9E90658"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "1DE32DB595DAD759"
+			rewards: [{
+				count: 20
+				id: "608E0DB329E421AD"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "15C1A7E9F3CB5505"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			title: "Parte 4"
+			x: -8.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1DE32DB595DAD759"]
+			id: "2CBE69CB13A43BEB"
+			tasks: [{
+				consume_items: true
+				count: 2100L
+				id: "390FF7769FB38D87"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -16.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2CBE69CB13A43BEB"]
+			id: "2F3D5426116CD359"
+			tasks: [{
+				consume_items: true
+				count: 2200L
+				id: "45975795CD41B0A8"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -14.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2F3D5426116CD359"]
+			id: "261BA7422A615F2C"
+			tasks: [{
+				consume_items: true
+				count: 2300L
+				id: "0435AFAE907A3686"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -13.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["261BA7422A615F2C"]
+			id: "305CC8B8D8916B24"
+			tasks: [{
+				consume_items: true
+				count: 2400L
+				id: "2EDE302A01FBDCE4"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["305CC8B8D8916B24"]
+			id: "4AF058ED2602AEBC"
+			tasks: [{
+				consume_items: true
+				count: 2500L
+				id: "261DF5A7E43A06B3"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4AF058ED2602AEBC"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "483D86E9B3855E44"
+			rewards: [{
+				count: 20
+				id: "58D33582ADD13599"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3BA24E2792901F28"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			title: "Parte 5"
+			x: -8.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["483D86E9B3855E44"]
+			id: "6305AA4028E69E04"
+			tasks: [{
+				consume_items: true
+				count: 2600L
+				id: "50F1B8FC3F817F4F"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -16.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6305AA4028E69E04"]
+			id: "5CBB16DB338049AC"
+			tasks: [{
+				consume_items: true
+				count: 2700L
+				id: "03517806B67EE4BD"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -14.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5CBB16DB338049AC"]
+			id: "4D00B08702087315"
+			tasks: [{
+				consume_items: true
+				count: 2800L
+				id: "3A0CE27E90A81783"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -13.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4D00B08702087315"]
+			id: "14B23EDFFAAC310A"
+			tasks: [{
+				consume_items: true
+				count: 2900L
+				id: "341FDF24632A5260"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -11.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["14B23EDFFAAC310A"]
+			id: "2EFF1EAFFABAE59A"
+			tasks: [{
+				consume_items: true
+				count: 3000L
+				id: "49EC28A3CBCB0F09"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: -10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2EFF1EAFFABAE59A"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "530CD19D0D64467C"
+			rewards: [{
+				count: 20
+				id: "6F848F84D2705F48"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5986C635B2CAECB9"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			title: "Parte 6"
+			x: -8.5d
+			y: 3.5d
+		}
+		{
+			id: "1748A8D3A96998B6"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "2808E36DFDB22237"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1748A8D3A96998B6"]
+			id: "20B1963FF1EA2D34"
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "0A91D061E5C1B99B"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["20B1963FF1EA2D34"]
+			id: "3DED49D5D2BD2923"
+			tasks: [{
+				consume_items: true
+				count: 300L
+				id: "2B20C7610929831E"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3DED49D5D2BD2923"]
+			id: "2D78A4B1A1C3CA89"
+			tasks: [{
+				consume_items: true
+				count: 400L
+				id: "2DAD9A37CD1034C3"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2D78A4B1A1C3CA89"]
+			id: "0E945C14D50A8DDB"
+			tasks: [{
+				consume_items: true
+				count: 500L
+				id: "15EC108629FE717F"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0E945C14D50A8DDB"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "7A7DCC85E382D28F"
+			rewards: [{
+				count: 20
+				id: "15D6548F00A1D87E"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C31465942D33F7D"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7A7DCC85E382D28F"]
+			id: "2344190B617043F5"
+			tasks: [{
+				consume_items: true
+				count: 600L
+				id: "3132438D001AD4D8"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2344190B617043F5"]
+			id: "0E6A7B6E4950F570"
+			tasks: [{
+				consume_items: true
+				count: 700L
+				id: "7A4DECE36AEE10DD"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0E6A7B6E4950F570"]
+			id: "6DF53D6BD238BA54"
+			tasks: [{
+				consume_items: true
+				count: 800L
+				id: "11849E0A7FDD5B05"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6DF53D6BD238BA54"]
+			id: "55DE29C9D7F6660D"
+			tasks: [{
+				consume_items: true
+				count: 900L
+				id: "6A582C269F00954A"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["55DE29C9D7F6660D"]
+			id: "635E9D0163275DEE"
+			tasks: [{
+				consume_items: true
+				count: 1000L
+				id: "4B26037D44123BD6"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7E3BF43BACFC2FDF"]
+			hide_until_deps_complete: true
+			id: "431392AFBCD98DAE"
+			tasks: [{
+				consume_items: true
+				count: 1100L
+				id: "789945D0FEA16FB2"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["431392AFBCD98DAE"]
+			id: "5D75EB11311EF174"
+			tasks: [{
+				consume_items: true
+				count: 1200L
+				id: "0E43B5F1F640067B"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5D75EB11311EF174"]
+			id: "481EE4C85DDFE1FC"
+			tasks: [{
+				consume_items: true
+				count: 1300L
+				id: "52ABBE03A7695053"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["481EE4C85DDFE1FC"]
+			id: "72D07CD9301FE0D8"
+			tasks: [{
+				consume_items: true
+				count: 1400L
+				id: "458E31014DAF7F3A"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["72D07CD9301FE0D8"]
+			id: "47B7DCF9B946098C"
+			tasks: [{
+				consume_items: true
+				count: 1500L
+				id: "6E98272DDE7C4E95"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1B1A995501BEA3B5"]
+			id: "47A1DDCAFD39F4D9"
+			tasks: [{
+				consume_items: true
+				count: 1600L
+				id: "4D74E834C1FFD285"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["47A1DDCAFD39F4D9"]
+			id: "6500C675B65FAEF0"
+			tasks: [{
+				consume_items: true
+				count: 1700L
+				id: "3C02D43AF60762A2"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6500C675B65FAEF0"]
+			id: "0952A0BB7D1AD79F"
+			tasks: [{
+				consume_items: true
+				count: 1800L
+				id: "3858F858A7118B19"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0952A0BB7D1AD79F"]
+			id: "1000A20B7FA3FEDA"
+			tasks: [{
+				consume_items: true
+				count: 1900L
+				id: "65F45F99E4879B0C"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1000A20B7FA3FEDA"]
+			id: "0673CF15C0788C06"
+			tasks: [{
+				consume_items: true
+				count: 2000L
+				id: "76E509124B458AB8"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7FB0C5EA1A1A9C15"]
+			id: "1DB749BA3CB0A053"
+			tasks: [{
+				consume_items: true
+				count: 2100L
+				id: "0F79801DC2354130"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1DB749BA3CB0A053"]
+			id: "6BB31EB2F4D8D8A4"
+			tasks: [{
+				consume_items: true
+				count: 2200L
+				id: "5CFEC4BEA3483180"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6BB31EB2F4D8D8A4"]
+			id: "6EB9AEF9A34CB6AB"
+			tasks: [{
+				consume_items: true
+				count: 2300L
+				id: "42BE394F97C8AE7A"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6EB9AEF9A34CB6AB"]
+			id: "2520EC5938ACC463"
+			tasks: [{
+				consume_items: true
+				count: 2400L
+				id: "187C9197C5143830"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2520EC5938ACC463"]
+			id: "666932B4C29ABF16"
+			tasks: [{
+				consume_items: true
+				count: 2500L
+				id: "2C422A7244A67737"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["36632FDDEFF3A945"]
+			id: "5D4A8DAA4BFEA49F"
+			tasks: [{
+				consume_items: true
+				count: 2600L
+				id: "68699FF383FD352E"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5D4A8DAA4BFEA49F"]
+			id: "528D1B472F5C3A90"
+			tasks: [{
+				consume_items: true
+				count: 2700L
+				id: "3AE342A9445F6E3F"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["528D1B472F5C3A90"]
+			id: "6E92149A4F04F391"
+			tasks: [{
+				consume_items: true
+				count: 2800L
+				id: "544DDE1DC9734F15"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6E92149A4F04F391"]
+			id: "66E7F1CD995DEC57"
+			tasks: [{
+				consume_items: true
+				count: 2900L
+				id: "267CC1C32ACCC125"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["66E7F1CD995DEC57"]
+			id: "610835322A5ACE71"
+			tasks: [{
+				consume_items: true
+				count: 3000L
+				id: "4F2E9BA75FF55325"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["635E9D0163275DEE"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "7E3BF43BACFC2FDF"
+			rewards: [{
+				count: 20
+				id: "064C6E77A824B880"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "070668A9CB7FC798"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			title: "Parte 2"
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["47B7DCF9B946098C"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "1B1A995501BEA3B5"
+			rewards: [{
+				count: 20
+				id: "41DD10036301A0C4"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "24CDF28EEAB3176A"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			title: "Parte 3"
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0673CF15C0788C06"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "7FB0C5EA1A1A9C15"
+			rewards: [{
+				count: 20
+				id: "5BE9A4AE312FCDFF"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1FFDB0923DB136E2"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			title: "Parte 4"
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["666932B4C29ABF16"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "36632FDDEFF3A945"
+			rewards: [{
+				count: 20
+				id: "50EBBD2455566E15"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "06E15D53DB605C85"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			title: "Parte 5"
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["610835322A5ACE71"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_iron"
+			id: "522E621D5BB96C2B"
+			rewards: [{
+				count: 20
+				id: "3F74A10D9F0E34EF"
+				item: "atilas_economy:dracma_iron"
+				type: "item"
+			}]
+			tasks: [{
+				id: "34D83E8BD52E07FA"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			title: "Parte 6"
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			id: "7B3D1F7378E942DA"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "394293CC6FAA3778"
+				item: "minecraft:carrot"
+				type: "item"
+			}]
+			x: -16.0d
+			y: -8.0d
+		}
+		{
+			id: "0A7DDDF365EF87F1"
+			tasks: [{
+				consume_items: true
+				count: 100L
+				id: "36B15BADE70C1C10"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["7B3D1F7378E942DA"]
+			id: "6186D9EBD4749EBC"
+			tasks: [{
+				consume_items: true
+				count: 150L
+				id: "49D9A837D68A55C6"
+				item: "minecraft:carrot"
+				type: "item"
+			}]
+			x: -14.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["6186D9EBD4749EBC"]
+			id: "2A8CF070FA28D762"
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "2B4C4595936ECED1"
+				item: "minecraft:carrot"
+				type: "item"
+			}]
+			x: -13.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["2A8CF070FA28D762"]
+			id: "2E4D007AE77E7B7C"
+			tasks: [{
+				consume_items: true
+				count: 250L
+				id: "5D9CEA79A958F41C"
+				item: "minecraft:carrot"
+				type: "item"
+			}]
+			x: -11.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["2E4D007AE77E7B7C"]
+			id: "6D3D35A57ABA3B3B"
+			tasks: [{
+				consume_items: true
+				count: 300L
+				id: "7EE4346C7F2C0359"
+				item: "minecraft:carrot"
+				type: "item"
+			}]
+			x: -10.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["6D3D35A57ABA3B3B"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "0945297A321C3AF9"
+			rewards: [
+				{
+					count: 2
+					id: "6971811ECB2D6CAE"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6C84A5CBF7E5899E"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "416724FA7201D7F2"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0945297A321C3AF9"]
+			id: "474CAF861C377DC1"
+			tasks: [{
+				count: 350L
+				id: "5865675351A46FDA"
+				item: { Count: 100, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["474CAF861C377DC1"]
+			id: "4F734ADBF2043367"
+			tasks: [{
+				count: 400L
+				id: "1613C9F3B2AFE938"
+				item: { Count: 100, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["4F734ADBF2043367"]
+			id: "4023EFD6F52AF585"
+			tasks: [{
+				count: 450L
+				id: "22EB4ED8A1CDA84B"
+				item: { Count: 100, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["4023EFD6F52AF585"]
+			id: "5C8F6128E71FF652"
+			tasks: [{
+				count: 500L
+				id: "01F3C5EF87F18CDB"
+				item: { Count: 100, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["5C8F6128E71FF652"]
+			id: "50F76C924AA7AE9B"
+			tasks: [{
+				count: 550L
+				id: "2DD4D96D00023FFF"
+				item: { Count: 100, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["50F76C924AA7AE9B"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "7557FB6C8FC376AE"
+			rewards: [
+				{
+					count: 2
+					id: "4BFEFC9C437BD0AA"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0AA75CCA1D9D03CD"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "44965B526EC8D7CB"
+				title: "Parte 2"
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["7557FB6C8FC376AE"]
+			id: "56E6B6ECFB24371B"
+			tasks: [{
+				count: 600L
+				id: "6E653BE88B1F19D2"
+				item: { Count: 100, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["56E6B6ECFB24371B"]
+			id: "130CB9671F75DD4F"
+			tasks: [{
+				count: 700L
+				id: "2141DAB6C8521554"
+				item: { Count: 100, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["130CB9671F75DD4F"]
+			id: "4A87DB7A911E0EAE"
+			tasks: [{
+				count: 800L
+				id: "2ED121DA5E0560FB"
+				item: { Count: 100, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["4A87DB7A911E0EAE"]
+			id: "5BBE2D92C0749EDF"
+			tasks: [{
+				count: 900L
+				id: "297546973BF64695"
+				item: { Count: 100, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["5BBE2D92C0749EDF"]
+			id: "7BBBCE8279627CA5"
+			tasks: [{
+				count: 1000L
+				id: "44FB6492793D15FD"
+				item: { Count: 100, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["7BBBCE8279627CA5"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "086910D5864907EC"
+			rewards: [
+				{
+					count: 2
+					id: "0EC4CF40F432E061"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "781A0A9B5BC13B6A"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "180160AF13696282"
+				title: "Parte 3"
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["0A7DDDF365EF87F1"]
+			id: "4C8CAA5FFE96DB56"
+			tasks: [{
+				consume_items: true
+				count: 150L
+				id: "1F1CC7978140A954"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["4C8CAA5FFE96DB56"]
+			id: "3527F3DDD7A47A65"
+			tasks: [{
+				consume_items: true
+				count: 200L
+				id: "2884EAC191A711D8"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["3527F3DDD7A47A65"]
+			id: "09D01A8F6E0B5068"
+			tasks: [{
+				consume_items: true
+				count: 250L
+				id: "0F2C507DA5358B24"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["09D01A8F6E0B5068"]
+			id: "011A7087D9D92D8F"
+			tasks: [{
+				consume_items: true
+				count: 300L
+				id: "1501C707AF442EE9"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["011A7087D9D92D8F"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "476B59CFF9B55B90"
+			rewards: [
+				{
+					count: 2
+					id: "159A06ADBC82228E"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1617962C552F91B7"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "57DFA98F18B81D29"
+				title: "Parte 1"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["476B59CFF9B55B90"]
+			id: "1CC260447D919832"
+			tasks: [{
+				count: 350L
+				id: "7C94175073EC7CD8"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["1CC260447D919832"]
+			id: "3EFE9BE9657B866D"
+			tasks: [{
+				count: 400L
+				id: "42B4CC9DB1A8A28F"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["3EFE9BE9657B866D"]
+			id: "64E8BF2122716D27"
+			tasks: [{
+				count: 450L
+				id: "50F044805062B0D6"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["64E8BF2122716D27"]
+			id: "7E66C18EA6FA1419"
+			tasks: [{
+				consume_items: true
+				count: 500L
+				id: "7CD78006C472A1EF"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["7E66C18EA6FA1419"]
+			id: "692AD3A7C8E1F35F"
+			tasks: [{
+				consume_items: true
+				count: 550L
+				id: "6B97602A11375BDA"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["692AD3A7C8E1F35F"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "2DD1AB4A0708269F"
+			rewards: [
+				{
+					count: 2
+					id: "085C792F7CB98C99"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4ACF8BFEE83FFF15"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7B5D0E4F0C7242B7"
+				title: "Parte 2"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["2DD1AB4A0708269F"]
+			id: "1CAECEE31F53129E"
+			tasks: [{
+				consume_items: true
+				count: 600L
+				id: "5D30FED97414CD1A"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -6.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["1CAECEE31F53129E"]
+			id: "739D215229B37D19"
+			tasks: [{
+				consume_items: true
+				count: 700L
+				id: "439BF11926DC6FD1"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["739D215229B37D19"]
+			id: "34B2D7C76233F89C"
+			tasks: [{
+				consume_items: true
+				count: 800L
+				id: "2B23B20648B91C52"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -3.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["34B2D7C76233F89C"]
+			id: "78787E26D0C23C2E"
+			tasks: [{
+				consume_items: true
+				count: 900L
+				id: "68E58FB6C40509DB"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["78787E26D0C23C2E"]
+			id: "6F58316DB5D62903"
+			tasks: [{
+				consume_items: true
+				count: 1000L
+				id: "21F360AC2E26C64A"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["6F58316DB5D62903"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_gold"
+			id: "426E50F2BC98D355"
+			rewards: [
+				{
+					count: 2
+					id: "3AA69221294F5589"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1C0D78669234862D"
+					item: "atilas_economy:dracma_gold"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3A4A6553BDCC0356"
+				title: "Parte 3"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -11.0d
+		}
+	]
+	title: "Farmer Board"
+}

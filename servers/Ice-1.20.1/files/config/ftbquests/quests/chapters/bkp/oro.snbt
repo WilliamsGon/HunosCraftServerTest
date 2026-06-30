@@ -1,0 +1,367 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "oro"
+	group: "3A7C616923904F66"
+	id: "5BC6FE0B69B09C40"
+	images: [{
+		height: 3.0d
+		image: "kubejs:textures/questpics/capitulos/hc_era_oro.png"
+		rotation: 0.0d
+		width: 14.0d
+		x: 0.0d
+		y: -3.0d
+	}]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Nadie ama mas el Oro que los &6Piglin&r"
+				""
+				"Conviertete en uno y ve a conseguir todo el oro que puedas para desbloquear cositas."
+			]
+			icon: "minecraft:gold_block"
+			id: "5FFC8F1E11979400"
+			rewards: [{
+				id: "388167DCE7E5F510"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "pentagon"
+			size: 3.0d
+			tasks: [{
+				id: "68D8BF52FEFC9492"
+				title: "¿Eres un Piglin?"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.75d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "7A3DE50F550669B9"
+			rewards: [{
+				count: 2
+				id: "6F0F1D0FCCB549B2"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "64F9A09A83EFBBA2"
+				item: {
+					Count: 1
+					id: "minecraft:golden_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "349B28880FF91081"
+			rewards: [{
+				count: 2
+				id: "5077EDA008B5737E"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "3D834E5081501C7B"
+				item: {
+					Count: 1
+					id: "minecraft:golden_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "2C445DC671B64CC6"
+			rewards: [{
+				count: 2
+				id: "24FD23CF4E910D0A"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "41F3C55F96C397AA"
+				item: {
+					Count: 1
+					id: "minecraft:golden_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "4EF83970C1CBC62C"
+			rewards: [{
+				count: 2
+				id: "683A9D1C4142D1C2"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "5F2CC97F62B0975F"
+				item: {
+					Count: 1
+					id: "minecraft:golden_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "2E8F44F99C1E696D"
+			rewards: [{
+				count: 2
+				id: "266E22262358A5B3"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "4A40CFE6C071386A"
+				item: {
+					Count: 1
+					id: "minecraft:golden_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "537CE541ADF4C253"
+			rewards: [{
+				count: 2
+				id: "00993149ABC8482F"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "1FB856BFD6BC6809"
+				item: {
+					Count: 1
+					id: "minecraft:golden_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "37A5F7C3E908FAA8"
+			rewards: [{
+				count: 2
+				id: "516C05A1DDA21814"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "46B748710E90251A"
+				item: {
+					Count: 1
+					id: "minecraft:golden_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "6C2ADAE36746C08E"
+			rewards: [{
+				count: 2
+				id: "0622141E52249839"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "61203A5C50A088FA"
+				item: {
+					Count: 1
+					id: "minecraft:golden_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "068A95925319C93D"
+			rewards: [{
+				count: 2
+				id: "10D3CBCA62449C92"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 5L
+				id: "7694D79BA4913CF1"
+				item: {
+					Count: 1
+					id: "minecraft:golden_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5FFC8F1E11979400"]
+			id: "3A7B5B3DE7683721"
+			rewards: [{
+				count: 2
+				id: "0CB4A0FE2CC6A24C"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 256L
+				id: "3D877802D422211B"
+				item: { Count: 256, id: "minecraft:raw_gold" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3A7B5B3DE7683721"]
+			id: "50F66C2872001191"
+			rewards: [{
+				count: 2
+				id: "6BC2E4D0E5D13162"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 256L
+				id: "1809025E861EF3E6"
+				item: { Count: 576, id: "minecraft:gold_nugget" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["50F66C2872001191"]
+			id: "56954DBF8DA468D6"
+			rewards: [{
+				count: 2
+				id: "16C7359E52B3CD54"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 256L
+				id: "50A612AB0D129977"
+				item: { Count: 528, id: "minecraft:gold_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3A7B5B3DE7683721"]
+			id: "10EB31CC393CC838"
+			rewards: [{
+				count: 2
+				id: "2E79C85F8706E981"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "3C404824DA6FBBA8"
+				item: { Count: 32, id: "minecraft:raw_gold_block" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"6C2ADAE36746C08E"
+				"10EB31CC393CC838"
+				"2E8F44F99C1E696D"
+				"37A5F7C3E908FAA8"
+				"349B28880FF91081"
+				"7A3DE50F550669B9"
+				"4EF83970C1CBC62C"
+				"3A7B5B3DE7683721"
+				"50F66C2872001191"
+				"2C445DC671B64CC6"
+				"5FFC8F1E11979400"
+				"56954DBF8DA468D6"
+				"537CE541ADF4C253"
+				"068A95925319C93D"
+			]
+			hide_until_deps_complete: true
+			icon: "minecraft:raw_gold_block"
+			id: "35C17112DB77E122"
+			rewards: [{
+				id: "7B07DB7EDE22E9CF"
+				item: "atilas_economy:dracma_gold"
+				type: "item"
+			}]
+			shape: "none"
+			size: 2.0d
+			tasks: [{
+				id: "4493C3798A1249D9"
+				title: "Era Oro Terminada"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+	]
+	title: "&6Oro"
+}

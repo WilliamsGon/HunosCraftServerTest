@@ -1,0 +1,46 @@
+{
+	id: "387836680D111175"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		string_id: "dungeon_loot_box"
+	}
+	loot_size: 1
+	order_index: 76
+	rewards: [
+		{ item: "hunoscraftmod:chipacoin_gold", random_bonus: 4, weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "minecraft:enchanted_book"
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:protection"
+						lvl: 4s
+					}]
+				}
+			}
+			weight: 50.0f
+		}
+		{ count: 5, item: "minecraft:iron_block", random_bonus: 10, weight: 50.0f }
+		{
+			item: {
+				Count: 1
+				id: "minecraft:enchanted_book"
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:mending"
+						lvl: 1s
+					}]
+				}
+			}
+			weight: 85.0f
+		}
+	]
+	title: "&aDungeon:&r &dLoot Box&r"
+}

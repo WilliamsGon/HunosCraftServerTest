@@ -1,0 +1,554 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "cobre"
+	group: "3A7C616923904F66"
+	id: "08B058B381411998"
+	images: [{
+		height: 3.0d
+		image: "kubejs:textures/questpics/capitulos/hc_era_cobre.png"
+		rotation: 0.0d
+		width: 17.0d
+		x: -2.0d
+		y: -8.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&cCobre!! o Copper!!&r"
+				""
+				"Bienvenidx a esta era previa al Hierro, donde tus herramientas estaran al nivel del Hierro pero solo para algunas cosas."
+				""
+				"Olvidate por fin del Cuero y Renova tu outfit con Cobre, renova tus herramientas, deja la piedra atras y empeza a minar, talar, arar y cavar con cobre."
+				""
+				"Truquito extra, si te interesa usar el bloque del cobre para construccion, para que estos no se te oxiden podes frotarlo con un panal para que este quede para siempre en el estado actual en el que se encuentra tu bloque de cobre."
+			]
+			icon: "minecraft:copper_block"
+			id: "12349900C2C44463"
+			rewards: [{
+				id: "08C85DF847B4A9A5"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "0E5540184174FA12"
+				title: "Bienvenido al Cobre"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "07AEF4E586ADAB88"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "586312838CC72D2F"
+				item: {
+					Count: 1
+					id: "minecraft:copper_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "253461E98E0A6DA4"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "0A7988C1F774FCB1"
+				item: {
+					Count: 1
+					id: "minecraft:copper_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "0D7EA3A9E53BAA2A"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "77364BB257F320E9"
+				item: {
+					Count: 1
+					id: "minecraft:copper_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "7BB960E3822C5E0F"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "2A82185503611174"
+				item: {
+					Count: 1
+					id: "minecraft:copper_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "08877115C22C9CB3"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "42FE618BBFC8057F"
+				item: {
+					Count: 1
+					id: "minecraft:copper_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "0613C1AB169AA714"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "43350AD2F75251EE"
+				item: {
+					Count: 1
+					id: "minecraft:copper_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "56A0E563C954283A"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "530856EEFC464762"
+				item: {
+					Count: 1
+					id: "minecraft:copper_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "4342BAD0F8D42DA1"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "49BE0399D12F993C"
+				item: {
+					Count: 1
+					id: "minecraft:copper_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "52413BA6D3688F96"
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "0B8EEA2E69C53BFF"
+				item: {
+					Count: 1
+					id: "minecraft:copper_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "0CDF4FDCE661FECE"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "1E8E53D45BB4A796"
+				item: "minecraft:raw_copper"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "30F2040D26F3EC0C"
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "6D590F6A2EB73D06"
+				item: "minecraft:raw_copper_block"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "208D1E27C471A14F"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "19E078F6F22840D9"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["12349900C2C44463"]
+			id: "6F79EBB559DF997D"
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "5115B568F169969E"
+				item: "minecraft:copper_block"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"253461E98E0A6DA4"
+				"0D7EA3A9E53BAA2A"
+				"7BB960E3822C5E0F"
+				"07AEF4E586ADAB88"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_copper"
+			id: "78BB09E724DAF383"
+			rewards: [{
+				count: 2
+				id: "00071E4E1F8DCC64"
+				item: "atilas_economy:dracma_copper"
+				type: "item"
+			}]
+			tasks: [{
+				id: "580A6D5BE1777B8F"
+				title: "A la moda"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"30F2040D26F3EC0C"
+				"208D1E27C471A14F"
+				"0CDF4FDCE661FECE"
+				"6F79EBB559DF997D"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_copper"
+			id: "69BA5D31B612E5F2"
+			rewards: [{
+				count: 10
+				id: "3F3B14A44C8B58EC"
+				item: "atilas_economy:dracma_copper"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0FC93D4F948AAD49"
+				title: "Minero nivel cobre"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"0613C1AB169AA714"
+				"4342BAD0F8D42DA1"
+				"52413BA6D3688F96"
+				"08877115C22C9CB3"
+				"56A0E563C954283A"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_copper"
+			id: "608212540771A499"
+			rewards: [{
+				count: 2
+				id: "47AD96A368A05384"
+				item: "atilas_economy:dracma_copper"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C1E22000246CAB6"
+				title: "Herramientas de Cobre"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6F79EBB559DF997D"]
+			id: "79B20643438B97B7"
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "359A9B2B8E170633"
+				item: "minecraft:cut_copper"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["79B20643438B97B7"]
+			id: "6C16BE9214DF4F65"
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "439A5D391A61EADD"
+				item: "minecraft:cut_copper_stairs"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6C16BE9214DF4F65"]
+			id: "0F16943EF5EF806B"
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "76551797340A8BCC"
+				item: "minecraft:cut_copper_slab"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0F16943EF5EF806B"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "atilas_economy:dracma_copper"
+			id: "12D646101FB8C08A"
+			rewards: [{
+				count: 10
+				id: "003F90303D4BBB19"
+				item: "atilas_economy:dracma_copper"
+				type: "item"
+			}]
+			tasks: [{
+				id: "48DB88E8A44DE573"
+				title: "Cositas de Cobre"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"30F2040D26F3EC0C"
+				"78BB09E724DAF383"
+				"0D7EA3A9E53BAA2A"
+				"08877115C22C9CB3"
+				"79B20643438B97B7"
+				"12349900C2C44463"
+				"208D1E27C471A14F"
+				"52413BA6D3688F96"
+				"4342BAD0F8D42DA1"
+				"69BA5D31B612E5F2"
+				"0CDF4FDCE661FECE"
+				"0F16943EF5EF806B"
+				"56A0E563C954283A"
+				"07AEF4E586ADAB88"
+				"6F79EBB559DF997D"
+				"253461E98E0A6DA4"
+				"12D646101FB8C08A"
+				"0613C1AB169AA714"
+				"7BB960E3822C5E0F"
+				"608212540771A499"
+				"6C16BE9214DF4F65"
+			]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			icon: "minecraft:copper_block"
+			id: "2EBBF688D73025C6"
+			shape: "none"
+			size: 2.0d
+			tasks: [{
+				id: "6F0E84F8CE7FAE29"
+				title: "Era Cobre Completada!"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			id: "04D7736A497BC6EE"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "465C8E9DBAFAAC6C"
+				item: "minecraft:copper_torch"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "587F2E8C6352B08F"
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "5C9C33D371BF2884"
+				item: "minecraft:copper_lantern"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "630FF31AF22907AA"
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "63F0DF513A977D6E"
+				item: "minecraft:copper_bars"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "5F50786DA7C4F575"
+			tasks: [{
+				consume_items: true
+				count: 9L
+				id: "192210CEAC79364F"
+				item: "minecraft:copper_door"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "3B3194D912B2A525"
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "2D2682AC2DB45DE3"
+				item: "minecraft:copper_trapdoor"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			id: "37D24666CD7EEFEF"
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "5E33E4CA2035F64E"
+				item: "minecraft:copper_chain"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			id: "4879072C0E31FD28"
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "44AABB466042A0F7"
+				item: "minecraft:copper_chest"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"37D24666CD7EEFEF"
+				"630FF31AF22907AA"
+				"04D7736A497BC6EE"
+				"5F50786DA7C4F575"
+				"4879072C0E31FD28"
+				"587F2E8C6352B08F"
+				"3B3194D912B2A525"
+			]
+			icon: "atilas_economy:dracma_copper"
+			id: "592C870F1778E26E"
+			rewards: [{
+				count: 6
+				id: "32E79D4B4F685D6B"
+				item: "atilas_economy:dracma_copper"
+				type: "item"
+			}]
+			tasks: [{
+				id: "29173C6828C6C707"
+				title: "Ingeniero del Cobre"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+	]
+	title: "&6Cobre"
+}

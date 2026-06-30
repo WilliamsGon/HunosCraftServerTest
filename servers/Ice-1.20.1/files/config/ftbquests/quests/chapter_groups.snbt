@@ -1,0 +1,9 @@
+{
+	chapter_groups: [
+		{ id: "3A7C616923904F66", title: "Eras" }
+		{ id: "0C68766A01743E7F", title: "Eras Opcionales" }
+		{ id: "2084F3F6FB861C5B", title: "{atm9.chapters.group.1.}" }
+		{ id: "246AD222C960FCAA", title: "Extras Quests" }
+		{ id: "2F0E8F1B79E3BB7C", title: "Evento" }
+	]
+}
