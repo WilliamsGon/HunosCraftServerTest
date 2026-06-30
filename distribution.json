@@ -20,8 +20,8 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.18",
@@ -6589,10 +6589,21 @@
           "name": "default.cfg",
           "type": "File",
           "artifact": {
-            "size": 3661,
+            "size": 3756,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/xaero/minimap/profiles/default.cfg",
-            "MD5": "eeecbe0f1835715fce965cc34096d0a4",
+            "MD5": "5600a003c8ad81b9530482f01a494a44",
             "path": "config/xaero/minimap/profiles/default.cfg"
+          }
+        },
+        {
+          "id": "default.cfg.json",
+          "name": "default.cfg.json",
+          "type": "File",
+          "artifact": {
+            "size": 5531,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
+            "MD5": "d9774b96d640d112b56d361d6c00ff45",
+            "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
           }
         },
         {
