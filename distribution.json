@@ -24585,6 +24585,17 @@
           }
         },
         {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 3942,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/servers.dat",
+            "MD5": "d3fe68d29a9b88c313609a28753bcac5",
+            "path": "servers.dat"
+          }
+        },
+        {
           "id": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
           "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
           "type": "File",
