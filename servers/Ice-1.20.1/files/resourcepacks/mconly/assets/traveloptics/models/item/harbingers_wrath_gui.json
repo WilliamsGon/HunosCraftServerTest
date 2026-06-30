@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:item/generated",
-	"textures": {
-	  "layer0" : "traveloptics:item/harbingers_wrath_hand"
-	}
-  }
