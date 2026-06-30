@@ -5141,9 +5141,9 @@
           "name": "inventoryprofiles.json",
           "type": "File",
           "artifact": {
-            "size": 560,
+            "size": 657,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
-            "MD5": "f0821803cd1e8446b7f55ee2cb45a962",
+            "MD5": "2fb41c9dd5c8b0abb6c1a65b14e040cc",
             "path": "config/inventoryprofilesnext/inventoryprofiles.json"
           }
         },

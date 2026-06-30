@@ -5,6 +5,11 @@
         },
         "first_run": false
     },
+    "GuiSettings": {
+        "enable_profiles_ui": {
+            "value": false
+        }
+    },
     "AutoRefillSettings": {
         "refill_armor": {
             "value": false
