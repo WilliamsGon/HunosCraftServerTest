@@ -5126,13 +5126,24 @@
           }
         },
         {
+          "id": "player-defined.json",
+          "name": "player-defined.json",
+          "type": "File",
+          "artifact": {
+            "size": 736,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/integrationHints/player-defined.json",
+            "MD5": "e81229f4518e9d3c628d467917223bfb",
+            "path": "config/inventoryprofilesnext/integrationHints/player-defined.json"
+          }
+        },
+        {
           "id": "inventoryprofiles.json",
           "name": "inventoryprofiles.json",
           "type": "File",
           "artifact": {
-            "size": 57,
+            "size": 560,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
-            "MD5": "ded1b91df09ec5b73e628db72a184fa5",
+            "MD5": "f0821803cd1e8446b7f55ee2cb45a962",
             "path": "config/inventoryprofilesnext/inventoryprofiles.json"
           }
         },
