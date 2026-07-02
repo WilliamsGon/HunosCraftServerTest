@@ -1657,6 +1657,16 @@
           }
         },
         {
+          "id": "dev.tonimatas:packetfixer:3.3.2@jar",
+          "name": "PacketFixer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188661,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+            "MD5": "494234194e4ce530719281d558510cf5"
+          }
+        },
+        {
           "id": "tictim.paraglider:paraglider:20.1.3@jar",
           "name": "Paraglider",
           "type": "ForgeMod",
