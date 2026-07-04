@@ -867,11 +867,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3181623,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
             "MD5": "32c9e89c2fecb46baabe76568158a6d7"
-          },
-          "required": {
-            "value": false
           }
         },
         {
