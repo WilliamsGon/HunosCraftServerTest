@@ -12,7 +12,7 @@
       "name": "Ice (Minecraft 1.20.1)",
       "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "162.83.176.103:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -1426,6 +1426,16 @@
             "size": 15470600,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/irons_spellbooks-1.20.1-3.16.1.jar",
             "MD5": "4d2e03aa9dd2aea1e41686304e0f1dee"
+          }
+        },
+        {
+          "id": "net.jaams.weaponry:jaams_weaponry:1.1.0@jar",
+          "name": "Jaam's Weaponry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5544816,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/jaams_weaponry-1.1.0-forge-1.20.1.jar",
+            "MD5": "247c9f634df99dd574015c6a6a93df4e"
           }
         },
         {
