@@ -12,7 +12,7 @@
       "name": "Ice (Minecraft 1.20.1)",
       "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "address": "162.83.176.103:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -674,6 +674,16 @@
             "size": 15933638,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/butchery-5.1-forge-1.20.1.jar",
             "MD5": "a22fd1319f1b53ce8b64693cc5c5545f"
+          }
+        },
+        {
+          "id": "de.maxhenkel:camera:1.20.1-1.0.20@jar",
+          "name": "Camera Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299726,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.20.jar",
+            "MD5": "7f707898d1ed0753a5a5043cbdf806a8"
           }
         },
         {
@@ -1690,6 +1700,16 @@
             "size": 188661,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
             "MD5": "494234194e4ce530719281d558510cf5"
+          }
+        },
+        {
+          "id": "com.pam:pamhc2foodcore:1.0.5@jar",
+          "name": "Pam's HarvestCraft 2 - Food Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 911489,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/pamhc2foodcore-1.20.4-1.0.5.jar",
+            "MD5": "744646a811ced1c079c19a7df31388fe"
           }
         },
         {
