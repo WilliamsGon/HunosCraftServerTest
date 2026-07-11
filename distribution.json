@@ -12,7 +12,7 @@
       "name": "Ice (Minecraft 1.20.1)",
       "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "address": "162.83.176.103:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -5164,6 +5164,7 @@
           "artifact": {
             "size": 0,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/162.83.176.103&25566/lockSlots.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/inventoryprofilesnext/162.83.176.103&25566/lockSlots.txt"
           }
         },
@@ -5174,6 +5175,7 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/162.83.176.103&25566/prev-villager-trading-config.json",
+            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/162.83.176.103&25566/prev-villager-trading-config.json"
           }
         },
@@ -5184,6 +5186,7 @@
           "artifact": {
             "size": 1312,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/162.83.176.103&25566/villager-trading-config.json",
+            "MD5": "a2e2d64a33c5b8b9132a435e1b0f7199",
             "path": "config/inventoryprofilesnext/162.83.176.103&25566/villager-trading-config.json"
           }
         },
@@ -5194,6 +5197,7 @@
           "artifact": {
             "size": 1450,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+            "MD5": "1a018549a3d0f945870f75056ce7e5eb",
             "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
           }
         },
@@ -5204,6 +5208,7 @@
           "artifact": {
             "size": 736,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/integrationHints/player-defined.json",
+            "MD5": "e81229f4518e9d3c628d467917223bfb",
             "path": "config/inventoryprofilesnext/integrationHints/player-defined.json"
           }
         },
@@ -5214,6 +5219,7 @@
           "artifact": {
             "size": 657,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
+            "MD5": "2fb41c9dd5c8b0abb6c1a65b14e040cc",
             "path": "config/inventoryprofilesnext/inventoryprofiles.json"
           }
         },
@@ -5224,6 +5230,7 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/Mundo%20nuevo/prev-villager-trading-config.json",
+            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/Mundo nuevo/prev-villager-trading-config.json"
           }
         },
@@ -5234,6 +5241,7 @@
           "artifact": {
             "size": 35,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/Mundo%20nuevo/profiles.txt",
+            "MD5": "3d09158761cdb42b295ac46d78670089",
             "path": "config/inventoryprofilesnext/Mundo nuevo/profiles.txt"
           }
         },
@@ -5244,6 +5252,7 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/Mundo%20nuevo/villager-trading-config.json",
+            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/Mundo nuevo/villager-trading-config.json"
           }
         },
@@ -5254,6 +5263,7 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/play.ikmev.net&25566/villager-trading-config.json",
+            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/play.ikmev.net&25566/villager-trading-config.json"
           }
         },
@@ -5264,6 +5274,7 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/villager-trading-config.json",
+            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/villager-trading-config.json"
           }
         },
@@ -5274,6 +5285,7 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/world/prev-villager-trading-config.json",
+            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/world/prev-villager-trading-config.json"
           }
         },
@@ -5284,6 +5296,7 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/world/villager-trading-config.json",
+            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/world/villager-trading-config.json"
           }
         },
@@ -5294,6 +5307,7 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/[fe80&&b512&b226&8247&9dae]&25565/villager-trading-config.json",
+            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/[fe80&&b512&b226&8247&9dae]&25565/villager-trading-config.json"
           }
         },
@@ -5821,6 +5835,7 @@
           "artifact": {
             "size": 288,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/oculus.properties",
+            "MD5": "8558773c81c9a6c59c5945cc4f7d99b0",
             "path": "config/oculus.properties"
           }
         },
@@ -24597,6 +24612,7 @@
           "artifact": {
             "size": 15194,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/options.txt",
+            "MD5": "1bedff4442d4090dd0bb9d708cd97c3a",
             "path": "options.txt"
           }
         },
@@ -24728,6 +24744,7 @@
           "artifact": {
             "size": 42,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt",
+            "MD5": "d48affc6524e1b62832e5655d85dd851",
             "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
           }
         },
