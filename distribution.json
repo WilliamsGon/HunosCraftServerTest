@@ -12,7 +12,7 @@
       "name": "Ice (Minecraft 1.20.1)",
       "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "address": "162.83.176.103:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -712,11 +712,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1221521,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/certain_questing_additions-forge-1.2.0.3+mc1.20.1.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/certain_questing_additions-forge-1.2.0.3+mc1.20.1.jar",
             "MD5": "6afe371ceee210e9778c6b8aaa06a0ce"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -24580,6 +24577,17 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/README.txt",
             "MD5": "9b7dd698e2035090afd6f76f2d493cc6",
             "path": "kubejs/README.txt"
+          }
+        },
+        {
+          "id": "client-config.snbt",
+          "name": "client-config.snbt",
+          "type": "File",
+          "artifact": {
+            "size": 529,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/local/certain_questing_additions/client-config.snbt",
+            "MD5": "7e3580c8c4d2bfbf7d81c99a2f6a68ec",
+            "path": "local/certain_questing_additions/client-config.snbt"
           }
         },
         {
