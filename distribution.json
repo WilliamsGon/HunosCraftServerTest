@@ -12,7 +12,7 @@
       "name": "Ice (Minecraft 1.20.1)",
       "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.10",
+      "version": "1.0.11",
       "address": "162.83.176.103:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -638,12 +638,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 86682,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/bobby-1.20.1_v5.0.1.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/bobby-1.20.1_v5.0.1.jar.disabled",
             "MD5": "bcdd05bc35229e30d1d8ab1b3449def6"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -692,8 +691,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 213338,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/caravans-forge-1.20.1-3.0.0.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/caravans-forge-1.20.1-3.0.0.jar.disabled",
             "MD5": "91a8e1c703aa5376d1703c9da16ce050"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -712,8 +714,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1221521,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/certain_questing_additions-forge-1.2.0.3+mc1.20.1.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/certain_questing_additions-forge-1.2.0.3+mc1.20.1.jar.disabled",
             "MD5": "6afe371ceee210e9778c6b8aaa06a0ce"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -812,12 +817,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 115280,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/Controlling-forge-1.20.1-12.0.2.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/Controlling-forge-1.20.1-12.0.2.jar.disabled",
             "MD5": "952274bc9994bba9733e8747558f73fa"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -878,20 +882,6 @@
             "size": 88752,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/cosmeticarmorreworked-1.20.1-v1a.jar",
             "MD5": "2454075e9a25cbadc0fce66502e3261d"
-          }
-        },
-        {
-          "id": "generated.forgemod:crash_assistant:1.11.10@jar",
-          "name": "Crash Assistant",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3181623,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/CrashAssistant-forge-1.19-1.20.1-1.11.10.jar",
-            "MD5": "32c9e89c2fecb46baabe76568158a6d7"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -962,26 +952,6 @@
             "size": 1141555,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/domum_ornamentum-1.20.1-1.0.296-universal.jar",
             "MD5": "2a29092b7f67ac477f253c44d3d0463c"
-          }
-        },
-        {
-          "id": "net.aurelj:dungeons_arise:2.1.58-1.20.x@jar",
-          "name": "When Dungeons Arise",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 8762342,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/DungeonsArise-1.20.x-2.1.58-release.jar",
-            "MD5": "6ac48d0cf2ce763824f96f6d26963219"
-          }
-        },
-        {
-          "id": "net.aurelj:dungeons_arise_seven_seas:1.0.2@jar",
-          "name": "When Dungeons Arise: Seven Seas",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 248169,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
-            "MD5": "7438cb3ec55972c670e83effa52f8668"
           }
         },
         {
@@ -1080,12 +1050,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar.disabled",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -1104,8 +1073,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 254629,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/enhanced_boss_bars-1.20.1-1.0.0.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/enhanced_boss_bars-1.20.1-1.0.0.jar.disabled",
             "MD5": "26cdbb61d5d8b0d91584f5f4ca233237"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1114,12 +1086,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 752458,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/entity_model_features-3.2.4-1.20.1-forge.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/entity_model_features-3.2.4-1.20.1-forge.jar.disabled",
             "MD5": "23e5601dd7e6e2ffab26179e4f5cabeb"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -1128,12 +1099,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 944851,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/entity_texture_features_1.20.1-forge-7.1.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/entity_texture_features_1.20.1-forge-7.1.jar.disabled",
             "MD5": "bb8a57f4e9965654c344854fb45dd540"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -1144,16 +1114,6 @@
             "size": 336013,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/familiarslib-1.20.1-1.6.jar",
             "MD5": "3cec236cf3e852449c7cc16019f5c7cf"
-          }
-        },
-        {
-          "id": "generated.forgemod:mr_farmers_cuttingohthebiomeswevegone:1.20.1-1.1-forge@jar",
-          "name": "Farmer's Cutting: Oh The Biomes We've Gone",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 87615,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-forge.jar",
-            "MD5": "d467172cf90f754744bc3e4b200dc5ac"
           }
         },
         {
@@ -1172,8 +1132,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 190098,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/Fast_Travel_Waypoints-Forge-1.20.1-v1.3.0.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/Fast_Travel_Waypoints-Forge-1.20.1-v1.3.0.jar.disabled",
             "MD5": "d4ac1b6ddfa9b4eb708d589e8f03baac"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1202,8 +1165,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2733846,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/fragmentum-forge-1.20.1-1.3.0.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/fragmentum-forge-1.20.1-1.3.0.jar.disabled",
             "MD5": "0c30cad87d3a41bb12e57e295ce1a55c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1292,12 +1258,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 737596,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/ftbxaerocompat-forge-1.1.3.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/ftbxaerocompat-forge-1.1.3.jar.disabled",
             "MD5": "84d22e4c5ea26ee46af69b4caff9ad8c"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -1326,12 +1291,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7863,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/getittogetherdrops-forge-1.20-1.3.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/getittogetherdrops-forge-1.20-1.3.jar.disabled",
             "MD5": "48b718676addc7770ac9a9bf63a84633"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -1400,8 +1364,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1457354,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/InventoryProfilesNext-forge-1.20-1.10.20.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/InventoryProfilesNext-forge-1.20-1.10.20.jar.disabled",
             "MD5": "7e883e59d6e544574ef58c52562881a9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1530,8 +1497,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 693301,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/libIPN-forge-1.20-4.0.2.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/libIPN-forge-1.20-4.0.2.jar.disabled",
             "MD5": "ef3a86f4867dba031dd6adef7e45d396"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1575,6 +1545,19 @@
           }
         },
         {
+          "id": "com.frikinjay:mobstacker:1.0.14b@jar",
+          "name": "Mob Stacker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63506,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/mobstacker-1.20.x-forge-1.0.14b.jar.disabled",
+            "MD5": "70f0df18d2f7d0ae22884459730e3dfb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.proxwian:mobstackeradv:1.0.0@jar",
           "name": "Mob Stacker Advanced",
           "type": "ForgeMod",
@@ -1590,12 +1573,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 45246,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/modelfix-1.15.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/modelfix-1.15.jar.disabled",
             "MD5": "9afd060094be1353e818bd2b7c249cc9"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -1644,8 +1626,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1137730,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/obscure_tooltips-forge-1.20.1-3.10.0.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/obscure_tooltips-forge-1.20.1-3.10.0.jar.disabled",
             "MD5": "56f4fed0f411e4a95e72dc32fd88ff07"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1664,12 +1649,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/oculus-mc1.20.1-1.8.0.jar.disabled",
             "MD5": "1dd891634ac21591b5a692471f112572"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -1748,8 +1732,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 102164,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/PickUpNotifier-v8.0.0-1.20.1-Forge.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/PickUpNotifier-v8.0.0-1.20.1-Forge.jar.disabled",
             "MD5": "c1004011e796ef62010dcb03e9597cdc"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1928,12 +1915,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77732,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/Searchables-forge-1.20.1-1.0.3.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/Searchables-forge-1.20.1-1.0.3.jar.disabled",
             "MD5": "9f5418e9c08c18a375ef42fada4bcef2"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -1944,6 +1930,32 @@
             "size": 14510,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/sit-1.20.1-1.3.5.jar",
             "MD5": "87f16ae5de8125e49f3740a45b3fc1c7"
+          }
+        },
+        {
+          "id": "toni.sodiumextras:sodiumextras:1.0.6@jar",
+          "name": "Sodium Extras",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 438540,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/sodiumextras-forge-1.0.7-1.20.1.jar.disabled",
+            "MD5": "823adea3bcfd64dbdbaec46950cf4108"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "toni.sodiumoptionsapi:sodiumoptionsapi:1.0.10@jar",
+          "name": "Sodium Options API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 443978,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/sodiumoptionsapi-forge-1.0.10-1.20.1.jar.disabled",
+            "MD5": "75807590ae2648ecdeb855705868ce59"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1964,16 +1976,6 @@
             "size": 1607487,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.3.57.2069.jar",
             "MD5": "e8df155270463a68048c0b811da2052c"
-          }
-        },
-        {
-          "id": "net.liopyu.spiraltower:spiral_tower_village:0.0.3@jar",
-          "name": "Spiral Tower Village",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10661678,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/spiral_tower_village-0.0.3.jar",
-            "MD5": "60ed935f47869afdd056cd02b8932e19"
           }
         },
         {
@@ -2062,12 +2064,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26957,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/ToastControl-1.20.1-8.0.3.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/ToastControl-1.20.1-8.0.3.jar.disabled",
             "MD5": "f1bcf2e30adc3ac2e00d7f9d1a4780c6"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -2101,16 +2102,6 @@
           }
         },
         {
-          "id": "noobanidus.mods:toofast:0.4.3.5@jar",
-          "name": "Too Fast",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3875,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/toofast-1.20-0.4.3.5.jar",
-            "MD5": "33c8f4dc6703ee68b415ed203b3a380c"
-          }
-        },
-        {
           "id": "net.xalcon:torchmaster:20.1.9@jar",
           "name": "Torchmaster",
           "type": "ForgeMod",
@@ -2118,16 +2109,6 @@
             "size": 119348,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/torchmaster-20.1.9.jar",
             "MD5": "5ccfbdd3ad8436df3b99967e746ac2cd"
-          }
-        },
-        {
-          "id": "com.ldtteam:towntalk:1.1.0@jar",
-          "name": "TownTalk",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 49194778,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/towntalk-1.20.1-1.1.0.jar",
-            "MD5": "aa2c6394fe1e033698219bfd5ad62b49"
           }
         },
         {
@@ -2221,20 +2202,6 @@
           }
         },
         {
-          "id": "com.sk89q:worldedit:7.2.15+6463-5ca4dff@jar",
-          "name": "WorldEdit",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5825402,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/worldedit-mod-7.2.15.jar",
-            "MD5": "bd0e7cff7896348faab92e43300d0639"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "de.ambertation:wunderlib:20.0.1@jar",
           "name": "WunderLib",
           "type": "ForgeMod",
@@ -2270,12 +2237,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 32691,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionaloff/XaeroZoomout-Forge-1.20-1.1.0.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/XaeroZoomout-Forge-1.20-1.1.0.jar.disabled",
             "MD5": "c8507901c0783b0880172536a3f3a8a2"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -2284,8 +2250,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 129127,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/xmxw-2.11.0+1.20.1-forge.jar",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/xmxw-2.11.0+1.20.1-forge.jar.disabled",
             "MD5": "459b1e699f95c9d164676e7d87e27e80"
+          },
+          "required": {
+            "value": false
           }
         },
         {
