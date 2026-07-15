@@ -3806,376 +3806,13 @@
           }
         },
         {
-          "id": "basic_tools.snbt",
-          "name": "basic_tools.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 61371,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/basic_tools.snbt",
-            "MD5": "4f143fbed45be667b429b4d0252c93dc",
-            "path": "config/ftbquests/quests/chapters/basic_tools.snbt"
-          }
-        },
-        {
-          "id": "bingo.snbt",
-          "name": "bingo.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 6032,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/bingo.snbt",
-            "MD5": "e617db40a4f77a3447a64be7c053c789",
-            "path": "config/ftbquests/quests/chapters/bingo.snbt"
-          }
-        },
-        {
-          "id": "cobre.snbt",
-          "name": "cobre.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 9647,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/bkp/cobre.snbt",
-            "MD5": "0f073ed97c769bcdbcc791d31d6b9468",
-            "path": "config/ftbquests/quests/chapters/bkp/cobre.snbt"
-          }
-        },
-        {
-          "id": "cueropiedra_2.snbt",
-          "name": "cueropiedra_2.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 16533,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/bkp/cueropiedra_2.snbt",
-            "MD5": "47cbeba1510d22a7189260caf5ad7c90",
-            "path": "config/ftbquests/quests/chapters/bkp/cueropiedra_2.snbt"
-          }
-        },
-        {
-          "id": "diamante.snbt",
-          "name": "diamante.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 5730,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/bkp/diamante.snbt",
-            "MD5": "6f48de31d41411746b72e0823c016809",
-            "path": "config/ftbquests/quests/chapters/bkp/diamante.snbt"
-          }
-        },
-        {
-          "id": "hierro.snbt",
-          "name": "hierro.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 10822,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/bkp/hierro.snbt",
-            "MD5": "d44a9ba3b477f118609e92789e0e6307",
-            "path": "config/ftbquests/quests/chapters/bkp/hierro.snbt"
-          }
-        },
-        {
-          "id": "madera.snbt",
-          "name": "madera.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 28833,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/bkp/madera.snbt",
-            "MD5": "44655d5f8b0bf673d47517574d88772a",
-            "path": "config/ftbquests/quests/chapters/bkp/madera.snbt"
-          }
-        },
-        {
-          "id": "madera.snbt.bkp-260621",
-          "name": "madera.snbt.bkp-260621",
-          "type": "File",
-          "artifact": {
-            "size": 39216,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/bkp/madera.snbt.bkp-260621",
-            "MD5": "c5031f1e156462ccdb8df79de37470f4",
-            "path": "config/ftbquests/quests/chapters/bkp/madera.snbt.bkp-260621"
-          }
-        },
-        {
-          "id": "netherita.snbt",
-          "name": "netherita.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 5398,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/bkp/netherita.snbt",
-            "MD5": "594afd839580e5ffdd3192a57d936661",
-            "path": "config/ftbquests/quests/chapters/bkp/netherita.snbt"
-          }
-        },
-        {
-          "id": "oro.snbt",
-          "name": "oro.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 6790,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/bkp/oro.snbt",
-            "MD5": "97de7bd8c527d2a546d6cef284c01c8a",
-            "path": "config/ftbquests/quests/chapters/bkp/oro.snbt"
-          }
-        },
-        {
-          "id": "botania.snbt",
-          "name": "botania.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 82920,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/botania.snbt",
-            "MD5": "5cb8096094b6dc33f2554022bd5a119a",
-            "path": "config/ftbquests/quests/chapters/botania.snbt"
-          }
-        },
-        {
-          "id": "bounty_board.snbt",
-          "name": "bounty_board.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 25258,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/bounty_board.snbt",
-            "MD5": "19ee3ff319100d42824c1bdd81622166",
-            "path": "config/ftbquests/quests/chapters/bounty_board.snbt"
-          }
-        },
-        {
-          "id": "cataclysm.snbt",
-          "name": "cataclysm.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 27371,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/cataclysm.snbt",
-            "MD5": "e3362b4c754d295b2405a6e7ba558c66",
-            "path": "config/ftbquests/quests/chapters/cataclysm.snbt"
-          }
-        },
-        {
-          "id": "cobre.snbt",
-          "name": "cobre.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 10743,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/cobre.snbt",
-            "MD5": "31236fd86f1f5e9451fd35f385840d12",
-            "path": "config/ftbquests/quests/chapters/cobre.snbt"
-          }
-        },
-        {
-          "id": "create.snbt",
-          "name": "create.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 22300,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/create.snbt",
-            "MD5": "49e19bb40b78f843cd7ad10036fd1d23",
-            "path": "config/ftbquests/quests/chapters/create.snbt"
-          }
-        },
-        {
-          "id": "cueropiedra_2.snbt",
-          "name": "cueropiedra_2.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 16463,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/cueropiedra_2.snbt",
-            "MD5": "cc54515fc93de33e85b5fcda2939f98f",
-            "path": "config/ftbquests/quests/chapters/cueropiedra_2.snbt"
-          }
-        },
-        {
-          "id": "diamante.snbt",
-          "name": "diamante.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 5894,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/diamante.snbt",
-            "MD5": "91993d887acc25ff42427ea123c9f9bf",
-            "path": "config/ftbquests/quests/chapters/diamante.snbt"
-          }
-        },
-        {
-          "id": "farmer_board.snbt",
-          "name": "farmer_board.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 31558,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/farmer_board.snbt",
-            "MD5": "e4d066b7c9d217c9a5c205ce30716eec",
-            "path": "config/ftbquests/quests/chapters/farmer_board.snbt"
-          }
-        },
-        {
-          "id": "generators.snbt",
-          "name": "generators.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 19007,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/generators.snbt",
-            "MD5": "cdd5e69d69a56e60de1bb11569e38a68",
-            "path": "config/ftbquests/quests/chapters/generators.snbt"
-          }
-        },
-        {
-          "id": "granjero.snbt",
-          "name": "granjero.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 32704,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/granjero.snbt",
-            "MD5": "4e3167d3437f59cba2d6ad55bb08b437",
-            "path": "config/ftbquests/quests/chapters/granjero.snbt"
-          }
-        },
-        {
-          "id": "hierro.snbt",
-          "name": "hierro.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 11911,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/hierro.snbt",
-            "MD5": "e902b5feb4623988d291a5ccbed52627",
-            "path": "config/ftbquests/quests/chapters/hierro.snbt"
-          }
-        },
-        {
-          "id": "impact_core.snbt",
-          "name": "impact_core.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 3607,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/impact_core.snbt",
-            "MD5": "85e46deb831bbb7c63d8bc68d1963977",
-            "path": "config/ftbquests/quests/chapters/impact_core.snbt"
-          }
-        },
-        {
-          "id": "just_hammers.snbt",
-          "name": "just_hammers.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 12710,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/just_hammers.snbt",
-            "MD5": "8b23507c58d327f39e5129d7db52887c",
-            "path": "config/ftbquests/quests/chapters/just_hammers.snbt"
-          }
-        },
-        {
-          "id": "madera.snbt",
-          "name": "madera.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 40077,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/madera.snbt",
-            "MD5": "1ec6bb80a0af4889c0830ca61a9d83ff",
-            "path": "config/ftbquests/quests/chapters/madera.snbt"
-          }
-        },
-        {
-          "id": "motor_creativo.snbt",
-          "name": "motor_creativo.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 12140,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/motor_creativo.snbt",
-            "MD5": "80d20f6857ddc97098827aac3f80af0a",
-            "path": "config/ftbquests/quests/chapters/motor_creativo.snbt"
-          }
-        },
-        {
-          "id": "nether.snbt",
-          "name": "nether.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 26162,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/nether.snbt",
-            "MD5": "10da2890737bfe5d56258d3bce4cbdc6",
-            "path": "config/ftbquests/quests/chapters/nether.snbt"
-          }
-        },
-        {
-          "id": "netherita.snbt",
-          "name": "netherita.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 5723,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/netherita.snbt",
-            "MD5": "a7fdd14349107be28b022c31c13e03d7",
-            "path": "config/ftbquests/quests/chapters/netherita.snbt"
-          }
-        },
-        {
-          "id": "oro.snbt",
-          "name": "oro.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 5434,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/oro.snbt",
-            "MD5": "6a23c657ce6444a18cfd3fa6cdbe30b9",
-            "path": "config/ftbquests/quests/chapters/oro.snbt"
-          }
-        },
-        {
-          "id": "pruebas.snbt",
-          "name": "pruebas.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 3135,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/pruebas.snbt",
-            "MD5": "0d6a863de4e6466d1dbdad35b752a200",
-            "path": "config/ftbquests/quests/chapters/pruebas.snbt"
-          }
-        },
-        {
-          "id": "Relics and Artifacts.snbt",
-          "name": "Relics and Artifacts.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 105601,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/Relics%20and%20Artifacts.snbt",
-            "MD5": "57b50ecacdbb921d89b9dbc0112f96eb",
-            "path": "config/ftbquests/quests/chapters/Relics and Artifacts.snbt"
-          }
-        },
-        {
-          "id": "storage.snbt",
-          "name": "storage.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 31518,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/storage.snbt",
-            "MD5": "d4ecdde3fe2a4efd1e71f2cae92d4bcc",
-            "path": "config/ftbquests/quests/chapters/storage.snbt"
-          }
-        },
-        {
-          "id": "trofeos.snbt",
-          "name": "trofeos.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 12654,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/trofeos.snbt",
-            "MD5": "070c273af59e526aea6e8714bdd5717a",
-            "path": "config/ftbquests/quests/chapters/trofeos.snbt"
-          }
-        },
-        {
-          "id": "welcome.snbt",
-          "name": "welcome.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 4082,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapters/welcome.snbt",
-            "MD5": "bec448ee84315bb83ec7d949884b5e88",
-            "path": "config/ftbquests/quests/chapters/welcome.snbt"
-          }
-        },
-        {
           "id": "chapter_groups.snbt",
           "name": "chapter_groups.snbt",
           "type": "File",
           "artifact": {
-            "size": 297,
+            "size": 0,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/chapter_groups.snbt",
-            "MD5": "4122f0241f7210dc2714bbda256c2e0b",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/ftbquests/quests/chapter_groups.snbt"
           }
         },
@@ -4199,853 +3836,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/README.md",
             "MD5": "54d638c2f82017deba0678e2456c9f98",
             "path": "config/ftbquests/quests/README.md"
-          }
-        },
-        {
-          "id": "0C83C7A93ED80A36.snbt",
-          "name": "0C83C7A93ED80A36.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1857,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/0C83C7A93ED80A36.snbt",
-            "MD5": "262b7077b9a46f13c9f7f76992e928c2",
-            "path": "config/ftbquests/quests/reward_tables/0C83C7A93ED80A36.snbt"
-          }
-        },
-        {
-          "id": "1DB1EEDA7B79672B.snbt",
-          "name": "1DB1EEDA7B79672B.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 405,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/1DB1EEDA7B79672B.snbt",
-            "MD5": "be83f45bfa8b7db3950442aa6b4220c8",
-            "path": "config/ftbquests/quests/reward_tables/1DB1EEDA7B79672B.snbt"
-          }
-        },
-        {
-          "id": "75FE7CDF68581EDE.snbt",
-          "name": "75FE7CDF68581EDE.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 313,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/75FE7CDF68581EDE.snbt",
-            "MD5": "bfade20a677ffffd0a3d332ee59f6d6f",
-            "path": "config/ftbquests/quests/reward_tables/75FE7CDF68581EDE.snbt"
-          }
-        },
-        {
-          "id": "adungeonr_dloot_boxr.snbt",
-          "name": "adungeonr_dloot_boxr.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 817,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/adungeonr_dloot_boxr.snbt",
-            "MD5": "70d459fa68472d0298726d168d7db954",
-            "path": "config/ftbquests/quests/reward_tables/adungeonr_dloot_boxr.snbt"
-          }
-        },
-        {
-          "id": "ae2_basic_rewards.snbt",
-          "name": "ae2_basic_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 477,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/ae2_basic_rewards.snbt",
-            "MD5": "6f8a89cf617f92b16446b6d4bffe2a38",
-            "path": "config/ftbquests/quests/reward_tables/ae2_basic_rewards.snbt"
-          }
-        },
-        {
-          "id": "ae2_basic_reward_table.snbt",
-          "name": "ae2_basic_reward_table.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 890,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/ae2_basic_reward_table.snbt",
-            "MD5": "39f3776f9957e1e237ce805dc45c9256",
-            "path": "config/ftbquests/quests/reward_tables/ae2_basic_reward_table.snbt"
-          }
-        },
-        {
-          "id": "amekanismr_dadvanced_loot_boxr.snbt",
-          "name": "amekanismr_dadvanced_loot_boxr.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 3283,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/amekanismr_dadvanced_loot_boxr.snbt",
-            "MD5": "76127493d8d9a4195a76f3e3a2cbb450",
-            "path": "config/ftbquests/quests/reward_tables/amekanismr_dadvanced_loot_boxr.snbt"
-          }
-        },
-        {
-          "id": "ars_nouveau_rewards.snbt",
-          "name": "ars_nouveau_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1040,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/ars_nouveau_rewards.snbt",
-            "MD5": "b0b470911b61bdf8a7bdc3c35774547e",
-            "path": "config/ftbquests/quests/reward_tables/ars_nouveau_rewards.snbt"
-          }
-        },
-        {
-          "id": "atm9_books.snbt",
-          "name": "atm9_books.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2871,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/atm9_books.snbt",
-            "MD5": "62ebcc6f1e2c44aa816ceb9b4c29e54b",
-            "path": "config/ftbquests/quests/reward_tables/atm9_books.snbt"
-          }
-        },
-        {
-          "id": "basic_elements.snbt",
-          "name": "basic_elements.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 771,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/basic_elements.snbt",
-            "MD5": "16bc6c8fb11a5222e2522ec1a4ae4851",
-            "path": "config/ftbquests/quests/reward_tables/basic_elements.snbt"
-          }
-        },
-        {
-          "id": "blood_magic_loot_bag.snbt",
-          "name": "blood_magic_loot_bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1469,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/blood_magic_loot_bag.snbt",
-            "MD5": "aac1ac4d60f420c56d6df452b3b02c8c",
-            "path": "config/ftbquests/quests/reward_tables/blood_magic_loot_bag.snbt"
-          }
-        },
-        {
-          "id": "botania_flowers.snbt",
-          "name": "botania_flowers.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 995,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/botania_flowers.snbt",
-            "MD5": "130cdfc3b55f6b1f72e17c2f43dd7634",
-            "path": "config/ftbquests/quests/reward_tables/botania_flowers.snbt"
-          }
-        },
-        {
-          "id": "common.snbt",
-          "name": "common.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 8083,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/common.snbt",
-            "MD5": "27742e98bf3b5d8c8ddff49c1da90709",
-            "path": "config/ftbquests/quests/reward_tables/common.snbt"
-          }
-        },
-        {
-          "id": "common_gem_bag.snbt",
-          "name": "common_gem_bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2715,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/common_gem_bag.snbt",
-            "MD5": "7ada92656e5fbf80286a2da82a8554f6",
-            "path": "config/ftbquests/quests/reward_tables/common_gem_bag.snbt"
-          }
-        },
-        {
-          "id": "de_basic.snbt",
-          "name": "de_basic.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 404,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/de_basic.snbt",
-            "MD5": "ee80b14c38a2351ea857fb4516a3e99c",
-            "path": "config/ftbquests/quests/reward_tables/de_basic.snbt"
-          }
-        },
-        {
-          "id": "de_basic_2.snbt",
-          "name": "de_basic_2.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 397,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/de_basic_2.snbt",
-            "MD5": "45ee8d7b157161c013cc6a7334cd55e4",
-            "path": "config/ftbquests/quests/reward_tables/de_basic_2.snbt"
-          }
-        },
-        {
-          "id": "de_basic_3.snbt",
-          "name": "de_basic_3.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 424,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/de_basic_3.snbt",
-            "MD5": "be9e4c5930a2c35e5650282d13bc3786",
-            "path": "config/ftbquests/quests/reward_tables/de_basic_3.snbt"
-          }
-        },
-        {
-          "id": "de_basic_4.snbt",
-          "name": "de_basic_4.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 434,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/de_basic_4.snbt",
-            "MD5": "df127a3b5a2e6b318186ac376e7b18ca",
-            "path": "config/ftbquests/quests/reward_tables/de_basic_4.snbt"
-          }
-        },
-        {
-          "id": "elven_loot.snbt",
-          "name": "elven_loot.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 596,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/elven_loot.snbt",
-            "MD5": "527e524bf6db1eb9609443974d6b2ca0",
-            "path": "config/ftbquests/quests/reward_tables/elven_loot.snbt"
-          }
-        },
-        {
-          "id": "epic.snbt",
-          "name": "epic.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1944,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/epic.snbt",
-            "MD5": "a2ce730587d382b6a61b5d2f1249bc32",
-            "path": "config/ftbquests/quests/reward_tables/epic.snbt"
-          }
-        },
-        {
-          "id": "epic_gem_bag.snbt",
-          "name": "epic_gem_bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 4371,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/epic_gem_bag.snbt",
-            "MD5": "f521d377de45aa5c0a1a56488a18a6e6",
-            "path": "config/ftbquests/quests/reward_tables/epic_gem_bag.snbt"
-          }
-        },
-        {
-          "id": "EssenceBag.snbt",
-          "name": "EssenceBag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1852,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/EssenceBag.snbt",
-            "MD5": "4cf6df5c39702f6bc109f1fb91262189",
-            "path": "config/ftbquests/quests/reward_tables/EssenceBag.snbt"
-          }
-        },
-        {
-          "id": "evilcraft_basic_reward.snbt",
-          "name": "evilcraft_basic_reward.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2146,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/evilcraft_basic_reward.snbt",
-            "MD5": "152c1333cc79287f82c29ffb62917a6f",
-            "path": "config/ftbquests/quests/reward_tables/evilcraft_basic_reward.snbt"
-          }
-        },
-        {
-          "id": "flower_petal_loot.snbt",
-          "name": "flower_petal_loot.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 904,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/flower_petal_loot.snbt",
-            "MD5": "98fa567f538208f5681eac65b9fe828e",
-            "path": "config/ftbquests/quests/reward_tables/flower_petal_loot.snbt"
-          }
-        },
-        {
-          "id": "gt_ev_basic_rewards.snbt",
-          "name": "gt_ev_basic_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1907,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/gt_ev_basic_rewards.snbt",
-            "MD5": "7ebdd7829297ac43f21adfc21f4fef11",
-            "path": "config/ftbquests/quests/reward_tables/gt_ev_basic_rewards.snbt"
-          }
-        },
-        {
-          "id": "gt_hv_basic_rewards.snbt",
-          "name": "gt_hv_basic_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2063,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/gt_hv_basic_rewards.snbt",
-            "MD5": "8e7c20392bae99727cc8aa19d30fcb1e",
-            "path": "config/ftbquests/quests/reward_tables/gt_hv_basic_rewards.snbt"
-          }
-        },
-        {
-          "id": "gt_iv_basic_rewards.snbt",
-          "name": "gt_iv_basic_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2108,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/gt_iv_basic_rewards.snbt",
-            "MD5": "bb40d43ba778ae9b3fb070802b75ce4b",
-            "path": "config/ftbquests/quests/reward_tables/gt_iv_basic_rewards.snbt"
-          }
-        },
-        {
-          "id": "gt_luv_rewards.snbt",
-          "name": "gt_luv_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2150,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/gt_luv_rewards.snbt",
-            "MD5": "7a22916d130107bfdb6d2b6734b26030",
-            "path": "config/ftbquests/quests/reward_tables/gt_luv_rewards.snbt"
-          }
-        },
-        {
-          "id": "gt_lv_basic_rewards.snbt",
-          "name": "gt_lv_basic_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1667,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/gt_lv_basic_rewards.snbt",
-            "MD5": "c561ff9256d59fb34fe2ee03163bb5c2",
-            "path": "config/ftbquests/quests/reward_tables/gt_lv_basic_rewards.snbt"
-          }
-        },
-        {
-          "id": "gt_mv_basic_rewards.snbt",
-          "name": "gt_mv_basic_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1638,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/gt_mv_basic_rewards.snbt",
-            "MD5": "e39939617c2c957a788ab372e8876ff9",
-            "path": "config/ftbquests/quests/reward_tables/gt_mv_basic_rewards.snbt"
-          }
-        },
-        {
-          "id": "gt_steam_basic_rewards.snbt",
-          "name": "gt_steam_basic_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 959,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/gt_steam_basic_rewards.snbt",
-            "MD5": "9c396a0ddb5042637cef52f2d8381a79",
-            "path": "config/ftbquests/quests/reward_tables/gt_steam_basic_rewards.snbt"
-          }
-        },
-        {
-          "id": "gt_uhv_basic_rewards.snbt",
-          "name": "gt_uhv_basic_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1832,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/gt_uhv_basic_rewards.snbt",
-            "MD5": "76456edb43880c8e752a7d4f824a19c7",
-            "path": "config/ftbquests/quests/reward_tables/gt_uhv_basic_rewards.snbt"
-          }
-        },
-        {
-          "id": "gt_uv_basic_rewards.snbt",
-          "name": "gt_uv_basic_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2291,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/gt_uv_basic_rewards.snbt",
-            "MD5": "c915d1c60e978878c599441d2305b020",
-            "path": "config/ftbquests/quests/reward_tables/gt_uv_basic_rewards.snbt"
-          }
-        },
-        {
-          "id": "gt_zpm.snbt",
-          "name": "gt_zpm.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2302,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/gt_zpm.snbt",
-            "MD5": "a3b734f675312eb95aa09e012cbffc39",
-            "path": "config/ftbquests/quests/reward_tables/gt_zpm.snbt"
-          }
-        },
-        {
-          "id": "gt_zpm_rewards.snbt",
-          "name": "gt_zpm_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2302,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/gt_zpm_rewards.snbt",
-            "MD5": "aea63d7e96d9370f6858e38ef2b68f29",
-            "path": "config/ftbquests/quests/reward_tables/gt_zpm_rewards.snbt"
-          }
-        },
-        {
-          "id": "industrial_foregoing_advanced_bag.snbt",
-          "name": "industrial_foregoing_advanced_bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1083,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/industrial_foregoing_advanced_bag.snbt",
-            "MD5": "7fb6ed91b041a96a22b3281f6b3ee236",
-            "path": "config/ftbquests/quests/reward_tables/industrial_foregoing_advanced_bag.snbt"
-          }
-        },
-        {
-          "id": "industrial_foregoing_plastic_bag.snbt",
-          "name": "industrial_foregoing_plastic_bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1074,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/industrial_foregoing_plastic_bag.snbt",
-            "MD5": "d6342f050f1dc5bd9fd2aa21fdd654fb",
-            "path": "config/ftbquests/quests/reward_tables/industrial_foregoing_plastic_bag.snbt"
-          }
-        },
-        {
-          "id": "legendary.snbt",
-          "name": "legendary.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2167,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/legendary.snbt",
-            "MD5": "dfd426b0ecd9a2df41c57490c0690001",
-            "path": "config/ftbquests/quests/reward_tables/legendary.snbt"
-          }
-        },
-        {
-          "id": "legendary_gem_bag.snbt",
-          "name": "legendary_gem_bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 4416,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/legendary_gem_bag.snbt",
-            "MD5": "1eff238b102e275d88ae719d49c75ab5",
-            "path": "config/ftbquests/quests/reward_tables/legendary_gem_bag.snbt"
-          }
-        },
-        {
-          "id": "legendary_gt_rewards.snbt",
-          "name": "legendary_gt_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 890,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/legendary_gt_rewards.snbt",
-            "MD5": "cff15d2a3b10c9ab41c441057c7c1e5f",
-            "path": "config/ftbquests/quests/reward_tables/legendary_gt_rewards.snbt"
-          }
-        },
-        {
-          "id": "legendary_mana_loot.snbt",
-          "name": "legendary_mana_loot.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 765,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/legendary_mana_loot.snbt",
-            "MD5": "8163b9913bf7873c27a1bd0a19c45434",
-            "path": "config/ftbquests/quests/reward_tables/legendary_mana_loot.snbt"
-          }
-        },
-        {
-          "id": "living_loot.snbt",
-          "name": "living_loot.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 224,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/living_loot.snbt",
-            "MD5": "f3b1fd7325b5798401aa3e7ab333437d",
-            "path": "config/ftbquests/quests/reward_tables/living_loot.snbt"
-          }
-        },
-        {
-          "id": "mana_materials.snbt",
-          "name": "mana_materials.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 638,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/mana_materials.snbt",
-            "MD5": "628af47774cf6bd6b9780199a3e1a395",
-            "path": "config/ftbquests/quests/reward_tables/mana_materials.snbt"
-          }
-        },
-        {
-          "id": "mekanism.snbt",
-          "name": "mekanism.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 529,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/mekanism.snbt",
-            "MD5": "2772ffa54c1e82745c704c512e4271b2",
-            "path": "config/ftbquests/quests/reward_tables/mekanism.snbt"
-          }
-        },
-        {
-          "id": "mythic.snbt",
-          "name": "mythic.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 7813,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/mythic.snbt",
-            "MD5": "75724d22b33992fd5bdaf38789096b2e",
-            "path": "config/ftbquests/quests/reward_tables/mythic.snbt"
-          }
-        },
-        {
-          "id": "mythic_gt_rewards.snbt",
-          "name": "mythic_gt_rewards.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1048,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/mythic_gt_rewards.snbt",
-            "MD5": "43efeee6ec36dfd84fcb1340a371ec15",
-            "path": "config/ftbquests/quests/reward_tables/mythic_gt_rewards.snbt"
-          }
-        },
-        {
-          "id": "perfect_gem_bag.snbt",
-          "name": "perfect_gem_bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 4446,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/perfect_gem_bag.snbt",
-            "MD5": "fd1053faaec2c4b7f847eb88277d18c8",
-            "path": "config/ftbquests/quests/reward_tables/perfect_gem_bag.snbt"
-          }
-        },
-        {
-          "id": "pnc_advanced_tier.snbt",
-          "name": "pnc_advanced_tier.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 950,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/pnc_advanced_tier.snbt",
-            "MD5": "348cee6be3a8335bbb110a9fedb527e0",
-            "path": "config/ftbquests/quests/reward_tables/pnc_advanced_tier.snbt"
-          }
-        },
-        {
-          "id": "pnc_basic_tier.snbt",
-          "name": "pnc_basic_tier.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 3097,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/pnc_basic_tier.snbt",
-            "MD5": "1ffbcc78b5f2d0c8d7db04565d35282b",
-            "path": "config/ftbquests/quests/reward_tables/pnc_basic_tier.snbt"
-          }
-        },
-        {
-          "id": "pnc_pcb_tier.snbt",
-          "name": "pnc_pcb_tier.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 745,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/pnc_pcb_tier.snbt",
-            "MD5": "25b54d910620f7d27c8491894635329d",
-            "path": "config/ftbquests/quests/reward_tables/pnc_pcb_tier.snbt"
-          }
-        },
-        {
-          "id": "pnc_plastic_tier.snbt",
-          "name": "pnc_plastic_tier.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2154,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/pnc_plastic_tier.snbt",
-            "MD5": "d4edbee58e0ef6c1d4fc19e6dbf34fae",
-            "path": "config/ftbquests/quests/reward_tables/pnc_plastic_tier.snbt"
-          }
-        },
-        {
-          "id": "powah_basic_loot.snbt",
-          "name": "powah_basic_loot.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 811,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/powah_basic_loot.snbt",
-            "MD5": "b5d22f142ddbe6b4c4d66f7af0f6b1d6",
-            "path": "config/ftbquests/quests/reward_tables/powah_basic_loot.snbt"
-          }
-        },
-        {
-          "id": "powah_blazing.snbt",
-          "name": "powah_blazing.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 732,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/powah_blazing.snbt",
-            "MD5": "66f3fe5ce23da41bd4e02b80a7163631",
-            "path": "config/ftbquests/quests/reward_tables/powah_blazing.snbt"
-          }
-        },
-        {
-          "id": "powah_hardened.snbt",
-          "name": "powah_hardened.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 696,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/powah_hardened.snbt",
-            "MD5": "0d5a461d468e39f2042bf947f2c14d40",
-            "path": "config/ftbquests/quests/reward_tables/powah_hardened.snbt"
-          }
-        },
-        {
-          "id": "powah_mats.snbt",
-          "name": "powah_mats.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 570,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/powah_mats.snbt",
-            "MD5": "8acd9d659ae157bcbd02ab2198d47a07",
-            "path": "config/ftbquests/quests/reward_tables/powah_mats.snbt"
-          }
-        },
-        {
-          "id": "powah_niotic.snbt",
-          "name": "powah_niotic.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 699,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/powah_niotic.snbt",
-            "MD5": "19ebb5d34de2cb0fb556c3ee9fea8836",
-            "path": "config/ftbquests/quests/reward_tables/powah_niotic.snbt"
-          }
-        },
-        {
-          "id": "powah_nitro.snbt",
-          "name": "powah_nitro.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 676,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/powah_nitro.snbt",
-            "MD5": "89640c57c7457cb73fac811bb6c78501",
-            "path": "config/ftbquests/quests/reward_tables/powah_nitro.snbt"
-          }
-        },
-        {
-          "id": "powah_orb.snbt",
-          "name": "powah_orb.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 611,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/powah_orb.snbt",
-            "MD5": "3076a59855c23092b00e5f778919750c",
-            "path": "config/ftbquests/quests/reward_tables/powah_orb.snbt"
-          }
-        },
-        {
-          "id": "powah_spirited.snbt",
-          "name": "powah_spirited.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 695,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/powah_spirited.snbt",
-            "MD5": "6518b881876ed524e9d283d3b5961daf",
-            "path": "config/ftbquests/quests/reward_tables/powah_spirited.snbt"
-          }
-        },
-        {
-          "id": "random_tier_1_glyph.snbt",
-          "name": "random_tier_1_glyph.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1239,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/random_tier_1_glyph.snbt",
-            "MD5": "d53df1da716e053acb960c3062eadfae",
-            "path": "config/ftbquests/quests/reward_tables/random_tier_1_glyph.snbt"
-          }
-        },
-        {
-          "id": "rare.snbt",
-          "name": "rare.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2994,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/rare.snbt",
-            "MD5": "ceed5ae20f0642e8ba8e52b650e14b80",
-            "path": "config/ftbquests/quests/reward_tables/rare.snbt"
-          }
-        },
-        {
-          "id": "rare_gem_bag.snbt",
-          "name": "rare_gem_bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 3988,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/rare_gem_bag.snbt",
-            "MD5": "bae5fb4412d7e612aeb1ccdc0d79bd19",
-            "path": "config/ftbquests/quests/reward_tables/rare_gem_bag.snbt"
-          }
-        },
-        {
-          "id": "rare_mana_loot.snbt",
-          "name": "rare_mana_loot.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 637,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/rare_mana_loot.snbt",
-            "MD5": "4dfe489c70186f5fe2d45604d701213b",
-            "path": "config/ftbquests/quests/reward_tables/rare_mana_loot.snbt"
-          }
-        },
-        {
-          "id": "refined_storage_base_materials.snbt",
-          "name": "refined_storage_base_materials.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 297,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/refined_storage_base_materials.snbt",
-            "MD5": "2de58c3e0ad31cef6a8c6d0001b11e40",
-            "path": "config/ftbquests/quests/reward_tables/refined_storage_base_materials.snbt"
-          }
-        },
-        {
-          "id": "refined_storage_parts.snbt",
-          "name": "refined_storage_parts.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 362,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/refined_storage_parts.snbt",
-            "MD5": "e31d7107e41a922fcacd253c64cc485d",
-            "path": "config/ftbquests/quests/reward_tables/refined_storage_parts.snbt"
-          }
-        },
-        {
-          "id": "rs_advanced_parts.snbt",
-          "name": "rs_advanced_parts.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 283,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/rs_advanced_parts.snbt",
-            "MD5": "27b629187bf9adc1729c4cd36173e6b9",
-            "path": "config/ftbquests/quests/reward_tables/rs_advanced_parts.snbt"
-          }
-        },
-        {
-          "id": "rs_random_storage_parts.snbt",
-          "name": "rs_random_storage_parts.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 368,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/rs_random_storage_parts.snbt",
-            "MD5": "6e27eb082250b53740a242784bcafc3e",
-            "path": "config/ftbquests/quests/reward_tables/rs_random_storage_parts.snbt"
-          }
-        },
-        {
-          "id": "Rune_loot.snbt",
-          "name": "Rune_loot.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 296,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/Rune_loot.snbt",
-            "MD5": "59ea613f222169bb9121be87f6663548",
-            "path": "config/ftbquests/quests/reward_tables/Rune_loot.snbt"
-          }
-        },
-        {
-          "id": "ThermalLootBag.snbt",
-          "name": "ThermalLootBag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2031,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/ThermalLootBag.snbt",
-            "MD5": "5c6b7884213d08717450cca700aa31e7",
-            "path": "config/ftbquests/quests/reward_tables/ThermalLootBag.snbt"
-          }
-        },
-        {
-          "id": "Tier1_Seed Bag.snbt",
-          "name": "Tier1_Seed Bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2162,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/Tier1_Seed%20Bag.snbt",
-            "MD5": "ead94c709ca28fb86331500b932282d5",
-            "path": "config/ftbquests/quests/reward_tables/Tier1_Seed Bag.snbt"
-          }
-        },
-        {
-          "id": "Tier2_Seed Bag.snbt",
-          "name": "Tier2_Seed Bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2167,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/Tier2_Seed%20Bag.snbt",
-            "MD5": "aedec13245d073720dcb0aadc2b026bb",
-            "path": "config/ftbquests/quests/reward_tables/Tier2_Seed Bag.snbt"
-          }
-        },
-        {
-          "id": "Tier3_Seed Bag.snbt",
-          "name": "Tier3_Seed Bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 2117,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/Tier3_Seed%20Bag.snbt",
-            "MD5": "7bf2e9c2a5026b92fc8492929df023f0",
-            "path": "config/ftbquests/quests/reward_tables/Tier3_Seed Bag.snbt"
-          }
-        },
-        {
-          "id": "Tier4_SeedBag.snbt",
-          "name": "Tier4_SeedBag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1940,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/Tier4_SeedBag.snbt",
-            "MD5": "9d2c992c82c3cb65db4a1c6e3dae65d5",
-            "path": "config/ftbquests/quests/reward_tables/Tier4_SeedBag.snbt"
-          }
-        },
-        {
-          "id": "Tier5_SeedBag.snbt",
-          "name": "Tier5_SeedBag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1470,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/Tier5_SeedBag.snbt",
-            "MD5": "f437bc0f21da9fe7dea62130f72fec9a",
-            "path": "config/ftbquests/quests/reward_tables/Tier5_SeedBag.snbt"
-          }
-        },
-        {
-          "id": "Tier6Seed Bag.snbt",
-          "name": "Tier6Seed Bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1628,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/Tier6Seed%20Bag.snbt",
-            "MD5": "e0c44dc74ad57c766e5c6087d7221946",
-            "path": "config/ftbquests/quests/reward_tables/Tier6Seed Bag.snbt"
-          }
-        },
-        {
-          "id": "twilight_forest_loot_bag.snbt",
-          "name": "twilight_forest_loot_bag.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 1682,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/twilight_forest_loot_bag.snbt",
-            "MD5": "9d5b629246f141109af525e561c5ac6c",
-            "path": "config/ftbquests/quests/reward_tables/twilight_forest_loot_bag.snbt"
-          }
-        },
-        {
-          "id": "uncommon.snbt",
-          "name": "uncommon.snbt",
-          "type": "File",
-          "artifact": {
-            "size": 8720,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/ftbquests/quests/reward_tables/uncommon.snbt",
-            "MD5": "958398b01e1469501967e116adc570d6",
-            "path": "config/ftbquests/quests/reward_tables/uncommon.snbt"
           }
         },
         {
@@ -5143,7 +3933,6 @@
           "artifact": {
             "size": 0,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/162.83.176.103&25566/lockSlots.txt",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "config/inventoryprofilesnext/162.83.176.103&25566/lockSlots.txt"
           }
         },
@@ -5154,7 +3943,6 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/162.83.176.103&25566/prev-villager-trading-config.json",
-            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/162.83.176.103&25566/prev-villager-trading-config.json"
           }
         },
@@ -5165,7 +3953,6 @@
           "artifact": {
             "size": 1312,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/162.83.176.103&25566/villager-trading-config.json",
-            "MD5": "a2e2d64a33c5b8b9132a435e1b0f7199",
             "path": "config/inventoryprofilesnext/162.83.176.103&25566/villager-trading-config.json"
           }
         },
@@ -5176,7 +3963,6 @@
           "artifact": {
             "size": 1450,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
-            "MD5": "1a018549a3d0f945870f75056ce7e5eb",
             "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
           }
         },
@@ -5187,7 +3973,6 @@
           "artifact": {
             "size": 736,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/integrationHints/player-defined.json",
-            "MD5": "e81229f4518e9d3c628d467917223bfb",
             "path": "config/inventoryprofilesnext/integrationHints/player-defined.json"
           }
         },
@@ -5198,7 +3983,6 @@
           "artifact": {
             "size": 657,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
-            "MD5": "2fb41c9dd5c8b0abb6c1a65b14e040cc",
             "path": "config/inventoryprofilesnext/inventoryprofiles.json"
           }
         },
@@ -5209,7 +3993,6 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/Mundo%20nuevo/prev-villager-trading-config.json",
-            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/Mundo nuevo/prev-villager-trading-config.json"
           }
         },
@@ -5220,7 +4003,6 @@
           "artifact": {
             "size": 35,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/Mundo%20nuevo/profiles.txt",
-            "MD5": "3d09158761cdb42b295ac46d78670089",
             "path": "config/inventoryprofilesnext/Mundo nuevo/profiles.txt"
           }
         },
@@ -5231,7 +4013,6 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/Mundo%20nuevo/villager-trading-config.json",
-            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/Mundo nuevo/villager-trading-config.json"
           }
         },
@@ -5242,7 +4023,6 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/play.ikmev.net&25566/villager-trading-config.json",
-            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/play.ikmev.net&25566/villager-trading-config.json"
           }
         },
@@ -5253,7 +4033,6 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/villager-trading-config.json",
-            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/villager-trading-config.json"
           }
         },
@@ -5264,7 +4043,6 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/world/prev-villager-trading-config.json",
-            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/world/prev-villager-trading-config.json"
           }
         },
@@ -5275,7 +4053,6 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/world/villager-trading-config.json",
-            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/world/villager-trading-config.json"
           }
         },
@@ -5286,7 +4063,6 @@
           "artifact": {
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/inventoryprofilesnext/[fe80&&b512&b226&8247&9dae]&25565/villager-trading-config.json",
-            "MD5": "de09544857b72ba08fecdf74c26cbdb9",
             "path": "config/inventoryprofilesnext/[fe80&&b512&b226&8247&9dae]&25565/villager-trading-config.json"
           }
         },
@@ -5814,7 +4590,6 @@
           "artifact": {
             "size": 288,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/config/oculus.properties",
-            "MD5": "8558773c81c9a6c59c5945cc4f7d99b0",
             "path": "config/oculus.properties"
           }
         },
@@ -14264,6 +13039,886 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/gtceu/ui/recipe_type/star_forge.rtui",
             "MD5": "2b544c70fe47242615deb6538470152f",
             "path": "kubejs/assets/gtceu/ui/recipe_type/star_forge.rtui"
+          }
+        },
+        {
+          "id": "frame_1.png",
+          "name": "frame_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 1872,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_1.png",
+            "MD5": "5b5260a0b408c46fc0abf46e281923ab",
+            "path": "kubejs/assets/icons/textures/frame/frame_1.png"
+          }
+        },
+        {
+          "id": "frame_10.png",
+          "name": "frame_10.png",
+          "type": "File",
+          "artifact": {
+            "size": 1425,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_10.png",
+            "MD5": "ccf3768bcffc9a5774eecf62ff6044f9",
+            "path": "kubejs/assets/icons/textures/frame/frame_10.png"
+          }
+        },
+        {
+          "id": "frame_11.png",
+          "name": "frame_11.png",
+          "type": "File",
+          "artifact": {
+            "size": 1645,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_11.png",
+            "MD5": "2812f8be894315816a673a2e48a0fe21",
+            "path": "kubejs/assets/icons/textures/frame/frame_11.png"
+          }
+        },
+        {
+          "id": "frame_12.png",
+          "name": "frame_12.png",
+          "type": "File",
+          "artifact": {
+            "size": 1668,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_12.png",
+            "MD5": "2a2abbd9d78720875af7262d6d4a129f",
+            "path": "kubejs/assets/icons/textures/frame/frame_12.png"
+          }
+        },
+        {
+          "id": "frame_13.png",
+          "name": "frame_13.png",
+          "type": "File",
+          "artifact": {
+            "size": 1629,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_13.png",
+            "MD5": "85d3c040d2bc09a0b6c272fd19a629f4",
+            "path": "kubejs/assets/icons/textures/frame/frame_13.png"
+          }
+        },
+        {
+          "id": "frame_14.png",
+          "name": "frame_14.png",
+          "type": "File",
+          "artifact": {
+            "size": 2579,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_14.png",
+            "MD5": "abe7136d172d08cd1cd9c26dc4a55ec7",
+            "path": "kubejs/assets/icons/textures/frame/frame_14.png"
+          }
+        },
+        {
+          "id": "frame_15.png",
+          "name": "frame_15.png",
+          "type": "File",
+          "artifact": {
+            "size": 2274,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_15.png",
+            "MD5": "d60d1298c9a21f1f917acc5c8cd34d2c",
+            "path": "kubejs/assets/icons/textures/frame/frame_15.png"
+          }
+        },
+        {
+          "id": "frame_16.png",
+          "name": "frame_16.png",
+          "type": "File",
+          "artifact": {
+            "size": 1636,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_16.png",
+            "MD5": "8b93445b0bc6b24efebf825fcd3ff5cc",
+            "path": "kubejs/assets/icons/textures/frame/frame_16.png"
+          }
+        },
+        {
+          "id": "frame_17.png",
+          "name": "frame_17.png",
+          "type": "File",
+          "artifact": {
+            "size": 1377,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_17.png",
+            "MD5": "91b6c97fb1132025deee306833e3dc75",
+            "path": "kubejs/assets/icons/textures/frame/frame_17.png"
+          }
+        },
+        {
+          "id": "frame_18.png",
+          "name": "frame_18.png",
+          "type": "File",
+          "artifact": {
+            "size": 1547,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_18.png",
+            "MD5": "511a5739acddecfaab86dff302f63a5f",
+            "path": "kubejs/assets/icons/textures/frame/frame_18.png"
+          }
+        },
+        {
+          "id": "frame_19.png",
+          "name": "frame_19.png",
+          "type": "File",
+          "artifact": {
+            "size": 1778,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_19.png",
+            "MD5": "2cceb27e97829545be2b5a96300d841d",
+            "path": "kubejs/assets/icons/textures/frame/frame_19.png"
+          }
+        },
+        {
+          "id": "frame_2.png",
+          "name": "frame_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 1634,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_2.png",
+            "MD5": "4187cba8a03263db23d7d58ed95c2f37",
+            "path": "kubejs/assets/icons/textures/frame/frame_2.png"
+          }
+        },
+        {
+          "id": "frame_20.png",
+          "name": "frame_20.png",
+          "type": "File",
+          "artifact": {
+            "size": 1476,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_20.png",
+            "MD5": "41d9b13078780387958d18e659c4f0e9",
+            "path": "kubejs/assets/icons/textures/frame/frame_20.png"
+          }
+        },
+        {
+          "id": "frame_21.png",
+          "name": "frame_21.png",
+          "type": "File",
+          "artifact": {
+            "size": 1406,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_21.png",
+            "MD5": "d2053c75ad59c1ce63e0827df1b14be7",
+            "path": "kubejs/assets/icons/textures/frame/frame_21.png"
+          }
+        },
+        {
+          "id": "frame_22.png",
+          "name": "frame_22.png",
+          "type": "File",
+          "artifact": {
+            "size": 1895,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_22.png",
+            "MD5": "2ea05fc881ab5954227d68d7e5d1f505",
+            "path": "kubejs/assets/icons/textures/frame/frame_22.png"
+          }
+        },
+        {
+          "id": "frame_23.png",
+          "name": "frame_23.png",
+          "type": "File",
+          "artifact": {
+            "size": 1541,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_23.png",
+            "MD5": "e26735ec21b293776b0d4842458a7883",
+            "path": "kubejs/assets/icons/textures/frame/frame_23.png"
+          }
+        },
+        {
+          "id": "frame_24.png",
+          "name": "frame_24.png",
+          "type": "File",
+          "artifact": {
+            "size": 1755,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_24.png",
+            "MD5": "567a2031d55f1fb8ca08f26a2b0accac",
+            "path": "kubejs/assets/icons/textures/frame/frame_24.png"
+          }
+        },
+        {
+          "id": "frame_25.png",
+          "name": "frame_25.png",
+          "type": "File",
+          "artifact": {
+            "size": 1546,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_25.png",
+            "MD5": "dcaaef86df45205501d0363f51823306",
+            "path": "kubejs/assets/icons/textures/frame/frame_25.png"
+          }
+        },
+        {
+          "id": "frame_26.png",
+          "name": "frame_26.png",
+          "type": "File",
+          "artifact": {
+            "size": 1559,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_26.png",
+            "MD5": "b398343cf8cee9938617bdb62ec30b85",
+            "path": "kubejs/assets/icons/textures/frame/frame_26.png"
+          }
+        },
+        {
+          "id": "frame_27.png",
+          "name": "frame_27.png",
+          "type": "File",
+          "artifact": {
+            "size": 1355,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_27.png",
+            "MD5": "809f9c93e7925c51eb9fbcd2e35e81ac",
+            "path": "kubejs/assets/icons/textures/frame/frame_27.png"
+          }
+        },
+        {
+          "id": "frame_28.png",
+          "name": "frame_28.png",
+          "type": "File",
+          "artifact": {
+            "size": 1694,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_28.png",
+            "MD5": "ffb7e3f23411d103a2a12731ad29c04b",
+            "path": "kubejs/assets/icons/textures/frame/frame_28.png"
+          }
+        },
+        {
+          "id": "frame_29.png",
+          "name": "frame_29.png",
+          "type": "File",
+          "artifact": {
+            "size": 2475,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_29.png",
+            "MD5": "c07a8e7721b7ccb05839c1817b02e091",
+            "path": "kubejs/assets/icons/textures/frame/frame_29.png"
+          }
+        },
+        {
+          "id": "frame_3.png",
+          "name": "frame_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 1353,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_3.png",
+            "MD5": "6ae223749b25b132c609bb12ae564fa5",
+            "path": "kubejs/assets/icons/textures/frame/frame_3.png"
+          }
+        },
+        {
+          "id": "frame_30.png",
+          "name": "frame_30.png",
+          "type": "File",
+          "artifact": {
+            "size": 2164,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_30.png",
+            "MD5": "a3bf3e676bf1033f66cff3861e25bebe",
+            "path": "kubejs/assets/icons/textures/frame/frame_30.png"
+          }
+        },
+        {
+          "id": "frame_31.png",
+          "name": "frame_31.png",
+          "type": "File",
+          "artifact": {
+            "size": 1982,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_31.png",
+            "MD5": "2b04282e8100ee036aa2a47c95115c4d",
+            "path": "kubejs/assets/icons/textures/frame/frame_31.png"
+          }
+        },
+        {
+          "id": "frame_32.png",
+          "name": "frame_32.png",
+          "type": "File",
+          "artifact": {
+            "size": 2457,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_32.png",
+            "MD5": "f10caa048cc12085df46e262d3aaff70",
+            "path": "kubejs/assets/icons/textures/frame/frame_32.png"
+          }
+        },
+        {
+          "id": "frame_33.png",
+          "name": "frame_33.png",
+          "type": "File",
+          "artifact": {
+            "size": 1848,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_33.png",
+            "MD5": "5b7beb3143a4b87b975a217a4be27b4b",
+            "path": "kubejs/assets/icons/textures/frame/frame_33.png"
+          }
+        },
+        {
+          "id": "frame_34.png",
+          "name": "frame_34.png",
+          "type": "File",
+          "artifact": {
+            "size": 2599,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_34.png",
+            "MD5": "6bd5d5f6ea3c20b69f08631dc594b1b1",
+            "path": "kubejs/assets/icons/textures/frame/frame_34.png"
+          }
+        },
+        {
+          "id": "frame_35.png",
+          "name": "frame_35.png",
+          "type": "File",
+          "artifact": {
+            "size": 1520,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_35.png",
+            "MD5": "9b0e953a19edf2acbd5f5791476a11f1",
+            "path": "kubejs/assets/icons/textures/frame/frame_35.png"
+          }
+        },
+        {
+          "id": "frame_36.png",
+          "name": "frame_36.png",
+          "type": "File",
+          "artifact": {
+            "size": 1943,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_36.png",
+            "MD5": "ad7eb6966d2f1799b69288deee0ed4d0",
+            "path": "kubejs/assets/icons/textures/frame/frame_36.png"
+          }
+        },
+        {
+          "id": "frame_37.png",
+          "name": "frame_37.png",
+          "type": "File",
+          "artifact": {
+            "size": 1461,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_37.png",
+            "MD5": "ef45d7b4901014a5a38ac4af427427f0",
+            "path": "kubejs/assets/icons/textures/frame/frame_37.png"
+          }
+        },
+        {
+          "id": "frame_38.png",
+          "name": "frame_38.png",
+          "type": "File",
+          "artifact": {
+            "size": 1507,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_38.png",
+            "MD5": "df8f5663b20e0edeae4e2443981151f4",
+            "path": "kubejs/assets/icons/textures/frame/frame_38.png"
+          }
+        },
+        {
+          "id": "frame_39.png",
+          "name": "frame_39.png",
+          "type": "File",
+          "artifact": {
+            "size": 1724,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_39.png",
+            "MD5": "a6680893cb08d7aa7f294aa99be09629",
+            "path": "kubejs/assets/icons/textures/frame/frame_39.png"
+          }
+        },
+        {
+          "id": "frame_4.png",
+          "name": "frame_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 1667,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_4.png",
+            "MD5": "1d739a1a44390af28b6c4b8e7e7f0afc",
+            "path": "kubejs/assets/icons/textures/frame/frame_4.png"
+          }
+        },
+        {
+          "id": "frame_40.png",
+          "name": "frame_40.png",
+          "type": "File",
+          "artifact": {
+            "size": 1389,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_40.png",
+            "MD5": "ab4818df05e1a1d6f40c755139b10167",
+            "path": "kubejs/assets/icons/textures/frame/frame_40.png"
+          }
+        },
+        {
+          "id": "frame_41.png",
+          "name": "frame_41.png",
+          "type": "File",
+          "artifact": {
+            "size": 1546,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_41.png",
+            "MD5": "64001eea6c092f143ca64d60439837c8",
+            "path": "kubejs/assets/icons/textures/frame/frame_41.png"
+          }
+        },
+        {
+          "id": "frame_42.png",
+          "name": "frame_42.png",
+          "type": "File",
+          "artifact": {
+            "size": 1651,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_42.png",
+            "MD5": "6a357f0e141b20a08ba02535c3983c4f",
+            "path": "kubejs/assets/icons/textures/frame/frame_42.png"
+          }
+        },
+        {
+          "id": "frame_43.png",
+          "name": "frame_43.png",
+          "type": "File",
+          "artifact": {
+            "size": 1753,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_43.png",
+            "MD5": "700c1aa8451abcb11cdee3d8363741ab",
+            "path": "kubejs/assets/icons/textures/frame/frame_43.png"
+          }
+        },
+        {
+          "id": "frame_44.png",
+          "name": "frame_44.png",
+          "type": "File",
+          "artifact": {
+            "size": 1610,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_44.png",
+            "MD5": "618a52e3be3f2e9ecf00232a534aaf02",
+            "path": "kubejs/assets/icons/textures/frame/frame_44.png"
+          }
+        },
+        {
+          "id": "frame_45.png",
+          "name": "frame_45.png",
+          "type": "File",
+          "artifact": {
+            "size": 1742,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_45.png",
+            "MD5": "97ef482b2356e3ad8b06a493ce9aeb7e",
+            "path": "kubejs/assets/icons/textures/frame/frame_45.png"
+          }
+        },
+        {
+          "id": "frame_46.png",
+          "name": "frame_46.png",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_46.png",
+            "MD5": "9b47f8dd8b17e1d6535fa9de35697c8b",
+            "path": "kubejs/assets/icons/textures/frame/frame_46.png"
+          }
+        },
+        {
+          "id": "frame_47.png",
+          "name": "frame_47.png",
+          "type": "File",
+          "artifact": {
+            "size": 1991,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_47.png",
+            "MD5": "4b129affa5fef6f388f67253de15e2a4",
+            "path": "kubejs/assets/icons/textures/frame/frame_47.png"
+          }
+        },
+        {
+          "id": "frame_48.png",
+          "name": "frame_48.png",
+          "type": "File",
+          "artifact": {
+            "size": 1555,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_48.png",
+            "MD5": "9122a03f61f4e731d97c566d776a4e7b",
+            "path": "kubejs/assets/icons/textures/frame/frame_48.png"
+          }
+        },
+        {
+          "id": "frame_49.png",
+          "name": "frame_49.png",
+          "type": "File",
+          "artifact": {
+            "size": 1829,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_49.png",
+            "MD5": "e1ca9a837a3e1382cf527a35e5bed4fe",
+            "path": "kubejs/assets/icons/textures/frame/frame_49.png"
+          }
+        },
+        {
+          "id": "frame_5.png",
+          "name": "frame_5.png",
+          "type": "File",
+          "artifact": {
+            "size": 1530,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_5.png",
+            "MD5": "b8c1d45ce99cf6952f03d84d8ca9fcf2",
+            "path": "kubejs/assets/icons/textures/frame/frame_5.png"
+          }
+        },
+        {
+          "id": "frame_50.png",
+          "name": "frame_50.png",
+          "type": "File",
+          "artifact": {
+            "size": 2713,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_50.png",
+            "MD5": "d190d41ce1885f75878004efe6840134",
+            "path": "kubejs/assets/icons/textures/frame/frame_50.png"
+          }
+        },
+        {
+          "id": "frame_51.png",
+          "name": "frame_51.png",
+          "type": "File",
+          "artifact": {
+            "size": 2717,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_51.png",
+            "MD5": "d034257c50db3bbd20688905db1f1f62",
+            "path": "kubejs/assets/icons/textures/frame/frame_51.png"
+          }
+        },
+        {
+          "id": "frame_52.png",
+          "name": "frame_52.png",
+          "type": "File",
+          "artifact": {
+            "size": 2231,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_52.png",
+            "MD5": "f20db02d15f17fab06571848851aab0d",
+            "path": "kubejs/assets/icons/textures/frame/frame_52.png"
+          }
+        },
+        {
+          "id": "frame_53.png",
+          "name": "frame_53.png",
+          "type": "File",
+          "artifact": {
+            "size": 1850,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_53.png",
+            "MD5": "2d2503f87beff32e39dd08e1fdd2eacd",
+            "path": "kubejs/assets/icons/textures/frame/frame_53.png"
+          }
+        },
+        {
+          "id": "frame_54.png",
+          "name": "frame_54.png",
+          "type": "File",
+          "artifact": {
+            "size": 2708,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_54.png",
+            "MD5": "60e1e7a0a398a9624a155799aa2ab14a",
+            "path": "kubejs/assets/icons/textures/frame/frame_54.png"
+          }
+        },
+        {
+          "id": "frame_55.png",
+          "name": "frame_55.png",
+          "type": "File",
+          "artifact": {
+            "size": 1741,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_55.png",
+            "MD5": "09d1e9cc07d766448bce40fd38b3d387",
+            "path": "kubejs/assets/icons/textures/frame/frame_55.png"
+          }
+        },
+        {
+          "id": "frame_56.png",
+          "name": "frame_56.png",
+          "type": "File",
+          "artifact": {
+            "size": 1783,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_56.png",
+            "MD5": "63285aeecbf3ce74eb435538aef6cbbf",
+            "path": "kubejs/assets/icons/textures/frame/frame_56.png"
+          }
+        },
+        {
+          "id": "frame_57.png",
+          "name": "frame_57.png",
+          "type": "File",
+          "artifact": {
+            "size": 1430,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_57.png",
+            "MD5": "17afe2eb17502d3d18c6e68af9e8094e",
+            "path": "kubejs/assets/icons/textures/frame/frame_57.png"
+          }
+        },
+        {
+          "id": "frame_58.png",
+          "name": "frame_58.png",
+          "type": "File",
+          "artifact": {
+            "size": 1796,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_58.png",
+            "MD5": "e25b5b94eb54c72bfcf108cbd74e1ff0",
+            "path": "kubejs/assets/icons/textures/frame/frame_58.png"
+          }
+        },
+        {
+          "id": "frame_59.png",
+          "name": "frame_59.png",
+          "type": "File",
+          "artifact": {
+            "size": 1603,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_59.png",
+            "MD5": "8ca5867cc9c09dfdc8101afa5b62aa46",
+            "path": "kubejs/assets/icons/textures/frame/frame_59.png"
+          }
+        },
+        {
+          "id": "frame_6.png",
+          "name": "frame_6.png",
+          "type": "File",
+          "artifact": {
+            "size": 1355,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_6.png",
+            "MD5": "e5c27d2b3776688cafd13a70986b652a",
+            "path": "kubejs/assets/icons/textures/frame/frame_6.png"
+          }
+        },
+        {
+          "id": "frame_60.png",
+          "name": "frame_60.png",
+          "type": "File",
+          "artifact": {
+            "size": 1473,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_60.png",
+            "MD5": "bfa06587cb7e87157257291207d8ea6a",
+            "path": "kubejs/assets/icons/textures/frame/frame_60.png"
+          }
+        },
+        {
+          "id": "frame_61.png",
+          "name": "frame_61.png",
+          "type": "File",
+          "artifact": {
+            "size": 1474,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_61.png",
+            "MD5": "da3c25a4f4c44340d3641355b0e87ecc",
+            "path": "kubejs/assets/icons/textures/frame/frame_61.png"
+          }
+        },
+        {
+          "id": "frame_62.png",
+          "name": "frame_62.png",
+          "type": "File",
+          "artifact": {
+            "size": 1776,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_62.png",
+            "MD5": "70d77ff0b8966fb22ec8079961422702",
+            "path": "kubejs/assets/icons/textures/frame/frame_62.png"
+          }
+        },
+        {
+          "id": "frame_63.png",
+          "name": "frame_63.png",
+          "type": "File",
+          "artifact": {
+            "size": 1923,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_63.png",
+            "MD5": "d37621114f51c6da3b51115362ecf03d",
+            "path": "kubejs/assets/icons/textures/frame/frame_63.png"
+          }
+        },
+        {
+          "id": "frame_64.png",
+          "name": "frame_64.png",
+          "type": "File",
+          "artifact": {
+            "size": 1972,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_64.png",
+            "MD5": "41eaae15a4f56c4f7c278006775ded99",
+            "path": "kubejs/assets/icons/textures/frame/frame_64.png"
+          }
+        },
+        {
+          "id": "frame_65.png",
+          "name": "frame_65.png",
+          "type": "File",
+          "artifact": {
+            "size": 1668,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_65.png",
+            "MD5": "117e6f4f1dbbaa81550cb89c60315527",
+            "path": "kubejs/assets/icons/textures/frame/frame_65.png"
+          }
+        },
+        {
+          "id": "frame_66.png",
+          "name": "frame_66.png",
+          "type": "File",
+          "artifact": {
+            "size": 2199,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_66.png",
+            "MD5": "8988b7934b3b91734d991d41626ffb81",
+            "path": "kubejs/assets/icons/textures/frame/frame_66.png"
+          }
+        },
+        {
+          "id": "frame_67.png",
+          "name": "frame_67.png",
+          "type": "File",
+          "artifact": {
+            "size": 1446,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_67.png",
+            "MD5": "d6d159fd40f4bb3337ba133c0fca7576",
+            "path": "kubejs/assets/icons/textures/frame/frame_67.png"
+          }
+        },
+        {
+          "id": "frame_68.png",
+          "name": "frame_68.png",
+          "type": "File",
+          "artifact": {
+            "size": 1572,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_68.png",
+            "MD5": "a8cfcd40aa07af4b3556cc6428ae9781",
+            "path": "kubejs/assets/icons/textures/frame/frame_68.png"
+          }
+        },
+        {
+          "id": "frame_69.png",
+          "name": "frame_69.png",
+          "type": "File",
+          "artifact": {
+            "size": 1543,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_69.png",
+            "MD5": "272d7a713aabd76a7a7336414caca573",
+            "path": "kubejs/assets/icons/textures/frame/frame_69.png"
+          }
+        },
+        {
+          "id": "frame_7.png",
+          "name": "frame_7.png",
+          "type": "File",
+          "artifact": {
+            "size": 1730,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_7.png",
+            "MD5": "40c4343b1f9e19d515e73242a93e2e6c",
+            "path": "kubejs/assets/icons/textures/frame/frame_7.png"
+          }
+        },
+        {
+          "id": "frame_70.png",
+          "name": "frame_70.png",
+          "type": "File",
+          "artifact": {
+            "size": 1740,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_70.png",
+            "MD5": "ceae2c8b62ccf7a947bd8d2270c096e2",
+            "path": "kubejs/assets/icons/textures/frame/frame_70.png"
+          }
+        },
+        {
+          "id": "frame_71.png",
+          "name": "frame_71.png",
+          "type": "File",
+          "artifact": {
+            "size": 1558,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_71.png",
+            "MD5": "3a66b81bdddb64e5e7af83c41fec06b1",
+            "path": "kubejs/assets/icons/textures/frame/frame_71.png"
+          }
+        },
+        {
+          "id": "frame_72.png",
+          "name": "frame_72.png",
+          "type": "File",
+          "artifact": {
+            "size": 1432,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_72.png",
+            "MD5": "a7e6b2f09c87309bf5258e44b84b1630",
+            "path": "kubejs/assets/icons/textures/frame/frame_72.png"
+          }
+        },
+        {
+          "id": "frame_73.png",
+          "name": "frame_73.png",
+          "type": "File",
+          "artifact": {
+            "size": 1595,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_73.png",
+            "MD5": "d9c7d5dd25708457f97a77cf1d065bf5",
+            "path": "kubejs/assets/icons/textures/frame/frame_73.png"
+          }
+        },
+        {
+          "id": "frame_74.png",
+          "name": "frame_74.png",
+          "type": "File",
+          "artifact": {
+            "size": 1620,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_74.png",
+            "MD5": "8c4264ff7d737618099412518b344914",
+            "path": "kubejs/assets/icons/textures/frame/frame_74.png"
+          }
+        },
+        {
+          "id": "frame_75.png",
+          "name": "frame_75.png",
+          "type": "File",
+          "artifact": {
+            "size": 1314,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_75.png",
+            "MD5": "6ba66ac6a907d0482d2b9e9b8b316e46",
+            "path": "kubejs/assets/icons/textures/frame/frame_75.png"
+          }
+        },
+        {
+          "id": "frame_76.png",
+          "name": "frame_76.png",
+          "type": "File",
+          "artifact": {
+            "size": 1653,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_76.png",
+            "MD5": "fd4d7056187b78c72e69b9bb46a971e9",
+            "path": "kubejs/assets/icons/textures/frame/frame_76.png"
+          }
+        },
+        {
+          "id": "frame_77.png",
+          "name": "frame_77.png",
+          "type": "File",
+          "artifact": {
+            "size": 1628,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_77.png",
+            "MD5": "d19cfa5cf0036fea42581f314a498dcd",
+            "path": "kubejs/assets/icons/textures/frame/frame_77.png"
+          }
+        },
+        {
+          "id": "frame_78.png",
+          "name": "frame_78.png",
+          "type": "File",
+          "artifact": {
+            "size": 1510,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_78.png",
+            "MD5": "b3df2767da0ac037823db936ce2a96fa",
+            "path": "kubejs/assets/icons/textures/frame/frame_78.png"
+          }
+        },
+        {
+          "id": "frame_79.png",
+          "name": "frame_79.png",
+          "type": "File",
+          "artifact": {
+            "size": 1543,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_79.png",
+            "MD5": "3c6ae52d3158fbd274a5a8ffed5e42cf",
+            "path": "kubejs/assets/icons/textures/frame/frame_79.png"
+          }
+        },
+        {
+          "id": "frame_8.png",
+          "name": "frame_8.png",
+          "type": "File",
+          "artifact": {
+            "size": 2624,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_8.png",
+            "MD5": "4a1e00465722733ea912d3ff0e7cb9b8",
+            "path": "kubejs/assets/icons/textures/frame/frame_8.png"
+          }
+        },
+        {
+          "id": "frame_80.png",
+          "name": "frame_80.png",
+          "type": "File",
+          "artifact": {
+            "size": 1936,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_80.png",
+            "MD5": "21802856a0426e23dfaf442c1a8fd2f6",
+            "path": "kubejs/assets/icons/textures/frame/frame_80.png"
+          }
+        },
+        {
+          "id": "frame_9.png",
+          "name": "frame_9.png",
+          "type": "File",
+          "artifact": {
+            "size": 2303,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/kubejs/assets/icons/textures/frame/frame_9.png",
+            "MD5": "fc5ca0ebe7dd6ca817b6263d6a94edc2",
+            "path": "kubejs/assets/icons/textures/frame/frame_9.png"
           }
         },
         {
@@ -24789,7 +24444,6 @@
           "artifact": {
             "size": 15194,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/options.txt",
-            "MD5": "1bedff4442d4090dd0bb9d708cd97c3a",
             "path": "options.txt"
           }
         },
@@ -24820,9 +24474,9 @@
           "name": "mconly.zip",
           "type": "File",
           "artifact": {
-            "size": 14923128,
+            "size": 14708766,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/resourcepacks/mconly.zip",
-            "MD5": "b898d4e0a54a28dc7bf61ab65461df88",
+            "MD5": "9f6924e2af9cbe8dde68dd99e0580216",
             "path": "resourcepacks/mconly.zip"
           }
         },
@@ -24921,7 +24575,6 @@
           "artifact": {
             "size": 42,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt",
-            "MD5": "d48affc6524e1b62832e5655d85dd851",
             "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
           }
         },
