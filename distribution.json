@@ -12,7 +12,7 @@
       "name": "Ice (Minecraft 1.20.1)",
       "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.15",
+      "version": "1.0.16",
       "address": "162.83.176.103:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -24445,6 +24445,72 @@
             "size": 15182,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "Better Enchanting Table v.2.2 (1.13 - 1.21.8).zip",
+          "name": "Better Enchanting Table v.2.2 (1.13 - 1.21.8).zip",
+          "type": "File",
+          "artifact": {
+            "size": 140096,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/resourcepacks/Better%20Enchanting%20Table%20v.2.2%20(1.13%20-%201.21.8).zip",
+            "MD5": "7041614cfa685ed58c60ded4fe970441",
+            "path": "resourcepacks/Better Enchanting Table v.2.2 (1.13 - 1.21.8).zip"
+          }
+        },
+        {
+          "id": "Enchanting Table Magic Circle v.2.5 (1.19 - 1.20.4).zip",
+          "name": "Enchanting Table Magic Circle v.2.5 (1.19 - 1.20.4).zip",
+          "type": "File",
+          "artifact": {
+            "size": 28871190,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/resourcepacks/Enchanting%20Table%20Magic%20Circle%20v.2.5%20(1.19%20-%201.20.4).zip",
+            "MD5": "3310d3c4c588dc3961aeb8d81aea24e3",
+            "path": "resourcepacks/Enchanting Table Magic Circle v.2.5 (1.19 - 1.20.4).zip"
+          }
+        },
+        {
+          "id": "mconly.zip",
+          "name": "mconly.zip",
+          "type": "File",
+          "artifact": {
+            "size": 14708766,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/resourcepacks/mconly.zip",
+            "MD5": "9f6924e2af9cbe8dde68dd99e0580216",
+            "path": "resourcepacks/mconly.zip"
+          }
+        },
+        {
+          "id": "Overdetailed Enchanting Table 1.20.1.zip",
+          "name": "Overdetailed Enchanting Table 1.20.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 23947,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/resourcepacks/Overdetailed%20Enchanting%20Table%201.20.1.zip",
+            "MD5": "e53091412936178c2013ebeed5fcee0d",
+            "path": "resourcepacks/Overdetailed Enchanting Table 1.20.1.zip"
+          }
+        },
+        {
+          "id": "Quark Programmer Art.zip",
+          "name": "Quark Programmer Art.zip",
+          "type": "File",
+          "artifact": {
+            "size": 266434,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/resourcepacks/Quark%20Programmer%20Art.zip",
+            "MD5": "372d5ab8040ea8fbf0265bf9163ff206",
+            "path": "resourcepacks/Quark Programmer Art.zip"
+          }
+        },
+        {
+          "id": "§bEnchanting§8-§bReimagined§0_§8[v1.4]§0.zip",
+          "name": "§bEnchanting§8-§bReimagined§0_§8[v1.4]§0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2747978,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/files/resourcepacks/%C2%A7bEnchanting%C2%A78-%C2%A7bReimagined%C2%A70_%C2%A78[v1.4]%C2%A70.zip",
+            "MD5": "8010957be2ae4abcd5ae3b5bbebeedac",
+            "path": "resourcepacks/§bEnchanting§8-§bReimagined§0_§8[v1.4]§0.zip"
           }
         },
         {
