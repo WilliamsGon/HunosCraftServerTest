@@ -12,7 +12,7 @@
       "name": "Ice (Minecraft 1.20.1)",
       "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.16",
+      "version": "1.0.17",
       "address": "162.83.176.103:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -443,16 +443,6 @@
           }
         },
         {
-          "id": "net.potionstudios:woodwevegot:1.2.4@jar",
-          "name": "All the Wood We've Got",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 735199,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/All-The-Wood-Weve-Got-Forge-1.2.4.jar",
-            "MD5": "d30829f8fa3ec3b7be3a3455028c818f"
-          }
-        },
-        {
           "id": "dev.uncandango:alltheleaks:1.1.1+1.20.1-forge@jar",
           "name": "All The Leaks",
           "type": "ForgeMod",
@@ -510,6 +500,16 @@
             "size": 47428,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
+          }
+        },
+        {
+          "id": "com.obscuria:aquamirae:6.4.0@jar",
+          "name": "Aquamirae",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19073985,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/aquamirae-forge-1.20.1-6.4.0.jar",
+            "MD5": "d47dd885b52d1d95a1761d976b99ff5e"
           }
         },
         {
@@ -610,6 +610,16 @@
             "size": 591397,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.38-all.jar",
             "MD5": "499467bc8050be8893b08995438cc026"
+          }
+        },
+        {
+          "id": "biomesoplenty.core:biomesoplenty:18.0.0.592@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21800460,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+            "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
           }
         },
         {
@@ -905,16 +915,6 @@
           }
         },
         {
-          "id": "generated.forgemod:create:otbwg-compat-1.0@jar",
-          "name": "Create",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 517455,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/create-otbwg-compat-1.0.jar",
-            "MD5": "83caf9e3a6833104f5d14a939dd96327"
-          }
-        },
-        {
           "id": "com.github.eterdelta:crittersandcompanions:1.20.1-2.3.5@jar",
           "name": "Critters and Companions",
           "type": "ForgeMod",
@@ -922,6 +922,16 @@
             "size": 1594359,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/crittersandcompanions-forge-1.20.1-2.3.5.jar",
             "MD5": "758bf538d42daea117e2d7fd51e7e29a"
+          }
+        },
+        {
+          "id": "com.benji:netherman:1.1.4.9a@jar",
+          "name": "Cult of Azazel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10908756,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/cultofazazelforge-1.1.4.9a.jar",
+            "MD5": "db8e7b9bac5591830962de1ac41d1101"
           }
         },
         {
@@ -942,6 +952,16 @@
             "size": 398066,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          }
+        },
+        {
+          "id": "com.leclowndu93150:cushionbackport:1.0.5@jar",
+          "name": "Cushion Backport",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 156162,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/cushionbackport-1.20.1-Forge-1.0.5.jar",
+            "MD5": "677d6422eba47e410520ae66b319b079"
           }
         },
         {
@@ -1631,6 +1651,16 @@
           }
         },
         {
+          "id": "com.obscuria.obscureapi:obscure_api:18@jar",
+          "name": "Obscure API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1128392,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/obscure_api-18.jar",
+            "MD5": "2ebabd6dd8f9e8dad64b0c5cbc187f8d"
+          }
+        },
+        {
           "id": "dev.obscuria.tooltips:obscure_tooltips:3.10.0@jar",
           "name": "Obscure Tooltips",
           "type": "ForgeMod",
@@ -1664,26 +1694,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "net.potionstudios:biomeswevegone:1.8.0@jar",
-          "name": "Oh The Biomes We've Gone",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19043613,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar",
-            "MD5": "8ecfa6be1ee15e99782697c87978d7c2"
-          }
-        },
-        {
-          "id": "dev.corgitaco:ohthetreesyoullgrow:1.7.0@jar",
-          "name": "Oh The Trees You'll Grow",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 171966,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar",
-            "MD5": "df3fd97fa05a2d83e65b922a8e6eb8d5"
           }
         },
         {
@@ -1810,16 +1820,6 @@
           }
         },
         {
-          "id": "net.mcreator.quarkrecipesbiomeswevegone:quark_recipes_biomes_we_ve_gone:1.0@jar",
-          "name": "Quark Recipes Oh The Biomes We've Gone",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 89973,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/Quark_Recipes_Oh_The_Biomes_We_Ve_Gone_1.20.1(ver.1.0).jar",
-            "MD5": "b9cf44be4dc4d1f8f400def0475e3424"
-          }
-        },
-        {
           "id": "org.violetmoon.quark.base:quark:4.0-462@jar",
           "name": "Quark",
           "type": "ForgeMod",
@@ -1867,6 +1867,16 @@
             "size": 6689588,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.20.jar",
             "MD5": "53bf35be2dc746e3fd7805a4e63a46a6"
+          }
+        },
+        {
+          "id": "net.regions_unexplored:regions_unexplored:0.5.6@jar",
+          "name": "Regions Unexplored",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5726781,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/RegionsUnexploredForge-0.5.6+1.20.1.jar",
+            "MD5": "82c3073f606044e7b56d432d324ca480"
           }
         },
         {
@@ -2209,16 +2219,6 @@
             "size": 533738,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.20.jar",
             "MD5": "eb4dcdc36470b7fd858c39547ad1c7d2"
-          }
-        },
-        {
-          "id": "de.ambertation:wunderlib:20.0.1@jar",
-          "name": "WunderLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 227846,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/WunderLib-20.0.1.jar",
-            "MD5": "ab152e7d10fc21a743ab77f7a244c9f5"
           }
         },
         {
