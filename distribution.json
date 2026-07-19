@@ -12,7 +12,7 @@
       "name": "Ice (Minecraft 1.20.1)",
       "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.18",
+      "version": "1.0.19",
       "address": "162.83.176.103:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -992,16 +992,6 @@
             "size": 22344,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/durabilitytooltip-1.1.6-forge-mc1.20.jar",
             "MD5": "bad7f67ed1b4b322654d6b9a58a611cb"
-          }
-        },
-        {
-          "id": "com.adamnew:dynamicwaters:11.0.0@jar",
-          "name": "Dynamic Waters",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 190513,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/dynamicwaters-11.0.0.jar",
-            "MD5": "cc27b950322da745499baa4263b43054"
           }
         },
         {
