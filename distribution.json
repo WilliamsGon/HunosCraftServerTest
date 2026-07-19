@@ -12,7 +12,7 @@
       "name": "Ice (Minecraft 1.20.1)",
       "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.19",
+      "version": "1.0.20",
       "address": "162.83.176.103:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -2199,16 +2199,6 @@
             "size": 435496,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/watut-forge-1.20.1-1.2.3.jar",
             "MD5": "345d3ecdf94dffaa0e3ba55538c65f80"
-          }
-        },
-        {
-          "id": "net.mcreator.waystonetowers:waystone_towers:1.0.9@jar",
-          "name": "Waystone Towers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 97403,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/waystone_towers-1.20.1-FORGE-1.0.9.jar",
-            "MD5": "dbe4f766e9b2a139818fbb08852d5194"
           }
         },
         {
