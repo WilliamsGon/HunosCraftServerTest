@@ -12,7 +12,7 @@
       "name": "Ice (Minecraft 1.20.1)",
       "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.20",
+      "version": "1.0.21",
       "address": "162.83.176.103:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -752,6 +752,19 @@
           }
         },
         {
+          "id": "net.gamev:cinematic_respawn:1.1.0@jar",
+          "name": "Cinematic Respawn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26437,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/optionalon/cinematic_respawn-1.20.1-forge-1.1.0.jar",
+            "MD5": "ce3404a43ae6bb58e4a8ece8ec3bd532"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
           "name": "Cloth Config v10 API",
           "type": "ForgeMod",
@@ -1326,6 +1339,16 @@
             "size": 1039298,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/golemoverhaul-forge-1.20.1-1.1.0.jar",
             "MD5": "1d228fa79b4492de35f999cb75328eb4"
+          }
+        },
+        {
+          "id": "dev.codex.gtaliketeleport:gtalike_teleport:1.20.1-forge-build300@jar",
+          "name": "Grand Teleport",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1157845,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/grand-teleport-forge-1.20.1-forge-build300.jar",
+            "MD5": "7d250a384ac62fcb9054d94e8614e764"
           }
         },
         {
