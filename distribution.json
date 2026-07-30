@@ -12,7 +12,7 @@
       "name": "Ice (Minecraft 1.20.1)",
       "description": "Ice Running Minecraft 1.20.1 (Forge v47.4.18)",
       "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
-      "version": "1.0.23",
+      "version": "1.0.24",
       "address": "162.83.176.103:25566",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -543,13 +543,13 @@
           }
         },
         {
-          "id": "com.atila:atilas_armors:2.1.0@jar",
+          "id": "com.atila:atilas_armors:2.2.0@jar",
           "name": "Atila's Armors",
           "type": "ForgeMod",
           "artifact": {
-            "size": 156134,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/atilas_armors-2.1.0.jar",
-            "MD5": "eaf6af7c6d5d280e3e740ba96aec0a5c"
+            "size": 181647,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Ice-1.20.1/forgemods/required/atilas_armors-2.2.0.jar",
+            "MD5": "43476df60427b14ddbd5ac71600f20bd"
           }
         },
         {
