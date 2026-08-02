@@ -1,0 +1,9 @@
+{
+  "panel": "atilas_armors:default_panel",
+  "effects": [
+    "atilas_armors:particles",
+    "atilas_armors:icon_particles",
+    "atilas_armors:ray_glow",
+    "atilas_armors:rim_light"
+  ]
+}

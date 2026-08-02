@@ -1,0 +1,12 @@
+
+["Sleep Healing and Time Settings"]
+	#How often will heal? (20 ticks = 1 second)
+	#Range: 20 ~ 10000
+	healIntervalTicks = 200
+	#The amount of to heal (1 = half a heart, 2 = one heart)
+	#Range: 1 ~ 20
+	healAmount = 1
+	#Maximum speed for accelerating time (whether everyone is asleep or playing alone).
+	#Range: 1.0 ~ 100.0
+	maxSpeedMultiplier = 20.0
+
