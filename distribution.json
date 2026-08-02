@@ -11,7 +11,7 @@
       "id": "Hunos-1.20.1",
       "name": "Hunos (Minecraft 1.20.1)",
       "description": "Hunos Running Minecraft 1.20.1 (Forge v47.4.18)",
-      "icon": null,
+      "icon": "https://github.com/WilliamsGon/HunosCraft/blob/master/app/assets/images/hunosTech4Lite.png?raw=true",
       "version": "1.0.0",
       "address": "play.ikmev.net:25565",
       "minecraftVersion": "1.20.1",
@@ -543,13 +543,13 @@
           }
         },
         {
-          "id": "com.atila:atilas_armors:2.2.0@jar",
+          "id": "com.atila:atilas_armors:2.3.0@jar",
           "name": "Atila's Armors",
           "type": "ForgeMod",
           "artifact": {
-            "size": 403529,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/atilas_armors-2.2.0.jar",
-            "MD5": "79f19a1565273fea16923ac981ba59aa"
+            "size": 403868,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/atilas_armors-2.3.0.jar",
+            "MD5": "cfb2b63ce0c9c1814e866216f2927b1f"
           }
         },
         {
