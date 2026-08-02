@@ -1253,16 +1253,6 @@
           }
         },
         {
-          "id": "dev.codex.gtaliketeleport:gtalike_teleport:1.20.1-forge-build300@jar",
-          "name": "Grand Teleport",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1157845,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/grand-teleport-forge-1.20.1-forge-build300.jar.disabled",
-            "MD5": "7d250a384ac62fcb9054d94e8614e764"
-          }
-        },
-        {
           "id": "net.joefoxe:hexerei:1.20.1-0.4.2.3@jar",
           "name": "Hexerei",
           "type": "ForgeMod",
@@ -1290,16 +1280,6 @@
             "size": 2341695,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/IllagerInvasion-v8.0.7-1.20.1-Forge.jar",
             "MD5": "0f249a47d8ac6c20e0ba6b0b8890e29b"
-          }
-        },
-        {
-          "id": "illagerwarship:illagerwarship:1.0.1@jar",
-          "name": "Illager-Warship",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 70657,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/illagerwarship-1.0.1-forge-1.20.1.jar.disabled",
-            "MD5": "fb212ccc8cf27a47c5a27ad30ef814f7"
           }
         },
         {
