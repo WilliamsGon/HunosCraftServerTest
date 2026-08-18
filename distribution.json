@@ -25095,7 +25095,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 16405,
+            "size": 16402,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -25186,6 +25186,17 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/resourcepacks/FreshAnimations_v1.10.4.zip",
             "MD5": "ab0e8cc3444e98f0fd51ac0d84533d52",
             "path": "resourcepacks/FreshAnimations_v1.10.4.zip"
+          }
+        },
+        {
+          "id": "Magic Circle.zip",
+          "name": "Magic Circle.zip",
+          "type": "File",
+          "artifact": {
+            "size": 28827183,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/resourcepacks/Magic%20Circle.zip",
+            "MD5": "af43e47a00756253cd86f9922924ccf8",
+            "path": "resourcepacks/Magic Circle.zip"
           }
         },
         {
