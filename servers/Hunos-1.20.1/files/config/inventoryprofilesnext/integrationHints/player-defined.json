@@ -1,9 +1,6 @@
 {
     "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
         "buttonHints": {
-            "MOVE_TO_CONTAINER": {
-                "horizontalOffset": 1
-            },
             "SORT": {
                 "horizontalOffset": 10
             },
@@ -14,15 +11,15 @@
                 "horizontalOffset": 12
             },
             "PROFILE_SELECTOR": {
-                "bottom": 23
+                "bottom": 4
             },
             "SHOW_EDITOR": {
-                "horizontalOffset": 40,
-                "top": -6
+                "horizontalOffset": 44,
+                "top": -5
             },
             "SETTINGS": {
                 "horizontalOffset": 28,
-                "top": -21
+                "top": -20
             }
         }
     }

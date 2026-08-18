@@ -1,5 +1,16 @@
 {
   "attributes": {
+    "obscure_api:penetration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "forge:step_height_addition": {
       "enabled": false,
       "min": {
@@ -9,17 +20,6 @@
       "max": {
         "default": 512,
         "value": 512
-      }
-    },
-    "soulsweapons:base_posture_increase": {
-      "enabled": false,
-      "min": {
-        "default": -10000,
-        "value": -10000
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
       }
     },
     "minecraft:generic.follow_range": {
@@ -44,6 +44,17 @@
         "value": 9
       }
     },
+    "obscure_api:dodge": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "irons_spellbooks:nature_spell_power": {
       "enabled": false,
       "min": {
@@ -64,6 +75,17 @@
       "max": {
         "default": 8,
         "value": 8
+      }
+    },
+    "obscure_api:resilience": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "irons_spellbooks:nature_magic_resist": {
@@ -88,6 +110,17 @@
         "value": 100
       }
     },
+    "obscure_api:regeneration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100000,
+        "value": 100000
+      }
+    },
     "irons_spellbooks:lightning_magic_resist": {
       "enabled": false,
       "min": {
@@ -108,28 +141,6 @@
       "max": {
         "default": 100,
         "value": 100
-      }
-    },
-    "ranged_weapon:haste": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
-    "minecolonies:mc_mob_damage": {
-      "enabled": false,
-      "min": {
-        "default": 1,
-        "value": 1
-      },
-      "max": {
-        "default": 20,
-        "value": 20
       }
     },
     "minecraft:generic.luck": {
@@ -165,17 +176,6 @@
         "value": 1024
       }
     },
-    "irons_spellbooks:fire_spell_power": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "minecraft:air_drag_modifier": {
       "enabled": true,
       "min": {
@@ -187,15 +187,15 @@
         "value": 2048
       }
     },
-    "soulsweapons:bleed_damage_resistance": {
+    "irons_spellbooks:fire_spell_power": {
       "enabled": false,
       "min": {
-        "default": -10000,
-        "value": -10000
+        "default": -100,
+        "value": -100
       },
       "max": {
-        "default": 10000,
-        "value": 10000
+        "default": 100,
+        "value": 100
       }
     },
     "forge:entity_reach": {
@@ -207,6 +207,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "obscure_api:magic_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "tacz:tacz.bullet_resistance": {
@@ -253,7 +264,29 @@
         "value": 1024
       }
     },
+    "obscure_api:magic_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100000,
+        "value": 100000
+      }
+    },
     "irons_spellbooks:casting_movespeed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "obscure_api:healing_power": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -385,6 +418,17 @@
         "value": 1000000
       }
     },
+    "obscure_api:accuracy": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "irons_spellbooks:fire_magic_resist": {
       "enabled": false,
       "min": {
@@ -451,17 +495,6 @@
         "value": 100
       }
     },
-    "soulsweapons:frost_buildup_resistance": {
-      "enabled": false,
-      "min": {
-        "default": -10000,
-        "value": -10000
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
     "irons_spellbooks:evocation_magic_resist": {
       "enabled": false,
       "min": {
@@ -495,6 +528,17 @@
         "value": 512
       }
     },
+    "obscure_api:parry": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "minecraft:generic.attack_speed": {
       "enabled": true,
       "min": {
@@ -515,17 +559,6 @@
       "max": {
         "default": 100,
         "value": 100
-      }
-    },
-    "ranged_weapon:damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
       }
     },
     "minecraft:generic.attack_damage": {
@@ -594,6 +627,17 @@
         "value": 100
       }
     },
+    "obscure_api:critical_hit": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "irons_lib:armor_pierce": {
       "enabled": false,
       "min": {
@@ -603,17 +647,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "soulsweapons:posture_buildup_resistance": {
-      "enabled": false,
-      "min": {
-        "default": -10000,
-        "value": -10000
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
       }
     },
     "minecraft:generic.flying_speed": {
@@ -682,6 +715,17 @@
         "value": 512
       }
     },
+    "minecraft:friction_modifier": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "botania:pixie_spawn_chance": {
       "enabled": false,
       "min": {
@@ -693,6 +737,17 @@
         "value": 1
       }
     },
+    "obscure_api:critical_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "irons_spellbooks:spell_resist": {
       "enabled": false,
       "min": {
@@ -702,17 +757,6 @@
       "max": {
         "default": 100,
         "value": 100
-      }
-    },
-    "minecraft:friction_modifier": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
       }
     },
     "minecraft:generic.max_health": {
@@ -746,28 +790,6 @@
       "max": {
         "default": 100,
         "value": 100
-      }
-    },
-    "soulsweapons:frost_damage_resistance": {
-      "enabled": false,
-      "min": {
-        "default": -10000,
-        "value": -10000
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
-    "soulsweapons:bleed_buildup_resistance": {
-      "enabled": false,
-      "min": {
-        "default": -10000,
-        "value": -10000
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
       }
     },
     "irons_lib:crit_damage": {
@@ -817,8 +839,8 @@
     "minecraft:generic.knockback_resistance": {
       "enabled": true,
       "min": {
-        "default": -2,
-        "value": -2
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 1,

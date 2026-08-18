@@ -1,5 +1,6 @@
 {
   "balm:jade": null,
+  "camera:image_frame": null,
   "cookingforblockheads:fridge": null,
   "cookingforblockheads:milk_jar": null,
   "cookingforblockheads:oven": null,
@@ -11,6 +12,8 @@
   "jade:mod_name": null,
   "jade:object_name": null,
   "jade:registry_name": null,
+  "kaleidoscope_doll:doll_block": null,
+  "kaleidoscope_doll:doll_entity": null,
   "minecraft:animal_owner": null,
   "minecraft:armor_stand": null,
   "minecraft:beehive": null,

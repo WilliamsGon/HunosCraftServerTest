@@ -74,6 +74,13 @@
   "waystones": {
     "waystone": true
   },
+  "camera": {
+    "image_frame": true
+  },
+  "kaleidoscope_doll": {
+    "doll_block": true,
+    "doll_entity": true
+  },
   "cookingforblockheads": {
     "fridge": true,
     "oven": true,
