@@ -25095,9 +25095,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 16402,
+            "size": 16037,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/options.txt",
-            "MD5": "c06eb6ceccafe76f2cabc269c0e3a927",
+            "MD5": "0b98c19d52f60dbd2e48f717e0a3f1d7",
             "path": "options.txt"
           }
         },
