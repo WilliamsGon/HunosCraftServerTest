@@ -20,7 +20,7 @@ version = 3
 # 
 defaultGlobalExecutorParallelismExpression = "default"
 # (Default: 3) Configures the parallelism of global executor
-globalExecutorParallelism = 8
+globalExecutorParallelism = "default"
 
 [fixes]
 	# (Default: false) Enforces safe world random access by hard-crashing on unsafe off-thread world random access.  
@@ -91,13 +91,13 @@ globalExecutorParallelism = 8
 [clientSideConfig]
 
 	[clientSideConfig.modifyMaxVDConfig]
-		# (Default: 68) Max render distance allowed in game options
+		# (Default: 53) Max render distance allowed in game options
 		maxViewDistance = "default"
 
 [noTickViewDistance]
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
-	# (Default: 9) No-tick view distance max concurrent chunk loads 
+	# (Default: 4) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
 	maxConcurrentChunkLoads = "default"
 	# (Default: true) Whether to use compatibility mode to send chunks 

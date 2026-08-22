@@ -2679,35 +2679,13 @@
           }
         },
         {
-          "id": "client.json5",
-          "name": "client.json5",
-          "type": "File",
-          "artifact": {
-            "size": 551,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/artifacts/client.json5",
-            "MD5": "c421cf24deff6c2774366fa9b6de3020",
-            "path": "config/artifacts/client.json5"
-          }
-        },
-        {
-          "id": "common.json5",
-          "name": "common.json5",
-          "type": "File",
-          "artifact": {
-            "size": 1584,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/artifacts/common.json5",
-            "MD5": "1b1e1f00fbb688a7fa95536ebf7abc6c",
-            "path": "config/artifacts/common.json5"
-          }
-        },
-        {
           "id": "attributefix.json",
           "name": "attributefix.json",
           "type": "File",
           "artifact": {
-            "size": 16230,
+            "size": 16232,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/attributefix.json",
-            "MD5": "c832ee0293572870404ef1f06cc2cbf0",
+            "MD5": "b9258c453b829af0c2c60af9081ba671",
             "path": "config/attributefix.json"
           }
         },
@@ -2723,72 +2701,6 @@
           }
         },
         {
-          "id": "biomes.json",
-          "name": "biomes.json",
-          "type": "File",
-          "artifact": {
-            "size": 188,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/bclib/biomes.json",
-            "MD5": "3908dc250cc1dfd012a14a4569cc66a2",
-            "path": "config/bclib/biomes.json"
-          }
-        },
-        {
-          "id": "cache.json",
-          "name": "cache.json",
-          "type": "File",
-          "artifact": {
-            "size": 89,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/bclib/cache.json",
-            "MD5": "625c393b145b2349af42c079a4ca0efe",
-            "path": "config/bclib/cache.json"
-          }
-        },
-        {
-          "id": "client.json",
-          "name": "client.json",
-          "type": "File",
-          "artifact": {
-            "size": 853,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/bclib/client.json",
-            "MD5": "374a55de23e2215ede6309c15276988e",
-            "path": "config/bclib/client.json"
-          }
-        },
-        {
-          "id": "generator.json",
-          "name": "generator.json",
-          "type": "File",
-          "artifact": {
-            "size": 149,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/bclib/generator.json",
-            "MD5": "86fa1ecc024381fe220ab65779471250",
-            "path": "config/bclib/generator.json"
-          }
-        },
-        {
-          "id": "main.json",
-          "name": "main.json",
-          "type": "File",
-          "artifact": {
-            "size": 167,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/bclib/main.json",
-            "MD5": "0c6f7277e8eb31cc0e58198140d76e61",
-            "path": "config/bclib/main.json"
-          }
-        },
-        {
-          "id": "server.json",
-          "name": "server.json",
-          "type": "File",
-          "artifact": {
-            "size": 368,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/bclib/server.json",
-            "MD5": "2b975643f13faa9b776e602cc8100eea",
-            "path": "config/bclib/server.json"
-          }
-        },
-        {
           "id": "betterchunkloading.json",
           "name": "betterchunkloading.json",
           "type": "File",
@@ -2797,83 +2709,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/betterchunkloading.json",
             "MD5": "faa09474eac3c491d98fa85d9510f4e5",
             "path": "config/betterchunkloading.json"
-          }
-        },
-        {
-          "id": "blocks.json",
-          "name": "blocks.json",
-          "type": "File",
-          "artifact": {
-            "size": 19183,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/betterend/blocks.json",
-            "MD5": "8538c91663aecb53c98cac11d0f133af",
-            "path": "config/betterend/blocks.json"
-          }
-        },
-        {
-          "id": "client.json",
-          "name": "client.json",
-          "type": "File",
-          "artifact": {
-            "size": 126,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/betterend/client.json",
-            "MD5": "9183979e5f04111e7b2af0494726a8cb",
-            "path": "config/betterend/client.json"
-          }
-        },
-        {
-          "id": "enchantments.json",
-          "name": "enchantments.json",
-          "type": "File",
-          "artifact": {
-            "size": 38,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/betterend/enchantments.json",
-            "MD5": "46a1ff0498b4b8f4362e23775f042ee6",
-            "path": "config/betterend/enchantments.json"
-          }
-        },
-        {
-          "id": "entities.json",
-          "name": "entities.json",
-          "type": "File",
-          "artifact": {
-            "size": 225,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/betterend/entities.json",
-            "MD5": "e1e724128e56cd6a24336dc702e546ad",
-            "path": "config/betterend/entities.json"
-          }
-        },
-        {
-          "id": "generator.json",
-          "name": "generator.json",
-          "type": "File",
-          "artifact": {
-            "size": 1927,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/betterend/generator.json",
-            "MD5": "2f3a683980f6fa2502b63ecf241f165c",
-            "path": "config/betterend/generator.json"
-          }
-        },
-        {
-          "id": "items.json",
-          "name": "items.json",
-          "type": "File",
-          "artifact": {
-            "size": 6500,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/betterend/items.json",
-            "MD5": "55327a32bb14c48807319bdd0935df1e",
-            "path": "config/betterend/items.json"
-          }
-        },
-        {
-          "id": "portals.json",
-          "name": "portals.json",
-          "type": "File",
-          "artifact": {
-            "size": 190,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/betterend/portals.json",
-            "MD5": "8f2b134ea2d1bb6ada31816c0e11e5a4",
-            "path": "config/betterend/portals.json"
           }
         },
         {
@@ -2921,28 +2756,6 @@
           }
         },
         {
-          "id": "bobby.toml",
-          "name": "bobby.toml",
-          "type": "File",
-          "artifact": {
-            "size": 463,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/bobby.toml",
-            "MD5": "06ae0bf649a8648709e8b3ab40e0a3fa",
-            "path": "config/bobby.toml"
-          }
-        },
-        {
-          "id": "bookofdragons-client.toml",
-          "name": "bookofdragons-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1779,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/bookofdragons-client.toml",
-            "MD5": "21e3534cce37ada5115b2c2fdcc0c62d",
-            "path": "config/bookofdragons-client.toml"
-          }
-        },
-        {
           "id": "botania-client.toml",
           "name": "botania-client.toml",
           "type": "File",
@@ -2980,9 +2793,9 @@
           "name": "c2me.toml",
           "type": "File",
           "artifact": {
-            "size": 5229,
+            "size": 5237,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/c2me.toml",
-            "MD5": "c799c1247997c749dfab979d10f99124",
+            "MD5": "a6f27c5bf8bcbeb40b604ba22373249e",
             "path": "config/c2me.toml"
           }
         },
@@ -3075,6 +2888,17 @@
           }
         },
         {
+          "id": "citresewn.json",
+          "name": "citresewn.json",
+          "type": "File",
+          "artifact": {
+            "size": 139,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/citresewn.json",
+            "MD5": "6d3d9e442733324705338303e3b9b6ea",
+            "path": "config/citresewn.json"
+          }
+        },
+        {
           "id": "cluttered-common.toml",
           "name": "cluttered-common.toml",
           "type": "File",
@@ -3160,28 +2984,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/connectivity.json",
             "MD5": "369a34ad4dbd6b23513fcbc22eb812f5",
             "path": "config/connectivity.json"
-          }
-        },
-        {
-          "id": "connector.json",
-          "name": "connector.json",
-          "type": "File",
-          "artifact": {
-            "size": 144,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/connector.json",
-            "MD5": "e625d3c4a748b81b7f8521b27f7d2365",
-            "path": "config/connector.json"
-          }
-        },
-        {
-          "id": "continuity.json",
-          "name": "continuity.json",
-          "type": "File",
-          "artifact": {
-            "size": 122,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/continuity.json",
-            "MD5": "16114edbb9460c49373bb12561ddf7c3",
-            "path": "config/continuity.json"
           }
         },
         {
@@ -3438,17 +3240,6 @@
           }
         },
         {
-          "id": "daytimecontrol-common.toml",
-          "name": "daytimecontrol-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 311,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/daytimecontrol-common.toml",
-            "MD5": "ce0391947dd9e6871a21a84a8cc6bd8b",
-            "path": "config/daytimecontrol-common.toml"
-          }
-        },
-        {
           "id": "Deep Void Config.toml",
           "name": "Deep Void Config.toml",
           "type": "File",
@@ -3493,17 +3284,6 @@
           }
         },
         {
-          "id": "dynamicwaters-common.toml",
-          "name": "dynamicwaters-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 3728,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/dynamicwaters-common.toml",
-            "MD5": "60a1c3c3c45a478f29d6278b2b26092c",
-            "path": "config/dynamicwaters-common.toml"
-          }
-        },
-        {
           "id": "easyanvils-client.toml",
           "name": "easyanvils-client.toml",
           "type": "File",
@@ -3515,17 +3295,6 @@
           }
         },
         {
-          "id": "easyanvils-server.toml",
-          "name": "easyanvils-server.toml",
-          "type": "File",
-          "artifact": {
-            "size": 3484,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easyanvils-server.toml",
-            "MD5": "0265ff69a64dda61971234110a9c59b7",
-            "path": "config/easyanvils-server.toml"
-          }
-        },
-        {
           "id": "easymagic-client.toml",
           "name": "easymagic-client.toml",
           "type": "File",
@@ -3534,380 +3303,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easymagic-client.toml",
             "MD5": "957c7074f479157b48ca8f2965120878",
             "path": "config/easymagic-client.toml"
-          }
-        },
-        {
-          "id": "easymagic-server.toml",
-          "name": "easymagic-server.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1907,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easymagic-server.toml",
-            "MD5": "024eaa2695bf53717fd534df2c9f0b94",
-            "path": "config/easymagic-server.toml"
-          }
-        },
-        {
-          "id": "dialog_options.cfg",
-          "name": "dialog_options.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 343,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/dialog_options.cfg",
-            "MD5": "4a202c79fc4bf3715031abafc4856c81",
-            "path": "config/easy_npc/dialog_options.cfg"
-          }
-        },
-        {
-          "id": "npc_base.cfg",
-          "name": "npc_base.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 215,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/npc_base.cfg",
-            "MD5": "db3f31a1df41064c63a8c48537b0fcd5",
-            "path": "config/easy_npc/npc_base.cfg"
-          }
-        },
-        {
-          "id": "render_entity_type_support.cfg",
-          "name": "render_entity_type_support.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 34610,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/render_entity_type_support.cfg",
-            "MD5": "52fd67d160ac6669accb569cce73f8d0",
-            "path": "config/easy_npc/render_entity_type_support.cfg"
-          }
-        },
-        {
-          "id": "security.cfg",
-          "name": "security.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 3244,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/security.cfg",
-            "MD5": "96fc572c53c0edff8a74b8f165cb4aeb",
-            "path": "config/easy_npc/security.cfg"
-          }
-        },
-        {
-          "id": "allay_template.png",
-          "name": "allay_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 246,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/allay/allay_template.png",
-            "MD5": "dc449d0dd6cb93d91fa6e34ecd44376a",
-            "path": "config/easy_npc/skin/allay/allay_template.png"
-          }
-        },
-        {
-          "id": "cat_template.png",
-          "name": "cat_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 283,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/cat/cat_template.png",
-            "MD5": "ddb9d8f03724aa1fe201fd7fbefb81da",
-            "path": "config/easy_npc/skin/cat/cat_template.png"
-          }
-        },
-        {
-          "id": "chicken_template.png",
-          "name": "chicken_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 287,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/chicken/chicken_template.png",
-            "MD5": "f06078d2850eb0020f2e86dd93c84a5a",
-            "path": "config/easy_npc/skin/chicken/chicken_template.png"
-          }
-        },
-        {
-          "id": "creeper_template.png",
-          "name": "creeper_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 255,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/creeper/creeper_template.png",
-            "MD5": "460afd5ae6039e184859666d02797e9d",
-            "path": "config/easy_npc/skin/creeper/creeper_template.png"
-          }
-        },
-        {
-          "id": "ender_man_template.png",
-          "name": "ender_man_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 276,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/ender_man/ender_man_template.png",
-            "MD5": "11a98be328121d89396fa59e1aa29df2",
-            "path": "config/easy_npc/skin/ender_man/ender_man_template.png"
-          }
-        },
-        {
-          "id": "fairy_template.png",
-          "name": "fairy_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 434,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/fairy/fairy_template.png",
-            "MD5": "531b238034eb6fdcf494378d6de62d69",
-            "path": "config/easy_npc/skin/fairy/fairy_template.png"
-          }
-        },
-        {
-          "id": "fox_template.png",
-          "name": "fox_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 335,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/fox/fox_template.png",
-            "MD5": "5850512e21b0c58b42207510a63a923d",
-            "path": "config/easy_npc/skin/fox/fox_template.png"
-          }
-        },
-        {
-          "id": "humanoid_template.png",
-          "name": "humanoid_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 360,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/humanoid/humanoid_template.png",
-            "MD5": "a39224182358dcbf6615b9faeb732933",
-            "path": "config/easy_npc/skin/humanoid/humanoid_template.png"
-          }
-        },
-        {
-          "id": "humanoid_slim_template.png",
-          "name": "humanoid_slim_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 384,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
-            "MD5": "41f831333d68c3a4535adbe574f0511c",
-            "path": "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
-          }
-        },
-        {
-          "id": "husk_template.png",
-          "name": "husk_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 531,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/husk/husk_template.png",
-            "MD5": "66e672cdead5768165586f4b24c1f61c",
-            "path": "config/easy_npc/skin/husk/husk_template.png"
-          }
-        },
-        {
-          "id": "illager_template.png",
-          "name": "illager_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 300,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/illager/illager_template.png",
-            "MD5": "62e2eafe9879c26a5d39f6eed5a0d4c0",
-            "path": "config/easy_npc/skin/illager/illager_template.png"
-          }
-        },
-        {
-          "id": "iron_golem_template.png",
-          "name": "iron_golem_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 451,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/iron_golem/iron_golem_template.png",
-            "MD5": "041e19a3a9e328e569c1572c60bf7f82",
-            "path": "config/easy_npc/skin/iron_golem/iron_golem_template.png"
-          }
-        },
-        {
-          "id": "orc_template.png",
-          "name": "orc_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 521,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/orc/orc_template.png",
-            "MD5": "529d5d314ad4dc8f697f7341f35cab74",
-            "path": "config/easy_npc/skin/orc/orc_template.png"
-          }
-        },
-        {
-          "id": "pig_template.png",
-          "name": "pig_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 270,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/pig/pig_template.png",
-            "MD5": "cfc2538d1df812a5ee4ced14b78f9fd3",
-            "path": "config/easy_npc/skin/pig/pig_template.png"
-          }
-        },
-        {
-          "id": "piglin_template.png",
-          "name": "piglin_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 361,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/piglin/piglin_template.png",
-            "MD5": "54ae451400c57b4832f976487e7bf629",
-            "path": "config/easy_npc/skin/piglin/piglin_template.png"
-          }
-        },
-        {
-          "id": "skeleton_template.png",
-          "name": "skeleton_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 259,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/skeleton/skeleton_template.png",
-            "MD5": "b6f689ff48f8cd4b03a51947133a3857",
-            "path": "config/easy_npc/skin/skeleton/skeleton_template.png"
-          }
-        },
-        {
-          "id": "spider_template.png",
-          "name": "spider_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 308,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/spider/spider_template.png",
-            "MD5": "03664e96aea4f091f754f2b853f2b853",
-            "path": "config/easy_npc/skin/spider/spider_template.png"
-          }
-        },
-        {
-          "id": "stray_template.png",
-          "name": "stray_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 531,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/stray/stray_template.png",
-            "MD5": "66e672cdead5768165586f4b24c1f61c",
-            "path": "config/easy_npc/skin/stray/stray_template.png"
-          }
-        },
-        {
-          "id": "vex_template.png",
-          "name": "vex_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 247,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/vex/vex_template.png",
-            "MD5": "37f6d362729979569dd8f1f4e6429f07",
-            "path": "config/easy_npc/skin/vex/vex_template.png"
-          }
-        },
-        {
-          "id": "villager_template.png",
-          "name": "villager_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 357,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/villager/villager_template.png",
-            "MD5": "30e84778924e6c66aef598b8a3cd728a",
-            "path": "config/easy_npc/skin/villager/villager_template.png"
-          }
-        },
-        {
-          "id": "villager_without_hat_template.png",
-          "name": "villager_without_hat_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 331,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/villager/villager_without_hat_template.png",
-            "MD5": "3d8bca495a0fad6240e900d343c9f1d7",
-            "path": "config/easy_npc/skin/villager/villager_without_hat_template.png"
-          }
-        },
-        {
-          "id": "witch_template.png",
-          "name": "witch_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 431,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/witch/witch_template.png",
-            "MD5": "3f15cb59a845607aca5614bd12e9df62",
-            "path": "config/easy_npc/skin/witch/witch_template.png"
-          }
-        },
-        {
-          "id": "wolf_template.png",
-          "name": "wolf_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 321,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/wolf/wolf_template.png",
-            "MD5": "0adf39c4b15ec11850e85fdfcd8e0a59",
-            "path": "config/easy_npc/skin/wolf/wolf_template.png"
-          }
-        },
-        {
-          "id": "zombie_template.png",
-          "name": "zombie_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 292,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/zombie/zombie_template.png",
-            "MD5": "a38b0b7043eb7c0e91379628aeed1db2",
-            "path": "config/easy_npc/skin/zombie/zombie_template.png"
-          }
-        },
-        {
-          "id": "zombie_villager_template.png",
-          "name": "zombie_villager_template.png",
-          "type": "File",
-          "artifact": {
-            "size": 356,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
-            "MD5": "b0748467bd2149105ad4d922c7799ed0",
-            "path": "config/easy_npc/skin/zombie_villager/zombie_villager_template.png"
-          }
-        },
-        {
-          "id": "spawner_type.cfg",
-          "name": "spawner_type.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 963,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/spawner_type.cfg",
-            "MD5": "74717a370e6271995163c1a6c2b7e343",
-            "path": "config/easy_npc/spawner_type.cfg"
-          }
-        },
-        {
-          "id": "user_defined_npcs.json",
-          "name": "user_defined_npcs.json",
-          "type": "File",
-          "artifact": {
-            "size": 465,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/easy_npc/user_defined_npcs.json",
-            "MD5": "d82b4dd015a0cde1b54fb7055bc7f6fb",
-            "path": "config/easy_npc/user_defined_npcs.json"
-          }
-        },
-        {
-          "id": "effortlessbuilding-client.toml",
-          "name": "effortlessbuilding-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 617,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/effortlessbuilding-client.toml",
-            "MD5": "41bcc878b69aaaeef4749a101bcc91ce",
-            "path": "config/effortlessbuilding-client.toml"
-          }
-        },
-        {
-          "id": "effortlessbuilding-common.toml",
-          "name": "effortlessbuilding-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1833,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/effortlessbuilding-common.toml",
-            "MD5": "c61cc701254f7677d2cc112a32fededd",
-            "path": "config/effortlessbuilding-common.toml"
           }
         },
         {
@@ -3939,19 +3334,8 @@
           "artifact": {
             "size": 852,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/embeddium-options.json",
-            "MD5": "ee75d8c602fb7713e98a6e75adb6aa9a",
+            "MD5": "e255eee94cf9f9302601869cf799db82",
             "path": "config/embeddium-options.json"
-          }
-        },
-        {
-          "id": "emojiful-client.toml",
-          "name": "emojiful-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 832,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/emojiful-client.toml",
-            "MD5": "c7a00f29ed2d6f2504f3d9b7e683e1ec",
-            "path": "config/emojiful-client.toml"
           }
         },
         {
@@ -4018,17 +3402,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/etf_warnings.json",
             "MD5": "b49b5603d2df29fa132f89ec91974572",
             "path": "config/etf_warnings.json"
-          }
-        },
-        {
-          "id": "indigo-renderer.properties",
-          "name": "indigo-renderer.properties",
-          "type": "File",
-          "artifact": {
-            "size": 290,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/fabric/indigo-renderer.properties",
-            "MD5": "f956cf90abaf3ff1b2583826265a24ae",
-            "path": "config/fabric/indigo-renderer.properties"
           }
         },
         {
@@ -4131,105 +3504,6 @@
           }
         },
         {
-          "id": "ray_glow.png",
-          "name": "ray_glow.png",
-          "type": "File",
-          "artifact": {
-            "size": 4526,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/fragmentum/assets/atilas_armors/textures/gui/effect/ray_glow.png",
-            "MD5": "ec24d3425f06c7f3dea35d0739262b1e",
-            "path": "config/fragmentum/assets/atilas_armors/textures/gui/effect/ray_glow.png"
-          }
-        },
-        {
-          "id": "star.png",
-          "name": "star.png",
-          "type": "File",
-          "artifact": {
-            "size": 104,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/fragmentum/assets/atilas_armors/textures/gui/star.png",
-            "MD5": "99d3e69953ed643c5c0492204d055a7e",
-            "path": "config/fragmentum/assets/atilas_armors/textures/gui/star.png"
-          }
-        },
-        {
-          "id": "atilas_armors_definition.json",
-          "name": "atilas_armors_definition.json",
-          "type": "File",
-          "artifact": {
-            "size": 160,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/fragmentum/assets/atilas_armors/tooltips/definition/atilas_armors_definition.json",
-            "MD5": "c0dd54b965c2b7ca09c804daf641f775",
-            "path": "config/fragmentum/assets/atilas_armors/tooltips/definition/atilas_armors_definition.json"
-          }
-        },
-        {
-          "id": "icon_particles.json",
-          "name": "icon_particles.json",
-          "type": "File",
-          "artifact": {
-            "size": 295,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/fragmentum/assets/atilas_armors/tooltips/element/effect/icon_particles.json",
-            "MD5": "2c75d21e021f2987604860c8cd32e326",
-            "path": "config/fragmentum/assets/atilas_armors/tooltips/element/effect/icon_particles.json"
-          }
-        },
-        {
-          "id": "particles.json",
-          "name": "particles.json",
-          "type": "File",
-          "artifact": {
-            "size": 273,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/fragmentum/assets/atilas_armors/tooltips/element/effect/particles.json",
-            "MD5": "6a0474c705218916f7b2485e768f6fa3",
-            "path": "config/fragmentum/assets/atilas_armors/tooltips/element/effect/particles.json"
-          }
-        },
-        {
-          "id": "ray_glow.json",
-          "name": "ray_glow.json",
-          "type": "File",
-          "artifact": {
-            "size": 108,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/fragmentum/assets/atilas_armors/tooltips/element/effect/ray_glow.json",
-            "MD5": "8bcb9daddcb2871869e12727f1e1abbe",
-            "path": "config/fragmentum/assets/atilas_armors/tooltips/element/effect/ray_glow.json"
-          }
-        },
-        {
-          "id": "rim_light.json",
-          "name": "rim_light.json",
-          "type": "File",
-          "artifact": {
-            "size": 396,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/fragmentum/assets/atilas_armors/tooltips/element/effect/rim_light.json",
-            "MD5": "bc39f73b7df13833220bd15533d72243",
-            "path": "config/fragmentum/assets/atilas_armors/tooltips/element/effect/rim_light.json"
-          }
-        },
-        {
-          "id": "default_panel.json",
-          "name": "default_panel.json",
-          "type": "File",
-          "artifact": {
-            "size": 348,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/fragmentum/assets/atilas_armors/tooltips/element/panel/default_panel.json",
-            "MD5": "fd0c5e34000194f10b54d7e26d2c6df9",
-            "path": "config/fragmentum/assets/atilas_armors/tooltips/element/panel/default_panel.json"
-          }
-        },
-        {
-          "id": "default_style.json",
-          "name": "default_style.json",
-          "type": "File",
-          "artifact": {
-            "size": 191,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/fragmentum/assets/atilas_armors/tooltips/style/default_style.json",
-            "MD5": "b2810c1dc16d660c5c3339d5136e93d0",
-            "path": "config/fragmentum/assets/atilas_armors/tooltips/style/default_style.json"
-          }
-        },
-        {
           "id": "friendsandfoes.json",
           "name": "friendsandfoes.json",
           "type": "File",
@@ -4307,17 +3581,6 @@
           }
         },
         {
-          "id": "illagerinvasion-server.toml",
-          "name": "illagerinvasion-server.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1411,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/illagerinvasion-server.toml",
-            "MD5": "8babec801b0a8de49a9da1dd47ff0a57",
-            "path": "config/illagerinvasion-server.toml"
-          }
-        },
-        {
           "id": "immediatelyfast.json",
           "name": "immediatelyfast.json",
           "type": "File",
@@ -4335,7 +3598,7 @@
           "artifact": {
             "size": 1518,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/immersive_aircraft.json",
-            "MD5": "a0fdd48610b3a83321ec4bf8e9fcf20f",
+            "MD5": "3a7735befdf5a3718b24b7815b4104b7",
             "path": "config/immersive_aircraft.json"
           }
         },
@@ -4348,36 +3611,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/immersive_optimization.json",
             "MD5": "305b956a5a19066e43ef5ee32e6da822",
             "path": "config/immersive_optimization.json"
-          }
-        },
-        {
-          "id": "lockSlots.txt",
-          "name": "lockSlots.txt",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/162.83.176.103&25566/lockSlots.txt",
-            "path": "config/inventoryprofilesnext/162.83.176.103&25566/lockSlots.txt"
-          }
-        },
-        {
-          "id": "prev-villager-trading-config.json",
-          "name": "prev-villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/162.83.176.103&25566/prev-villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/162.83.176.103&25566/prev-villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1312,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/162.83.176.103&25566/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/162.83.176.103&25566/villager-trading-config.json"
           }
         },
         {
@@ -4395,7 +3628,7 @@
           "name": "player-defined.json",
           "type": "File",
           "artifact": {
-            "size": 647,
+            "size": 658,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/integrationHints/player-defined.json",
             "path": "config/inventoryprofilesnext/integrationHints/player-defined.json"
           }
@@ -4405,79 +3638,9 @@
           "name": "inventoryprofiles.json",
           "type": "File",
           "artifact": {
-            "size": 606,
+            "size": 440,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
             "path": "config/inventoryprofilesnext/inventoryprofiles.json"
-          }
-        },
-        {
-          "id": "prev-villager-trading-config.json",
-          "name": "prev-villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/Mundo%20nuevo/prev-villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/Mundo nuevo/prev-villager-trading-config.json"
-          }
-        },
-        {
-          "id": "profiles.txt",
-          "name": "profiles.txt",
-          "type": "File",
-          "artifact": {
-            "size": 35,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/Mundo%20nuevo/profiles.txt",
-            "path": "config/inventoryprofilesnext/Mundo nuevo/profiles.txt"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/Mundo%20nuevo/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/Mundo nuevo/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "prev-villager-trading-config.json",
-          "name": "prev-villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/New%20World/prev-villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/New World/prev-villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/New%20World/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/New World/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "prev-villager-trading-config.json",
-          "name": "prev-villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/New%20World%20-%20Mods/prev-villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/New World - Mods/prev-villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/New%20World%20-%20Mods/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/New World - Mods/villager-trading-config.json"
           }
         },
         {
@@ -4506,138 +3669,8 @@
           "type": "File",
           "artifact": {
             "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/play.ikmev.net&25566/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/play.ikmev.net&25566/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/villager-trading-config.json",
             "path": "config/inventoryprofilesnext/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "prev-villager-trading-config.json",
-          "name": "prev-villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/world/prev-villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/world/prev-villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/world/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/world/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&1f6d&eb0e&88b5&6fba]&25566/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&1f6d&eb0e&88b5&6fba]&25566/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&208a&26ef&d6c3&341e]&25566/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&208a&26ef&d6c3&341e]&25566/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&6979&468f&1c64&d08]&25566/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&6979&468f&1c64&d08]&25566/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "lockSlots.txt",
-          "name": "lockSlots.txt",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/lockSlots.txt",
-            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/lockSlots.txt"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c5f&fb3b&b267&5ef0]&25566/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c5f&fb3b&b267&5ef0]&25566/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&90b3&a472&ac80&beca]&25565/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&90b3&a472&ac80&beca]&25565/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&99c0&5587&1090&4e44]&25566/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&99c0&5587&1090&4e44]&25566/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&e511&e6b4&f293&80df]&25566/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&e511&e6b4&f293&80df]&25566/villager-trading-config.json"
-          }
-        },
-        {
-          "id": "villager-trading-config.json",
-          "name": "villager-trading-config.json",
-          "type": "File",
-          "artifact": {
-            "size": 1177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[fe80&&b512&b226&8247&9dae]&25565/villager-trading-config.json",
-            "path": "config/inventoryprofilesnext/[fe80&&b512&b226&8247&9dae]&25565/villager-trading-config.json"
           }
         },
         {
@@ -4671,28 +3704,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/irons_spellbooks-client.toml",
             "MD5": "b60f4e412f784df9e3a1e3ad8f5683ba",
             "path": "config/irons_spellbooks-client.toml"
-          }
-        },
-        {
-          "id": "global_config.json",
-          "name": "global_config.json",
-          "type": "File",
-          "artifact": {
-            "size": 257,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/irons_spellbooks_spell_config/global_config.json",
-            "MD5": "6cb19eead383de25ac484d1d88c32abf",
-            "path": "config/irons_spellbooks_spell_config/global_config.json"
-          }
-        },
-        {
-          "id": "example.txt",
-          "name": "example.txt",
-          "type": "File",
-          "artifact": {
-            "size": 683,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/irons_spellbooks_spell_config/irons_spellbooks/example.txt",
-            "MD5": "588d70d49d806824467b004e889f3709",
-            "path": "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
           }
         },
         {
@@ -4768,7 +3779,7 @@
           "artifact": {
             "size": 1333,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "6b603cab2e24701121423c2653394b32",
+            "MD5": "25029a301974c321aad489f0a704293f",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -4839,17 +3850,6 @@
           }
         },
         {
-          "id": "bookmarks.ini",
-          "name": "bookmarks.ini",
-          "type": "File",
-          "artifact": {
-            "size": 177,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/jei/world/local/Mundo_nuevo/bookmarks.ini",
-            "MD5": "6b0be0e16c7a82a78b729781ed564fdd",
-            "path": "config/jei/world/local/Mundo_nuevo/bookmarks.ini"
-          }
-        },
-        {
           "id": "kaleidoscope_doll-common.toml",
           "name": "kaleidoscope_doll-common.toml",
           "type": "File",
@@ -4916,17 +3916,6 @@
           }
         },
         {
-          "id": "legendary_monsters-common.toml",
-          "name": "legendary_monsters-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 20564,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/legendary_monsters-common.toml",
-            "MD5": "cc75e7530fb737aa165b1562e05dbe18",
-            "path": "config/legendary_monsters-common.toml"
-          }
-        },
-        {
           "id": "letmedespawn.json",
           "name": "letmedespawn.json",
           "type": "File",
@@ -4946,17 +3935,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/limitedchunks.json",
             "MD5": "09f02f8cc6eef8c19961bcd4609cb295",
             "path": "config/limitedchunks.json"
-          }
-        },
-        {
-          "id": "lithostitched.json",
-          "name": "lithostitched.json",
-          "type": "File",
-          "artifact": {
-            "size": 284,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/lithostitched.json",
-            "MD5": "345e5fd8f4228a78675c761850e85ba9",
-            "path": "config/lithostitched.json"
           }
         },
         {
@@ -4982,17 +3960,6 @@
           }
         },
         {
-          "id": "lootbeams-client.toml",
-          "name": "lootbeams-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 7065,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/lootbeams-client.toml",
-            "MD5": "a36cf76c84cc31c3fa3761d27e438e46",
-            "path": "config/lootbeams-client.toml"
-          }
-        },
-        {
           "id": "lootr-client.toml",
           "name": "lootr-client.toml",
           "type": "File",
@@ -5015,17 +3982,6 @@
           }
         },
         {
-          "id": "losttrinkets-common.toml",
-          "name": "losttrinkets-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2469,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/losttrinkets-common.toml",
-            "MD5": "13d64bb43bd9529eda445b87a5176fd8",
-            "path": "config/losttrinkets-common.toml"
-          }
-        },
-        {
           "id": "mace_port-common.toml",
           "name": "mace_port-common.toml",
           "type": "File",
@@ -5034,61 +3990,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/mace_port-common.toml",
             "MD5": "2a2bae3e54284fec44c3c44c7cece043",
             "path": "config/mace_port-common.toml"
-          }
-        },
-        {
-          "id": "madeinsleep-common.toml",
-          "name": "madeinsleep-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 363,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/madeinsleep-common.toml",
-            "MD5": "e4f2a93bb12ec656aa0ce9279e62304b",
-            "path": "config/madeinsleep-common.toml"
-          }
-        },
-        {
-          "id": "minecolonies-client.toml",
-          "name": "minecolonies-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1400,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/minecolonies-client.toml",
-            "MD5": "a87dd1bf0391443fb7bf4b98243573e8",
-            "path": "config/minecolonies-client.toml"
-          }
-        },
-        {
-          "id": "minecolonies-common.toml",
-          "name": "minecolonies-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 454,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/minecolonies-common.toml",
-            "MD5": "ede127e80dc5c8cc1973c6a0ea3c9e25",
-            "path": "config/minecolonies-common.toml"
-          }
-        },
-        {
-          "id": "mobstackeradv.json",
-          "name": "mobstackeradv.json",
-          "type": "File",
-          "artifact": {
-            "size": 378,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/mobstackeradv.json",
-            "MD5": "149ae6c17e6af6e634e27e679e02134d",
-            "path": "config/mobstackeradv.json"
-          }
-        },
-        {
-          "id": "modelfix-client.toml",
-          "name": "modelfix-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1292,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/modelfix-client.toml",
-            "MD5": "10cf9915471b088d48e55407ced32c3d",
-            "path": "config/modelfix-client.toml"
           }
         },
         {
@@ -5169,28 +4070,6 @@
           }
         },
         {
-          "id": "mutantmonsters-server.toml",
-          "name": "mutantmonsters-server.toml",
-          "type": "File",
-          "artifact": {
-            "size": 767,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/mutantmonsters-server.toml",
-            "MD5": "0028172044f08e6ae1c376f53a806f94",
-            "path": "config/mutantmonsters-server.toml"
-          }
-        },
-        {
-          "id": "mythsandlegends-common.toml",
-          "name": "mythsandlegends-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 4662,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/mythsandlegends-common.toml",
-            "MD5": "f79d6f1eccd9a6b52788f11fa7116df9",
-            "path": "config/mythsandlegends-common.toml"
-          }
-        },
-        {
           "id": "netherexp-common.toml",
           "name": "netherexp-common.toml",
           "type": "File",
@@ -5218,9 +4097,9 @@
           "type": "File",
           "artifact": {
             "size": 200,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/obscuria/aquamirae-client.toml",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/Obscuria/aquamirae-client.toml",
             "MD5": "83f295888292d5287a9c92a8840fedb0",
-            "path": "config/obscuria/aquamirae-client.toml"
+            "path": "config/Obscuria/aquamirae-client.toml"
           }
         },
         {
@@ -5229,9 +4108,9 @@
           "type": "File",
           "artifact": {
             "size": 2170,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/obscuria/aquamirae-common.toml",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/Obscuria/aquamirae-common.toml",
             "MD5": "19d6f4460e1f248bceff5291556857d9",
-            "path": "config/obscuria/aquamirae-common.toml"
+            "path": "config/Obscuria/aquamirae-common.toml"
           }
         },
         {
@@ -5240,9 +4119,9 @@
           "type": "File",
           "artifact": {
             "size": 137180,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/obscuria/Data/aquamirae_cover.png",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/Obscuria/Data/aquamirae_cover.png",
             "MD5": "be6ca08f218140665fc8fe155015082b",
-            "path": "config/obscuria/Data/aquamirae_cover.png"
+            "path": "config/Obscuria/Data/aquamirae_cover.png"
           }
         },
         {
@@ -5251,9 +4130,9 @@
           "type": "File",
           "artifact": {
             "size": 32741,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/obscuria/Data/loot_journal_cover.png",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/Obscuria/Data/loot_journal_cover.png",
             "MD5": "d211874e8493efff00faf9f05033f620",
-            "path": "config/obscuria/Data/loot_journal_cover.png"
+            "path": "config/Obscuria/Data/loot_journal_cover.png"
           }
         },
         {
@@ -5262,9 +4141,9 @@
           "type": "File",
           "artifact": {
             "size": 64456,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/obscuria/Data/obscure_api_cover.png",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/Obscuria/Data/obscure_api_cover.png",
             "MD5": "8b355bf8844ae3d3ba4418e1914f8d80",
-            "path": "config/obscuria/Data/obscure_api_cover.png"
+            "path": "config/Obscuria/Data/obscure_api_cover.png"
           }
         },
         {
@@ -5273,20 +4152,9 @@
           "type": "File",
           "artifact": {
             "size": 359,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/obscuria/obscure-api-client.toml",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/Obscuria/obscure-api-client.toml",
             "MD5": "469445e5c514f0c885e7bfa853cb513c",
-            "path": "config/obscuria/obscure-api-client.toml"
-          }
-        },
-        {
-          "id": "obscure_tooltips-client.toml",
-          "name": "obscure_tooltips-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 5392,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/obscuria/obscure_tooltips-client.toml",
-            "MD5": "fd12de274d994b9281f426af1291b91a",
-            "path": "config/obscuria/obscure_tooltips-client.toml"
+            "path": "config/Obscuria/obscure-api-client.toml"
           }
         },
         {
@@ -5295,9 +4163,9 @@
           "type": "File",
           "artifact": {
             "size": 1159,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/obscuria/pillager_caravans-common.toml",
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/Obscuria/pillager_caravans-common.toml",
             "MD5": "8661e36bd89a293cd80330900681c293",
-            "path": "config/obscuria/pillager_caravans-common.toml"
+            "path": "config/Obscuria/pillager_caravans-common.toml"
           }
         },
         {
@@ -5305,7 +4173,7 @@
           "name": "oculus.properties",
           "type": "File",
           "artifact": {
-            "size": 288,
+            "size": 292,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/oculus.properties",
             "path": "config/oculus.properties"
           }
@@ -5328,19 +4196,8 @@
           "artifact": {
             "size": 488,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/packetfixer.properties",
-            "MD5": "016de0e369566d1b2e453075755f7632",
+            "MD5": "c943557522fd66009cb53fd6737d8383",
             "path": "config/packetfixer.properties"
-          }
-        },
-        {
-          "id": "palegardenbackport.common.conf",
-          "name": "palegardenbackport.common.conf",
-          "type": "File",
-          "artifact": {
-            "size": 575,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/palegardenbackport.common.conf",
-            "MD5": "25962f33393fa900aed31b68a7b60a36",
-            "path": "config/palegardenbackport.common.conf"
           }
         },
         {
@@ -5399,39 +4256,6 @@
           }
         },
         {
-          "id": "pickupnotifier-client.toml",
-          "name": "pickupnotifier-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 3355,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/pickupnotifier/pickupnotifier-client.toml",
-            "MD5": "59b99a7c6df8ca7f5e5a595c8a5cf086",
-            "path": "config/pickupnotifier/pickupnotifier-client.toml"
-          }
-        },
-        {
-          "id": "pickupnotifier-server.toml",
-          "name": "pickupnotifier-server.toml",
-          "type": "File",
-          "artifact": {
-            "size": 485,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/pickupnotifier/pickupnotifier-server.toml",
-            "MD5": "098f52ce4b8a820c892e8143adf48c8f",
-            "path": "config/pickupnotifier/pickupnotifier-server.toml"
-          }
-        },
-        {
-          "id": "platform-client.toml",
-          "name": "platform-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 105,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/platform-client.toml",
-            "MD5": "b71df32cb8ff6ea647ec8c12d5b916e9",
-            "path": "config/platform-client.toml"
-          }
-        },
-        {
           "id": "polymorph-integrations.toml",
           "name": "polymorph-integrations.toml",
           "type": "File",
@@ -5487,17 +4311,6 @@
           }
         },
         {
-          "id": "refurbished_furniture.server.toml",
-          "name": "refurbished_furniture.server.toml",
-          "type": "File",
-          "artifact": {
-            "size": 8209,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/refurbished_furniture.server.toml",
-            "MD5": "666a1661ff774d408751832db082a359",
-            "path": "config/refurbished_furniture.server.toml"
-          }
-        },
-        {
           "id": "relics.yaml",
           "name": "relics.yaml",
           "type": "File",
@@ -5515,7 +4328,7 @@
           "artifact": {
             "size": 196,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/resourceful-config-web.json",
-            "MD5": "668dfe9eef41eeaeb0286d3ab525227b",
+            "MD5": "c59628d72ce0bc9f131fd536c509a3cc",
             "path": "config/resourceful-config-web.json"
           }
         },
@@ -5583,28 +4396,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/sidebar_buttons.json",
             "MD5": "ebec7e0a208df3abffcf15a0dd1345b0",
             "path": "config/sidebar_buttons.json"
-          }
-        },
-        {
-          "id": "skinlayers.json",
-          "name": "skinlayers.json",
-          "type": "File",
-          "artifact": {
-            "size": 497,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/skinlayers.json",
-            "MD5": "04d6f743e89a6fba20ddef26e3fbef9a",
-            "path": "config/skinlayers.json"
-          }
-        },
-        {
-          "id": "sleepingoverhaul-client.toml",
-          "name": "sleepingoverhaul-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1156,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/sleepingoverhaul-client.toml",
-            "MD5": "da30021ff73183d5c2ce9ef1baedff31",
-            "path": "config/sleepingoverhaul-client.toml"
           }
         },
         {
@@ -5685,17 +4476,6 @@
           }
         },
         {
-          "id": "structurize-client.toml",
-          "name": "structurize-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1223,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/structurize-client.toml",
-            "MD5": "f0198cb522bf226b6f8cb0a29bbd3c72",
-            "path": "config/structurize-client.toml"
-          }
-        },
-        {
           "id": "supplementaries-client.toml",
           "name": "supplementaries-client.toml",
           "type": "File",
@@ -5740,17 +4520,6 @@
           }
         },
         {
-          "id": "tectonic.json",
-          "name": "tectonic.json",
-          "type": "File",
-          "artifact": {
-            "size": 1268,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/tectonic.json",
-            "MD5": "6a79d21133dd2e29e89de0c411be68f5",
-            "path": "config/tectonic.json"
-          }
-        },
-        {
           "id": "terrablender.toml",
           "name": "terrablender.toml",
           "type": "File",
@@ -5759,17 +4528,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/terrablender.toml",
             "MD5": "0a79fa039b71bf8d3942f677d3269576",
             "path": "config/terrablender.toml"
-          }
-        },
-        {
-          "id": "toastcontrol-common.toml",
-          "name": "toastcontrol-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1445,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/toastcontrol-common.toml",
-            "MD5": "d1c3c45914d0a076f07d0a39219d2f29",
-            "path": "config/toastcontrol-common.toml"
           }
         },
         {
@@ -5792,17 +4550,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/tombstone-common.toml",
             "MD5": "bd6d12b09da315ad7ed366b2690fe64a",
             "path": "config/tombstone-common.toml"
-          }
-        },
-        {
-          "id": "tombstone-server.toml",
-          "name": "tombstone-server.toml",
-          "type": "File",
-          "artifact": {
-            "size": 8025,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/tombstone-server.toml",
-            "MD5": "19fb479a484b29e93efbb8004784bf0d",
-            "path": "config/tombstone-server.toml"
           }
         },
         {
@@ -5878,7 +4625,7 @@
           "artifact": {
             "size": 8869,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/treechop-common.toml",
-            "MD5": "981cc64304ed7f887a6888e7f72ffeab",
+            "MD5": "384655ba7b750e34ac35eb8dcd82fe23",
             "path": "config/treechop-common.toml"
           }
         },
@@ -5891,17 +4638,6 @@
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/trender.json",
             "MD5": "57d19d218711f08f8d7ce8c69f21d59f",
             "path": "config/trender.json"
-          }
-        },
-        {
-          "id": "universalbonemeal-server.toml",
-          "name": "universalbonemeal-server.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1595,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/universalbonemeal-server.toml",
-            "MD5": "b1ed299058e63b63ed805f210cc39deb",
-            "path": "config/universalbonemeal-server.toml"
           }
         },
         {
@@ -5922,7 +4658,7 @@
           "artifact": {
             "size": 3496,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/vanillabackport-common.toml",
-            "MD5": "3b5788008e03c5428d4742ab6680117a",
+            "MD5": "8117206d3abae8df2b444eb119d6eeaf",
             "path": "config/vanillabackport-common.toml"
           }
         },
@@ -6107,21 +4843,10 @@
           "name": "default.cfg",
           "type": "File",
           "artifact": {
-            "size": 3755,
+            "size": 3661,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/xaero/minimap/profiles/default.cfg",
-            "MD5": "8f054fc8c94367868ffcf8d60ae6941b",
+            "MD5": "eeecbe0f1835715fce965cc34096d0a4",
             "path": "config/xaero/minimap/profiles/default.cfg"
-          }
-        },
-        {
-          "id": "default.cfg.json",
-          "name": "default.cfg.json",
-          "type": "File",
-          "artifact": {
-            "size": 5530,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
-            "MD5": "0d71f39875e674ade1c049a840c81c2b",
-            "path": "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
           }
         },
         {
@@ -6151,9 +4876,9 @@
           "name": "client.cfg",
           "type": "File",
           "artifact": {
-            "size": 494,
+            "size": 493,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/xaero/world-map/client.cfg",
-            "MD5": "c01829caeda07a283d98a1498f481b09",
+            "MD5": "166c5f41a6618967a434279c0beebc05",
             "path": "config/xaero/world-map/client.cfg"
           }
         },
