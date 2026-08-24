@@ -993,6 +993,16 @@
           }
         },
         {
+          "id": "team.creative:creativecore:2.12.39@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1144128,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+            "MD5": "941e290ecd7ca54c2ed6a543b68d754b"
+          }
+        },
+        {
           "id": "net.cristellib:cristellib:1.1.6@jar",
           "name": "Cristel Lib",
           "type": "ForgeMod",
@@ -1190,6 +1200,16 @@
             "size": 1320675,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "com.hrznstudio:emojiful:4.2.0@jar",
+          "name": "Emojiful",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 262412,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/Emojiful-Forge-1.20.1-4.2.0.jar",
+            "MD5": "0ba360de4747e64c6325b74c0055479a"
           }
         },
         {
@@ -1483,6 +1503,16 @@
           }
         },
         {
+          "id": "com.py:hccollectorsalbumforge:1.0.1@jar",
+          "name": "HunosCraft Collectors Album",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1165409,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/hccollectorsalbumforge-1.0.1.jar",
+            "MD5": "16352725c1aca1b52cfea702b72a8837"
+          }
+        },
+        {
           "id": "net.joefoxe:hexerei:1.20.1-0.4.2.3@jar",
           "name": "Hexerei",
           "type": "ForgeMod",
@@ -1640,6 +1670,16 @@
             "size": 93291,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/justhammers-forge-2.0.3+mc1.20.1.jar",
             "MD5": "fd4ce938613c381b4116589243efc668"
+          }
+        },
+        {
+          "id": "de.keksuccino:justzoom:2.1.1@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 204574,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "MD5": "758fe904b5a22ce7b2df824c1a064858"
           }
         },
         {
@@ -2513,6 +2553,46 @@
           }
         },
         {
+          "id": "me.srrapero720:waterframes:2.1.22@jar",
+          "name": "WaterFrames",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 255481,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+            "MD5": "595a2467900abcdf00b3059c56fc0d0f"
+          }
+        },
+        {
+          "id": "org.watermedia.youtube.loaders:watermedia_youtube_plugin:2.1.2@jar",
+          "name": "WaterMedia YT Plugin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3830072,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/watermedia_youtube_plugin-2.1.2.jar",
+            "MD5": "5b0ed7502f1d3c0553e6d536d5a74d4a"
+          }
+        },
+        {
+          "id": "org.watermedia.loaders:watermedia:2.1.37@jar",
+          "name": "WaterMedia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37046674,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/watermedia-2.1.37.jar",
+            "MD5": "4a09ad3ea22ad258802605b8aa929bbd"
+          }
+        },
+        {
+          "id": "me.srrapero720:watervision:0.1.0-alpha@jar",
+          "name": "WaterVision",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82079,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+            "MD5": "c934bcbabeb242ce7da79e3f16d1406c"
+          }
+        },
+        {
           "id": "com.corosus.watut.loader:watut:1.20.1-1.2.3@jar",
           "name": "What Are They Up To",
           "type": "ForgeMod",
@@ -2520,16 +2600,6 @@
             "size": 435496,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/watut-forge-1.20.1-1.2.3.jar",
             "MD5": "345d3ecdf94dffaa0e3ba55538c65f80"
-          }
-        },
-        {
-          "id": "com.atila.waystoneshunostowers:waystones_hunos_towers:1.0.0@jar",
-          "name": "Waystones: Hunos Towers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7796427,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/forgemods/required/waystones_hunos_towers-1.0.0.jar",
-            "MD5": "09b6746c4b195dc6cc15d729d7fb814b"
           }
         },
         {
@@ -23842,7 +23912,6 @@
           "artifact": {
             "size": 16363,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/options.txt",
-            "MD5": "d64b27a6afc6dca5f9bd0354cf73d5d9",
             "path": "options.txt"
           }
         },
@@ -25096,6 +25165,16 @@
           }
         },
         {
+          "id": "team.creative:creativecore:2.12.39@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1144128,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+            "MD5": "941e290ecd7ca54c2ed6a543b68d754b"
+          }
+        },
+        {
           "id": "net.cristellib:cristellib:1.1.6@jar",
           "name": "Cristel Lib",
           "type": "ForgeMod",
@@ -25293,6 +25372,16 @@
             "size": 1320675,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "com.hrznstudio:emojiful:4.2.0@jar",
+          "name": "Emojiful",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 262412,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/Emojiful-Forge-1.20.1-4.2.0.jar",
+            "MD5": "0ba360de4747e64c6325b74c0055479a"
           }
         },
         {
@@ -25586,6 +25675,16 @@
           }
         },
         {
+          "id": "com.py:hccollectorsalbumforge:1.0.1@jar",
+          "name": "HunosCraft Collectors Album",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1165409,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/hccollectorsalbumforge-1.0.1.jar",
+            "MD5": "16352725c1aca1b52cfea702b72a8837"
+          }
+        },
+        {
           "id": "net.joefoxe:hexerei:1.20.1-0.4.2.3@jar",
           "name": "Hexerei",
           "type": "ForgeMod",
@@ -25743,6 +25842,16 @@
             "size": 93291,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/justhammers-forge-2.0.3+mc1.20.1.jar",
             "MD5": "fd4ce938613c381b4116589243efc668"
+          }
+        },
+        {
+          "id": "de.keksuccino:justzoom:2.1.1@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 204574,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "MD5": "758fe904b5a22ce7b2df824c1a064858"
           }
         },
         {
@@ -26566,6 +26675,46 @@
           }
         },
         {
+          "id": "me.srrapero720:waterframes:2.1.22@jar",
+          "name": "WaterFrames",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 255481,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+            "MD5": "595a2467900abcdf00b3059c56fc0d0f"
+          }
+        },
+        {
+          "id": "org.watermedia.youtube.loaders:watermedia_youtube_plugin:2.1.2@jar",
+          "name": "WaterMedia YT Plugin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3830072,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/watermedia_youtube_plugin-2.1.2.jar",
+            "MD5": "5b0ed7502f1d3c0553e6d536d5a74d4a"
+          }
+        },
+        {
+          "id": "org.watermedia.loaders:watermedia:2.1.37@jar",
+          "name": "WaterMedia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37046674,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/watermedia-2.1.37.jar",
+            "MD5": "4a09ad3ea22ad258802605b8aa929bbd"
+          }
+        },
+        {
+          "id": "me.srrapero720:watervision:0.1.0-alpha@jar",
+          "name": "WaterVision",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82079,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+            "MD5": "c934bcbabeb242ce7da79e3f16d1406c"
+          }
+        },
+        {
           "id": "com.corosus.watut.loader:watut:1.20.1-1.2.3@jar",
           "name": "What Are They Up To",
           "type": "ForgeMod",
@@ -26573,16 +26722,6 @@
             "size": 435496,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/watut-forge-1.20.1-1.2.3.jar",
             "MD5": "345d3ecdf94dffaa0e3ba55538c65f80"
-          }
-        },
-        {
-          "id": "com.atila.waystoneshunostowers:waystones_hunos_towers:1.0.0@jar",
-          "name": "Waystones: Hunos Towers",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7796427,
-            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/forgemods/required/waystones_hunos_towers-1.0.0.jar",
-            "MD5": "09b6746c4b195dc6cc15d729d7fb814b"
           }
         },
         {
