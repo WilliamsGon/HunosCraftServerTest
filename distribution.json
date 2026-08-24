@@ -3698,7 +3698,7 @@
           "name": "player-defined.json",
           "type": "File",
           "artifact": {
-            "size": 658,
+            "size": 647,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/integrationHints/player-defined.json",
             "path": "config/inventoryprofilesnext/integrationHints/player-defined.json"
           }
@@ -3708,9 +3708,59 @@
           "name": "inventoryprofiles.json",
           "type": "File",
           "artifact": {
-            "size": 440,
+            "size": 606,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
             "path": "config/inventoryprofilesnext/inventoryprofiles.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/Mundo%20nuevo/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/Mundo nuevo/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/New%20World/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/New World/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/New%20World/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/New World/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/New%20World%20-%20Mods/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/New World - Mods/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/New%20World%20-%20Mods/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/New World - Mods/villager-trading-config.json"
           }
         },
         {
@@ -3734,6 +3784,26 @@
           }
         },
         {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/Test/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/Test/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/Test/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/Test/villager-trading-config.json"
+          }
+        },
+        {
           "id": "villager-trading-config.json",
           "name": "villager-trading-config.json",
           "type": "File",
@@ -3741,6 +3811,116 @@
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/villager-trading-config.json",
             "path": "config/inventoryprofilesnext/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/world/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/world/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/world/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/world/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&1f6d&eb0e&88b5&6fba]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&1f6d&eb0e&88b5&6fba]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&208a&26ef&d6c3&341e]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&208a&26ef&d6c3&341e]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&6979&468f&1c64&d08]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&6979&468f&1c64&d08]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "lockSlots.txt",
+          "name": "lockSlots.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/lockSlots.txt",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/lockSlots.txt"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c5f&fb3b&b267&5ef0]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c5f&fb3b&b267&5ef0]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&90b3&a472&ac80&beca]&25565/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&90b3&a472&ac80&beca]&25565/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&99c0&5587&1090&4e44]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&99c0&5587&1090&4e44]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&e511&e6b4&f293&80df]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&e511&e6b4&f293&80df]&25566/villager-trading-config.json"
           }
         },
         {
@@ -23910,7 +24090,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 16363,
+            "size": 16663,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/Hunos-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -27810,7 +27990,7 @@
           "name": "player-defined.json",
           "type": "File",
           "artifact": {
-            "size": 658,
+            "size": 647,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/integrationHints/player-defined.json",
             "path": "config/inventoryprofilesnext/integrationHints/player-defined.json"
           }
@@ -27820,9 +28000,59 @@
           "name": "inventoryprofiles.json",
           "type": "File",
           "artifact": {
-            "size": 440,
+            "size": 606,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/inventoryprofiles.json",
             "path": "config/inventoryprofilesnext/inventoryprofiles.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/Mundo%20nuevo/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/Mundo nuevo/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/New%20World/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/New World/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/New%20World/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/New World/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/New%20World%20-%20Mods/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/New World - Mods/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/New%20World%20-%20Mods/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/New World - Mods/villager-trading-config.json"
           }
         },
         {
@@ -27846,6 +28076,26 @@
           }
         },
         {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/Test/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/Test/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/Test/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/Test/villager-trading-config.json"
+          }
+        },
+        {
           "id": "villager-trading-config.json",
           "name": "villager-trading-config.json",
           "type": "File",
@@ -27853,6 +28103,116 @@
             "size": 1177,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/villager-trading-config.json",
             "path": "config/inventoryprofilesnext/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "prev-villager-trading-config.json",
+          "name": "prev-villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/world/prev-villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/world/prev-villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/world/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/world/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&1f6d&eb0e&88b5&6fba]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&1f6d&eb0e&88b5&6fba]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&208a&26ef&d6c3&341e]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&208a&26ef&d6c3&341e]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&6979&468f&1c64&d08]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&6979&468f&1c64&d08]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "lockSlots.txt",
+          "name": "lockSlots.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/lockSlots.txt",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/lockSlots.txt"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c08&ffc1&995e&e1ec]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c5f&fb3b&b267&5ef0]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&7c5f&fb3b&b267&5ef0]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&90b3&a472&ac80&beca]&25565/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&90b3&a472&ac80&beca]&25565/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&99c0&5587&1090&4e44]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&99c0&5587&1090&4e44]&25566/villager-trading-config.json"
+          }
+        },
+        {
+          "id": "villager-trading-config.json",
+          "name": "villager-trading-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/config/inventoryprofilesnext/[2803&2a00&9&2a4c&e511&e6b4&f293&80df]&25566/villager-trading-config.json",
+            "path": "config/inventoryprofilesnext/[2803&2a00&9&2a4c&e511&e6b4&f293&80df]&25566/villager-trading-config.json"
           }
         },
         {
@@ -48022,7 +48382,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 16363,
+            "size": 16663,
             "url": "https://williamsgon.github.io/HunosCraftServerTest/servers/HunosLite-1.20.1/files/options.txt",
             "path": "options.txt"
           }
